@@ -1,0 +1,137 @@
+[
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ack",
+  "ts": "1710064593.000000",
+  "thread_ts": "1710064593.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "same as last week I think",
+  "ts": "1710065013.000000",
+  "thread_ts": "1710064593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1710065433.000000",
+  "thread_ts": "1710064593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "see above",
+  "ts": "1710065851.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1710067282.000000",
+  "thread_ts": "1710067282.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": ":eyes:",
+  "ts": "1710067512.000000",
+  "thread_ts": "1710067282.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "yeah that's the one",
+  "ts": "1710068220.000000",
+  "thread_ts": "1710067282.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1710068251.000000",
+  "thread_ts": "1710067282.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1710068804.000000",
+  "thread_ts": "1710067282.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "hmm interesting",
+  "ts": "1710068929.000000",
+  "thread_ts": "1710067282.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1710069437.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1710071953.000000",
+  "thread_ts": "1710071953.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "lgtm :+1:",
+  "ts": "1710072251.000000",
+  "thread_ts": "1710071953.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": ":eyes:",
+  "ts": "1710073597.000000",
+  "thread_ts": "1710073597.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "let's not do that on a Friday",
+  "ts": "1710074343.000000",
+  "thread_ts": "1710073597.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1710075139.000000",
+  "thread_ts": "1710073597.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1710075694.000000",
+  "thread_ts": "1710073597.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "+1",
+  "ts": "1710076463.000000",
+  "thread_ts": "1710073597.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1710076730.000000",
+  "thread_ts": "1710073597.000000"
+ }
+]

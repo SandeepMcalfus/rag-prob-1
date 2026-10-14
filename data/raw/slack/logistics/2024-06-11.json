@@ -1,0 +1,140 @@
+[
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1718099035.000000",
+  "thread_ts": "1718099035.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "<@U1009> shipping labels are rendered by a small service called labelgen that outputs PDF via wkhtmltopdf",
+  "ts": "1718099377.000000",
+  "thread_ts": "1718099035.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718102755.000000",
+  "thread_ts": "1718102755.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718103544.000000",
+  "thread_ts": "1718102755.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "let's not do that on a Friday",
+  "ts": "1718103696.000000",
+  "thread_ts": "1718102755.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1718107668.000000",
+  "thread_ts": "1718107668.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718108289.000000",
+  "thread_ts": "1718107668.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "lgtm :+1:",
+  "ts": "1718108909.000000",
+  "thread_ts": "1718107668.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can someone review my PR",
+  "ts": "1718109443.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1718110125.000000",
+  "thread_ts": "1718110125.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "is staging down again?",
+  "ts": "1718110658.000000",
+  "thread_ts": "1718110125.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1718111465.000000",
+  "thread_ts": "1718110125.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "+1",
+  "ts": "1718113153.000000",
+  "thread_ts": "1718113153.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ok merged",
+  "ts": "1718113417.000000",
+  "thread_ts": "1718113153.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1718116039.000000",
+  "thread_ts": "1718116039.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1718116843.000000",
+  "thread_ts": "1718116039.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1718120409.000000",
+  "thread_ts": "1718120409.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "same as last week I think",
+  "ts": "1718120750.000000",
+  "thread_ts": "1718120409.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "rolling back just in case",
+  "ts": "1718121096.000000"
+ }
+]

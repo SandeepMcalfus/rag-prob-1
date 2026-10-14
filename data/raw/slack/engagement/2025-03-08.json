@@ -1,0 +1,110 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "hmm interesting",
+  "ts": "1741427313.000000",
+  "thread_ts": "1741427313.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "is staging down again?",
+  "ts": "1741427988.000000",
+  "thread_ts": "1741427313.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "we discussed this in the arch sync",
+  "ts": "1741428437.000000",
+  "thread_ts": "1741427313.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "taking a look",
+  "ts": "1741428822.000000",
+  "thread_ts": "1741427313.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "ticket filed",
+  "ts": "1741429379.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "thanks!",
+  "ts": "1741431706.000000",
+  "thread_ts": "1741431706.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "+1",
+  "ts": "1741432300.000000",
+  "thread_ts": "1741431706.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1741436165.000000",
+  "thread_ts": "1741436165.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1741436789.000000",
+  "thread_ts": "1741436165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can we sync after standup?",
+  "ts": "1741437398.000000",
+  "thread_ts": "1741436165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "see above",
+  "ts": "1741438200.000000",
+  "thread_ts": "1741436165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "we discussed this in the arch sync",
+  "ts": "1741438814.000000",
+  "thread_ts": "1741436165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1741439668.000000",
+  "thread_ts": "1741436165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": ":eyes:",
+  "ts": "1741443196.000000",
+  "thread_ts": "1741443196.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can someone review my PR",
+  "ts": "1741444048.000000",
+  "thread_ts": "1741443196.000000"
+ }
+]

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "engineering-knowledge": {
+      "command": "/ABSOLUTE/PATH/eng-rag/.venv/bin/python",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "/ABSOLUTE/PATH/eng-rag",
+      "env": { "RAG_INDEX_DIR": "/ABSOLUTE/PATH/eng-rag/indexes/default" }
+    }
+  }
+}

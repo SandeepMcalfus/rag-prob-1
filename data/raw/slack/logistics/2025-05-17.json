@@ -1,0 +1,154 @@
+[
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1747474018.000000",
+  "thread_ts": "1747474018.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1747474822.000000",
+  "thread_ts": "1747474018.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1747478544.000000",
+  "thread_ts": "1747478544.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1747478625.000000",
+  "thread_ts": "1747478544.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1747480842.000000",
+  "thread_ts": "1747480842.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ticket filed",
+  "ts": "1747481075.000000",
+  "thread_ts": "1747480842.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Infrastructure changes go through Terraform plans that need two approvals.",
+  "ts": "1747482658.000000",
+  "thread_ts": "1747482658.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "see above",
+  "ts": "1747482811.000000",
+  "thread_ts": "1747482658.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": ":eyes:",
+  "ts": "1747483225.000000",
+  "thread_ts": "1747482658.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "taking a look",
+  "ts": "1747483694.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "we discussed this in the arch sync",
+  "ts": "1747485132.000000",
+  "thread_ts": "1747485132.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": ":eyes:",
+  "ts": "1747485302.000000",
+  "thread_ts": "1747485132.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1747486084.000000",
+  "thread_ts": "1747485132.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": ":eyes:",
+  "ts": "1747486120.000000",
+  "thread_ts": "1747485132.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1747486413.000000",
+  "thread_ts": "1747485132.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "is staging down again?",
+  "ts": "1747487110.000000",
+  "thread_ts": "1747485132.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1747487894.000000",
+  "thread_ts": "1747487894.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1747488068.000000",
+  "thread_ts": "1747487894.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "is staging down again?",
+  "ts": "1747488529.000000",
+  "thread_ts": "1747487894.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1747488603.000000",
+  "thread_ts": "1747487894.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can we sync after standup?",
+  "ts": "1747489001.000000",
+  "thread_ts": "1747487894.000000"
+ }
+]

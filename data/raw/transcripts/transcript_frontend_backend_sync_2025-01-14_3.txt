@@ -1,0 +1,52 @@
+Meeting: Frontend-Backend Sync
+Date: 2025-01-14
+Attendees: Mateo Rossi, Priya Nair, Emma Larsen, Liam Chen
+Transcript generated automatically - may contain errors.
+
+[00:00:53] Emma Larsen: Nothing from my side. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:01:03] Priya Nair: Okay, any other updates? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:01:17] Emma Larsen: Is that a hard requirement or a nice-to-have? Every service has a README that links to its dashboards and runbook.
+[00:01:38] Liam Chen: Is that a hard requirement or a nice-to-have?
+[00:01:52] Liam Chen: Can everyone hear me? Yeah, okay.
+[00:02:43] Mateo Rossi: We had a similar discussion in Q3. Postmortems are blameless and are published within five business days.
+[00:03:23] Priya Nair: Okay, any other updates? The dashboards were updated to show saturation alongside latency and errors.
+[00:04:06] Liam Chen: Okay, any other updates?
+[00:05:03] Priya Nair: Uh, I'll share my screen.
+[00:05:19] Mateo Rossi: Let me check the dashboard real quick.
+[00:06:05] Emma Larsen: Nothing from my side.
+[00:06:39] Priya Nair: Can you put that in the notes? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:07:05] Liam Chen: Let's take that offline. On-call handover happens every Monday at 10:00 local time.
+[00:07:57] Emma Larsen: Makes sense to me.
+[00:08:40] Priya Nair: Is that a hard requirement or a nice-to-have? Infrastructure changes go through Terraform plans that need two approvals.
+[00:09:31] Emma Larsen: Let's take that offline.
+[00:10:20] Priya Nair: Nothing from my side. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:11:13] Mateo Rossi: [crosstalk] Postmortems are blameless and are published within five business days.
+[00:11:57] Liam Chen: I don't have context on that one, sorry.
+[00:12:32] Mateo Rossi: Nothing from my side. Every service has a README that links to its dashboards and runbook.
+[00:12:49] Mateo Rossi: Can everyone hear me? Yeah, okay. All services must expose Prometheus metrics on the /metrics path.
+[00:13:15] Emma Larsen: Let's take that offline.
+[00:14:07] Emma Larsen: Is that a hard requirement or a nice-to-have?
+[00:14:17] Emma Larsen: We had a similar discussion in Q3. Database schema migrations must be backward compatible for at least one release.
+[00:14:39] Liam Chen: We're slightly over time so let's move on. Infrastructure changes go through Terraform plans that need two approvals.
+[00:15:31] Mateo Rossi: Let me check the dashboard real quick. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:16:14] Mateo Rossi: Okay, um, so let's get started.
+[00:16:34] Liam Chen: We're slightly over time so let's move on.
+[00:17:27] Emma Larsen: Is that a hard requirement or a nice-to-have?
+[00:17:47] Emma Larsen: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:18:06] Priya Nair: Nothing from my side. The dashboards were updated to show saturation alongside latency and errors.
+[00:18:41] Emma Larsen: Can you put that in the notes? Postmortems are blameless and are published within five business days.
+[00:19:05] Mateo Rossi: Makes sense to me. Capacity planning for the holiday peak starts in September every year.
+[00:19:15] Priya Nair: Makes sense to me. On-call handover happens every Monday at 10:00 local time.
+[00:20:05] Emma Larsen: Okay, any other updates?
+[00:20:48] Emma Larsen: Sorry, I was on mute.
+[00:21:16] Priya Nair: Uh, I'll share my screen. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:21:34] Liam Chen: Let me check the dashboard real quick. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:21:55] Emma Larsen: Makes sense to me. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:22:51] Liam Chen: Okay, um, so let's get started. Container images are built once and promoted across environments by digest.
+[00:23:27] Priya Nair: We're slightly over time so let's move on.
+[00:24:18] Emma Larsen: Let me check the dashboard real quick.
+[00:24:33] Liam Chen: Can you put that in the notes? Infrastructure changes go through Terraform plans that need two approvals.
+[00:24:42] Emma Larsen: Nothing from my side.
+[00:25:18] Liam Chen: Can everyone hear me? Yeah, okay. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:25:46] Mateo Rossi: I think we covered that last time, right? Database schema migrations must be backward compatible for at least one release.
+[00:26:28] Mateo Rossi: Sorry, I was on mute. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.

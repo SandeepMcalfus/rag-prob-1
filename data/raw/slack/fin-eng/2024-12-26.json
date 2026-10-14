@@ -1,0 +1,192 @@
+[
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1735204954.000000",
+  "thread_ts": "1735204954.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "rolling back just in case",
+  "ts": "1735205821.000000",
+  "thread_ts": "1735204954.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "dashboards look fine on my side",
+  "ts": "1735206568.000000",
+  "thread_ts": "1735204954.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1735207381.000000",
+  "thread_ts": "1735204954.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "yeah that's the one",
+  "ts": "1735207516.000000",
+  "thread_ts": "1735204954.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "thanks!",
+  "ts": "1735207900.000000",
+  "thread_ts": "1735207900.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1735208429.000000",
+  "thread_ts": "1735207900.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "done",
+  "ts": "1735209040.000000",
+  "thread_ts": "1735207900.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1735212388.000000",
+  "thread_ts": "1735212388.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "nope, just slow",
+  "ts": "1735213103.000000",
+  "thread_ts": "1735212388.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "same as last week I think",
+  "ts": "1735213662.000000",
+  "thread_ts": "1735212388.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "rolling back just in case",
+  "ts": "1735214377.000000",
+  "thread_ts": "1735212388.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1735216386.000000",
+  "thread_ts": "1735216386.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "is staging down again?",
+  "ts": "1735216999.000000",
+  "thread_ts": "1735216386.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1735217873.000000",
+  "thread_ts": "1735216386.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1735220036.000000",
+  "thread_ts": "1735220036.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "we discussed this in the arch sync",
+  "ts": "1735220566.000000",
+  "thread_ts": "1735220036.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Infrastructure changes go through Terraform plans that need two approvals.",
+  "ts": "1735221481.000000",
+  "thread_ts": "1735221481.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1735221999.000000",
+  "thread_ts": "1735221481.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1735222837.000000",
+  "thread_ts": "1735221481.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ticket filed",
+  "ts": "1735224027.000000",
+  "thread_ts": "1735224027.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1735224360.000000",
+  "thread_ts": "1735224027.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1735228076.000000",
+  "thread_ts": "1735228076.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1735228900.000000",
+  "thread_ts": "1735228076.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "taking a look",
+  "ts": "1735229078.000000",
+  "thread_ts": "1735228076.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "done",
+  "ts": "1735229244.000000",
+  "thread_ts": "1735228076.000000"
+ }
+]

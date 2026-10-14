@@ -1,0 +1,219 @@
+[
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1707642528.000000",
+  "thread_ts": "1707642528.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ack",
+  "ts": "1707642691.000000",
+  "thread_ts": "1707642528.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "hmm interesting",
+  "ts": "1707645914.000000",
+  "thread_ts": "1707645914.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "thanks!",
+  "ts": "1707646017.000000",
+  "thread_ts": "1707645914.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "taking a look",
+  "ts": "1707646805.000000",
+  "thread_ts": "1707645914.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "nope, just slow",
+  "ts": "1707647235.000000",
+  "thread_ts": "1707645914.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1707650163.000000",
+  "thread_ts": "1707650163.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "same as last week I think",
+  "ts": "1707650642.000000",
+  "thread_ts": "1707650163.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "see above",
+  "ts": "1707654500.000000",
+  "thread_ts": "1707654500.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can someone review my PR",
+  "ts": "1707654573.000000",
+  "thread_ts": "1707654500.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "lgtm :+1:",
+  "ts": "1707655083.000000",
+  "thread_ts": "1707654500.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "hmm interesting",
+  "ts": "1707655327.000000",
+  "thread_ts": "1707654500.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ack",
+  "ts": "1707655503.000000",
+  "thread_ts": "1707654500.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1707655850.000000",
+  "thread_ts": "1707654500.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "is staging down again?",
+  "ts": "1707658895.000000",
+  "thread_ts": "1707658895.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "let's not do that on a Friday",
+  "ts": "1707659600.000000",
+  "thread_ts": "1707658895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "taking a look",
+  "ts": "1707660183.000000",
+  "thread_ts": "1707658895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "ticket filed",
+  "ts": "1707660407.000000",
+  "thread_ts": "1707658895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "see above",
+  "ts": "1707660640.000000",
+  "thread_ts": "1707658895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "is staging down again?",
+  "ts": "1707660782.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1707664762.000000",
+  "thread_ts": "1707664762.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "done",
+  "ts": "1707665424.000000",
+  "thread_ts": "1707664762.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "nope, just slow",
+  "ts": "1707665716.000000",
+  "thread_ts": "1707664762.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1707666670.000000",
+  "thread_ts": "1707666670.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "yeah that's the one",
+  "ts": "1707667024.000000",
+  "thread_ts": "1707666670.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can someone review my PR",
+  "ts": "1707667166.000000",
+  "thread_ts": "1707666670.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1707667648.000000",
+  "thread_ts": "1707666670.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1707670616.000000",
+  "thread_ts": "1707670616.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1707670678.000000",
+  "thread_ts": "1707670616.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ok merged",
+  "ts": "1707671458.000000",
+  "thread_ts": "1707670616.000000"
+ }
+]

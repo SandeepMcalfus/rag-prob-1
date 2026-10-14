@@ -1,0 +1,314 @@
+[
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1737020963.000000",
+  "thread_ts": "1737020963.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "+1",
+  "ts": "1737021514.000000",
+  "thread_ts": "1737020963.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": ":eyes:",
+  "ts": "1737022017.000000",
+  "thread_ts": "1737020963.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1737025375.000000",
+  "thread_ts": "1737025375.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1737025405.000000",
+  "thread_ts": "1737025375.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ack",
+  "ts": "1737025608.000000",
+  "thread_ts": "1737025375.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1737025696.000000",
+  "thread_ts": "1737025375.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ok merged",
+  "ts": "1737026434.000000",
+  "thread_ts": "1737025375.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "can we sync after standup?",
+  "ts": "1737027164.000000",
+  "thread_ts": "1737025375.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": ":eyes:",
+  "ts": "1737027851.000000",
+  "thread_ts": "1737027851.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "nope, just slow",
+  "ts": "1737028522.000000",
+  "thread_ts": "1737027851.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1737028879.000000",
+  "thread_ts": "1737028879.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "+1",
+  "ts": "1737029275.000000",
+  "thread_ts": "1737028879.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1737029555.000000",
+  "thread_ts": "1737028879.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "we discussed this in the arch sync",
+  "ts": "1737030231.000000",
+  "thread_ts": "1737028879.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ticket filed",
+  "ts": "1737030330.000000",
+  "thread_ts": "1737028879.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "same as last week I think",
+  "ts": "1737030611.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1737031987.000000",
+  "thread_ts": "1737031987.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ticket filed",
+  "ts": "1737032345.000000",
+  "thread_ts": "1737031987.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "done",
+  "ts": "1737033191.000000",
+  "thread_ts": "1737031987.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "same as last week I think",
+  "ts": "1737033425.000000",
+  "thread_ts": "1737031987.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "see above",
+  "ts": "1737034247.000000",
+  "thread_ts": "1737031987.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "+1",
+  "ts": "1737034360.000000",
+  "thread_ts": "1737031987.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "dashboards look fine on my side",
+  "ts": "1737034906.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1737035524.000000",
+  "thread_ts": "1737035524.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1737035979.000000",
+  "thread_ts": "1737035524.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1737036333.000000",
+  "thread_ts": "1737035524.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1737037131.000000",
+  "thread_ts": "1737035524.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1737037724.000000",
+  "thread_ts": "1737035524.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1737038536.000000",
+  "thread_ts": "1737035524.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1737042271.000000",
+  "thread_ts": "1737042271.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can someone review my PR",
+  "ts": "1737042461.000000",
+  "thread_ts": "1737042271.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ack",
+  "ts": "1737043209.000000",
+  "thread_ts": "1737042271.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": ":eyes:",
+  "ts": "1737043802.000000",
+  "thread_ts": "1737042271.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1737044533.000000",
+  "thread_ts": "1737042271.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "thanks!",
+  "ts": "1737045124.000000",
+  "thread_ts": "1737042271.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "hmm interesting",
+  "ts": "1737045558.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1737048602.000000",
+  "thread_ts": "1737048602.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1737048817.000000",
+  "thread_ts": "1737048602.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "done",
+  "ts": "1737049020.000000",
+  "thread_ts": "1737048602.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": ":eyes:",
+  "ts": "1737049240.000000",
+  "thread_ts": "1737048602.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1737049798.000000",
+  "thread_ts": "1737048602.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1737050418.000000",
+  "thread_ts": "1737048602.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "is staging down again?",
+  "ts": "1737050855.000000"
+ }
+]

@@ -1,0 +1,161 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1740304137.000000",
+  "thread_ts": "1740304137.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "can someone review my PR",
+  "ts": "1740304712.000000",
+  "thread_ts": "1740304137.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "hmm interesting",
+  "ts": "1740305039.000000",
+  "thread_ts": "1740304137.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ok merged",
+  "ts": "1740305111.000000",
+  "thread_ts": "1740304137.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "nope, just slow",
+  "ts": "1740305476.000000",
+  "thread_ts": "1740304137.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": ":eyes:",
+  "ts": "1740307895.000000",
+  "thread_ts": "1740307895.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "we discussed this in the arch sync",
+  "ts": "1740308496.000000",
+  "thread_ts": "1740307895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "done",
+  "ts": "1740308795.000000",
+  "thread_ts": "1740307895.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1740311450.000000",
+  "thread_ts": "1740311450.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "see above",
+  "ts": "1740311949.000000",
+  "thread_ts": "1740311450.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "will do after lunch",
+  "ts": "1740312749.000000",
+  "thread_ts": "1740311450.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "hmm interesting",
+  "ts": "1740313394.000000",
+  "thread_ts": "1740311450.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1740314166.000000",
+  "thread_ts": "1740311450.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1740317689.000000",
+  "thread_ts": "1740317689.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "taking a look",
+  "ts": "1740318582.000000",
+  "thread_ts": "1740317689.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ack",
+  "ts": "1740320343.000000",
+  "thread_ts": "1740320343.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "+1",
+  "ts": "1740320734.000000",
+  "thread_ts": "1740320343.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": ":eyes:",
+  "ts": "1740321351.000000",
+  "thread_ts": "1740320343.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "let's not do that on a Friday",
+  "ts": "1740321717.000000",
+  "thread_ts": "1740320343.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "same as last week I think",
+  "ts": "1740321880.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1740325869.000000",
+  "thread_ts": "1740325869.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1740326051.000000",
+  "thread_ts": "1740325869.000000"
+ }
+]

@@ -1,0 +1,124 @@
+[
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1725098785.000000",
+  "thread_ts": "1725098785.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1725099431.000000",
+  "thread_ts": "1725098785.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "hmm interesting",
+  "ts": "1725099565.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "We should revisit the alert thresholds after the next game day.",
+  "ts": "1725101398.000000",
+  "thread_ts": "1725101398.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": ":eyes:",
+  "ts": "1725102133.000000",
+  "thread_ts": "1725101398.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "can someone review my PR",
+  "ts": "1725102289.000000",
+  "thread_ts": "1725101398.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1725102513.000000",
+  "thread_ts": "1725101398.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ok merged",
+  "ts": "1725105593.000000",
+  "thread_ts": "1725105593.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1725105701.000000",
+  "thread_ts": "1725105593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "we discussed this in the arch sync",
+  "ts": "1725106365.000000",
+  "thread_ts": "1725105593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1725106593.000000",
+  "thread_ts": "1725105593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1725106618.000000",
+  "thread_ts": "1725105593.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1725110458.000000",
+  "thread_ts": "1725110458.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ok merged",
+  "ts": "1725111330.000000",
+  "thread_ts": "1725110458.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "rolling back just in case",
+  "ts": "1725111862.000000",
+  "thread_ts": "1725110458.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "nope, just slow",
+  "ts": "1725112515.000000",
+  "thread_ts": "1725110458.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "taking a look",
+  "ts": "1725113355.000000",
+  "thread_ts": "1725110458.000000"
+ }
+]

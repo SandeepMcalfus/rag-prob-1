@@ -1,0 +1,289 @@
+[
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738142236.000000",
+  "thread_ts": "1738142236.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "yeah that's the one",
+  "ts": "1738142291.000000",
+  "thread_ts": "1738142236.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "same as last week I think",
+  "ts": "1738142494.000000",
+  "thread_ts": "1738142236.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "is staging down again?",
+  "ts": "1738143212.000000",
+  "thread_ts": "1738142236.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1738143708.000000",
+  "thread_ts": "1738142236.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1738144423.000000",
+  "thread_ts": "1738144423.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ticket filed",
+  "ts": "1738144574.000000",
+  "thread_ts": "1738144423.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738144987.000000",
+  "thread_ts": "1738144423.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "hmm interesting",
+  "ts": "1738145458.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1738145981.000000",
+  "thread_ts": "1738145981.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "rolling back just in case",
+  "ts": "1738146515.000000",
+  "thread_ts": "1738145981.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "dashboards look fine on my side",
+  "ts": "1738147264.000000",
+  "thread_ts": "1738145981.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "can we sync after standup?",
+  "ts": "1738147657.000000",
+  "thread_ts": "1738145981.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "nope, just slow",
+  "ts": "1738148111.000000",
+  "thread_ts": "1738145981.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "taking a look",
+  "ts": "1738148821.000000",
+  "thread_ts": "1738145981.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "is staging down again?",
+  "ts": "1738149145.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1738152774.000000",
+  "thread_ts": "1738152774.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "lgtm :+1:",
+  "ts": "1738153082.000000",
+  "thread_ts": "1738152774.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "+1",
+  "ts": "1738155267.000000",
+  "thread_ts": "1738155267.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738155632.000000",
+  "thread_ts": "1738155267.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1738156437.000000",
+  "thread_ts": "1738155267.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "same as last week I think",
+  "ts": "1738156730.000000",
+  "thread_ts": "1738155267.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738157101.000000",
+  "thread_ts": "1738157101.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "done",
+  "ts": "1738157486.000000",
+  "thread_ts": "1738157101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1738158050.000000",
+  "thread_ts": "1738157101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "same as last week I think",
+  "ts": "1738158324.000000",
+  "thread_ts": "1738157101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can we sync after standup?",
+  "ts": "1738158891.000000",
+  "thread_ts": "1738157101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ack",
+  "ts": "1738159655.000000",
+  "thread_ts": "1738157101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": ":eyes:",
+  "ts": "1738161080.000000",
+  "thread_ts": "1738161080.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "lgtm :+1:",
+  "ts": "1738161569.000000",
+  "thread_ts": "1738161080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "rolling back just in case",
+  "ts": "1738161923.000000",
+  "thread_ts": "1738161080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1738162093.000000",
+  "thread_ts": "1738161080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "is staging down again?",
+  "ts": "1738162504.000000",
+  "thread_ts": "1738161080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can someone review my PR",
+  "ts": "1738162869.000000",
+  "thread_ts": "1738161080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1738163260.000000",
+  "thread_ts": "1738163260.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1738163399.000000",
+  "thread_ts": "1738163260.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1738166220.000000",
+  "thread_ts": "1738166220.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ok merged",
+  "ts": "1738166724.000000",
+  "thread_ts": "1738166220.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1738167025.000000",
+  "thread_ts": "1738166220.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "is staging down again?",
+  "ts": "1738167328.000000",
+  "thread_ts": "1738166220.000000"
+ }
+]

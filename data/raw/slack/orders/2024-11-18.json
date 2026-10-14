@@ -1,0 +1,137 @@
+[
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1731922122.000000",
+  "thread_ts": "1731922122.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "see above",
+  "ts": "1731922591.000000",
+  "thread_ts": "1731922122.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1731922906.000000",
+  "thread_ts": "1731922122.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "we discussed this in the arch sync",
+  "ts": "1731923163.000000",
+  "thread_ts": "1731922122.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1731923434.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "+1",
+  "ts": "1731926825.000000",
+  "thread_ts": "1731926825.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1731927663.000000",
+  "thread_ts": "1731926825.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1731928183.000000",
+  "thread_ts": "1731926825.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1731928411.000000",
+  "thread_ts": "1731926825.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": ":eyes:",
+  "ts": "1731929180.000000",
+  "thread_ts": "1731926825.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": ":eyes:",
+  "ts": "1731929329.000000",
+  "thread_ts": "1731926825.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1731932562.000000",
+  "thread_ts": "1731932562.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "taking a look",
+  "ts": "1731932851.000000",
+  "thread_ts": "1731932562.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "done",
+  "ts": "1731933156.000000",
+  "thread_ts": "1731932562.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "taking a look",
+  "ts": "1731933538.000000",
+  "thread_ts": "1731932562.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "taking a look",
+  "ts": "1731934302.000000",
+  "thread_ts": "1731932562.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1731934705.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1731937588.000000",
+  "thread_ts": "1731937588.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "let's not do that on a Friday",
+  "ts": "1731937710.000000",
+  "thread_ts": "1731937588.000000"
+ }
+]

@@ -1,0 +1,7 @@
+<!DOCTYPE html><html><head><title>Deployment FAQ</title><meta name="last-updated" content="2024-09-02">
+<script>window.analytics && analytics.page();</script><style>.nav{color:#333}</style></head><body>
+<div class="nav">Home | Engineering | Wiki | Search | Log out</div>
+<h1>Deployment FAQ</h1><div class='qa'><h3>How do deployments work?</h3><p>We use GitOps: CI bumps the image tag in the Helm chart values and ArgoCD syncs the change.</p></div>
+<div class='qa'><h3>Can I deploy on Fridays?</h3><p>Low-risk changes only, and only before the freeze window.</p></div>
+<div class='qa'><h3>How do I roll back?</h3><p>Use ArgoCD history to roll back to the previous synced revision.</p></div>
+<footer>© ACME Corp · Internal wiki · Report an issue with this page</footer></body></html>

@@ -1,0 +1,265 @@
+[
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "yeah that's the one",
+  "ts": "1705310618.000000",
+  "thread_ts": "1705310618.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "let's not do that on a Friday",
+  "ts": "1705311350.000000",
+  "thread_ts": "1705310618.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1705311650.000000",
+  "thread_ts": "1705310618.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1705312255.000000",
+  "thread_ts": "1705310618.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "can someone review my PR",
+  "ts": "1705312897.000000",
+  "thread_ts": "1705310618.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1705315136.000000",
+  "thread_ts": "1705315136.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "+1",
+  "ts": "1705315185.000000",
+  "thread_ts": "1705315136.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1705316209.000000",
+  "thread_ts": "1705316209.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": ":eyes:",
+  "ts": "1705316286.000000",
+  "thread_ts": "1705316209.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "can we sync after standup?",
+  "ts": "1705316627.000000",
+  "thread_ts": "1705316209.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1705316931.000000",
+  "thread_ts": "1705316209.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "we discussed this in the arch sync",
+  "ts": "1705317291.000000",
+  "thread_ts": "1705316209.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1705318284.000000",
+  "thread_ts": "1705318284.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1705318984.000000",
+  "thread_ts": "1705318284.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "we discussed this in the arch sync",
+  "ts": "1705319861.000000",
+  "thread_ts": "1705318284.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ok merged",
+  "ts": "1705319947.000000",
+  "thread_ts": "1705318284.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1705320118.000000",
+  "thread_ts": "1705318284.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "same as last week I think",
+  "ts": "1705320223.000000",
+  "thread_ts": "1705318284.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "thanks!",
+  "ts": "1705320486.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "We should revisit the alert thresholds after the next game day.",
+  "ts": "1705321494.000000",
+  "thread_ts": "1705321494.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1705321873.000000",
+  "thread_ts": "1705321494.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ticket filed",
+  "ts": "1705322370.000000",
+  "thread_ts": "1705321494.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": ":eyes:",
+  "ts": "1705322969.000000",
+  "thread_ts": "1705321494.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1705323121.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1705323774.000000",
+  "thread_ts": "1705323774.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "can someone review my PR",
+  "ts": "1705324016.000000",
+  "thread_ts": "1705323774.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "taking a look",
+  "ts": "1705324507.000000",
+  "thread_ts": "1705323774.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1705327595.000000",
+  "thread_ts": "1705327595.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "let's not do that on a Friday",
+  "ts": "1705328003.000000",
+  "thread_ts": "1705327595.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1705328205.000000",
+  "thread_ts": "1705327595.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1705328803.000000",
+  "thread_ts": "1705327595.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1705329055.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1705330080.000000",
+  "thread_ts": "1705330080.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "rolling back just in case",
+  "ts": "1705330601.000000",
+  "thread_ts": "1705330080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "hmm interesting",
+  "ts": "1705330978.000000",
+  "thread_ts": "1705330080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "can someone review my PR",
+  "ts": "1705331458.000000",
+  "thread_ts": "1705330080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "nope, just slow",
+  "ts": "1705331912.000000"
+ }
+]

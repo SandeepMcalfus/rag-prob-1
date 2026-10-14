@@ -1,0 +1,69 @@
+Meeting: Payments Standup
+Date: 2024-10-03
+Attendees: Omar Haddad, Fatima Zahra, Marcus Lee, Noah Fischer
+Transcript generated automatically - may contain errors.
+
+[00:00:51] Fatima Zahra: We had a similar discussion in Q3.
+[00:01:22] Noah Fischer: Sorry, I was on mute. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:01:53] Noah Fischer: Makes sense to me.
+[00:02:16] Omar Haddad: Okay, um, so let's get started.
+[00:02:55] Noah Fischer: I think we covered that last time, right? Service-level objectives are reviewed quarterly with product owners.
+[00:03:48] Noah Fischer: Is that a hard requirement or a nice-to-have?
+[00:04:14] Noah Fischer: Is that a hard requirement or a nice-to-have? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:04:50] Marcus Lee: Um, by the way, the feature flag for enforcing 3-D Secure is pay.3ds.enforce, it's off in staging.
+[00:05:09] Noah Fischer: Sorry, I was on mute.
+[00:05:37] Marcus Lee: Sorry, I was on mute. Infrastructure changes go through Terraform plans that need two approvals.
+[00:06:04] Fatima Zahra: Uh, I'll share my screen.
+[00:06:44] Fatima Zahra: I think we covered that last time, right?
+[00:07:42] Fatima Zahra: We're slightly over time so let's move on.
+[00:07:51] Marcus Lee: [crosstalk] Database schema migrations must be backward compatible for at least one release.
+[00:08:07] Omar Haddad: Sorry, I was on mute. Dependency upgrades are batched weekly by the platform bot.
+[00:08:48] Noah Fischer: That's a good question, I'm not sure.
+[00:09:00] Fatima Zahra: Makes sense to me.
+[00:09:36] Noah Fischer: Nothing from my side. Database schema migrations must be backward compatible for at least one release.
+[00:10:24] Fatima Zahra: Let's take that offline. The dashboards were updated to show saturation alongside latency and errors.
+[00:10:39] Fatima Zahra: I don't have context on that one, sorry. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:11:32] Fatima Zahra: [crosstalk]
+[00:12:13] Marcus Lee: Sorry, I was on mute. Database schema migrations must be backward compatible for at least one release.
+[00:12:38] Fatima Zahra: I don't have context on that one, sorry.
+[00:12:51] Fatima Zahra: Let's take that offline. On-call handover happens every Monday at 10:00 local time.
+[00:13:45] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:13:54] Omar Haddad: Can everyone hear me? Yeah, okay.
+[00:14:51] Marcus Lee: Is that a hard requirement or a nice-to-have?
+[00:15:25] Omar Haddad: Okay, any other updates?
+[00:16:07] Marcus Lee: I don't have context on that one, sorry. Every service has a README that links to its dashboards and runbook.
+[00:16:34] Noah Fischer: Sorry, I was on mute.
+[00:16:52] Noah Fischer: That's a good question, I'm not sure. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:17:21] Fatima Zahra: Makes sense to me.
+[00:17:49] Marcus Lee: Let me check the dashboard real quick. Container images are built once and promoted across environments by digest.
+[00:18:29] Omar Haddad: Makes sense to me. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:18:54] Noah Fischer: We're slightly over time so let's move on. The dashboards were updated to show saturation alongside latency and errors.
+[00:19:20] Noah Fischer: That's a good question, I'm not sure. All services must expose Prometheus metrics on the /metrics path.
+[00:20:20] Marcus Lee: Makes sense to me. All services must expose Prometheus metrics on the /metrics path.
+[00:20:59] Noah Fischer: Okay, any other updates?
+[00:21:38] Omar Haddad: Sorry, I was on mute.
+[00:22:18] Noah Fischer: We're slightly over time so let's move on. Container images are built once and promoted across environments by digest.
+[00:22:29] Omar Haddad: I don't have context on that one, sorry. Dependency upgrades are batched weekly by the platform bot.
+[00:22:55] Omar Haddad: I think we covered that last time, right? Service-level objectives are reviewed quarterly with product owners.
+[00:23:49] Marcus Lee: Let me check the dashboard real quick. Every service has a README that links to its dashboards and runbook.
+[00:24:00] Fatima Zahra: [crosstalk] Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:24:32] Noah Fischer: Can you put that in the notes?
+[00:25:19] Omar Haddad: Let's take that offline.
+[00:25:52] Marcus Lee: Makes sense to me. Container images are built once and promoted across environments by digest.
+[00:26:48] Fatima Zahra: Is that a hard requirement or a nice-to-have?
+[00:27:21] Omar Haddad: Can everyone hear me? Yeah, okay. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:28:20] Noah Fischer: Nothing from my side. On-call handover happens every Monday at 10:00 local time.
+[00:29:00] Fatima Zahra: Makes sense to me.
+[00:29:28] Fatima Zahra: Let me check the dashboard real quick.
+[00:30:23] Marcus Lee: Makes sense to me. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:31:05] Noah Fischer: I don't have context on that one, sorry. We should revisit the alert thresholds after the next game day.
+[00:31:36] Marcus Lee: I think we covered that last time, right?
+[00:32:21] Marcus Lee: Okay, um, so let's get started. Service-level objectives are reviewed quarterly with product owners.
+[00:33:10] Fatima Zahra: Can everyone hear me? Yeah, okay. All services must expose Prometheus metrics on the /metrics path.
+[00:33:51] Noah Fischer: Let's take that offline.
+[00:34:14] Omar Haddad: I think we covered that last time, right? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:34:42] Noah Fischer: Let's take that offline. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:35:16] Noah Fischer: Can everyone hear me? Yeah, okay.
+[00:35:57] Fatima Zahra: Makes sense to me.
+[00:36:35] Noah Fischer: Makes sense to me.
+[00:37:12] Marcus Lee: [crosstalk]

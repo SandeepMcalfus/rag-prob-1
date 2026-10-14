@@ -1,0 +1,266 @@
+[
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can we sync after standup?",
+  "ts": "1753348572.000000",
+  "thread_ts": "1753348572.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "same as last week I think",
+  "ts": "1753348768.000000",
+  "thread_ts": "1753348572.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "lgtm :+1:",
+  "ts": "1753349543.000000",
+  "thread_ts": "1753348572.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ok merged",
+  "ts": "1753349763.000000",
+  "thread_ts": "1753348572.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "we discussed this in the arch sync",
+  "ts": "1753350294.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "ack",
+  "ts": "1753352435.000000",
+  "thread_ts": "1753352435.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can someone review my PR",
+  "ts": "1753352830.000000",
+  "thread_ts": "1753352435.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "taking a look",
+  "ts": "1753354898.000000",
+  "thread_ts": "1753354898.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "same as last week I think",
+  "ts": "1753354925.000000",
+  "thread_ts": "1753354898.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "nope, just slow",
+  "ts": "1753354980.000000",
+  "thread_ts": "1753354898.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "thanks!",
+  "ts": "1753355700.000000",
+  "thread_ts": "1753354898.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1753355806.000000",
+  "thread_ts": "1753354898.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can we sync after standup?",
+  "ts": "1753356023.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "same as last week I think",
+  "ts": "1753358103.000000",
+  "thread_ts": "1753358103.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "is staging down again?",
+  "ts": "1753358816.000000",
+  "thread_ts": "1753358103.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "same as last week I think",
+  "ts": "1753359299.000000",
+  "thread_ts": "1753358103.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1753359995.000000",
+  "thread_ts": "1753358103.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "thanks!",
+  "ts": "1753360474.000000",
+  "thread_ts": "1753358103.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1753361119.000000",
+  "thread_ts": "1753358103.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "done",
+  "ts": "1753363902.000000",
+  "thread_ts": "1753363902.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1753364224.000000",
+  "thread_ts": "1753363902.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "taking a look",
+  "ts": "1753364720.000000",
+  "thread_ts": "1753363902.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1753365539.000000",
+  "thread_ts": "1753365539.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can someone review my PR",
+  "ts": "1753365963.000000",
+  "thread_ts": "1753365539.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "see above",
+  "ts": "1753366207.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "lgtm :+1:",
+  "ts": "1753369779.000000",
+  "thread_ts": "1753369779.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "see above",
+  "ts": "1753369874.000000",
+  "thread_ts": "1753369779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "taking a look",
+  "ts": "1753370459.000000",
+  "thread_ts": "1753369779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "nope, just slow",
+  "ts": "1753371016.000000",
+  "thread_ts": "1753369779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "yeah that's the one",
+  "ts": "1753371301.000000",
+  "thread_ts": "1753369779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ack",
+  "ts": "1753371883.000000",
+  "thread_ts": "1753369779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ack",
+  "ts": "1753372445.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1753376033.000000",
+  "thread_ts": "1753376033.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "thanks!",
+  "ts": "1753376126.000000",
+  "thread_ts": "1753376033.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1753376228.000000",
+  "thread_ts": "1753376033.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "dashboards look fine on my side",
+  "ts": "1753379318.000000",
+  "thread_ts": "1753379318.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1753380136.000000",
+  "thread_ts": "1753379318.000000"
+ }
+]

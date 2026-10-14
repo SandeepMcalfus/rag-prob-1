@@ -1,0 +1,290 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1728986573.000000",
+  "thread_ts": "1728986573.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1728987366.000000",
+  "thread_ts": "1728986573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1728987776.000000",
+  "thread_ts": "1728986573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "same as last week I think",
+  "ts": "1728988284.000000",
+  "thread_ts": "1728986573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "let's not do that on a Friday",
+  "ts": "1728988904.000000",
+  "thread_ts": "1728986573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1728991599.000000",
+  "thread_ts": "1728991599.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1728991966.000000",
+  "thread_ts": "1728991599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "same as last week I think",
+  "ts": "1728992056.000000",
+  "thread_ts": "1728991599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1728992715.000000",
+  "thread_ts": "1728991599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "can we sync after standup?",
+  "ts": "1728992888.000000",
+  "thread_ts": "1728991599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1728994501.000000",
+  "thread_ts": "1728994501.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "+1",
+  "ts": "1728994537.000000",
+  "thread_ts": "1728994501.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "rolling back just in case",
+  "ts": "1728994730.000000",
+  "thread_ts": "1728994501.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "is staging down again?",
+  "ts": "1728994946.000000",
+  "thread_ts": "1728994501.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1728995498.000000",
+  "thread_ts": "1728994501.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "same as last week I think",
+  "ts": "1728995844.000000",
+  "thread_ts": "1728994501.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": ":eyes:",
+  "ts": "1728999013.000000",
+  "thread_ts": "1728999013.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "done",
+  "ts": "1728999312.000000",
+  "thread_ts": "1728999013.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "taking a look",
+  "ts": "1729000007.000000",
+  "thread_ts": "1728999013.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1729000591.000000",
+  "thread_ts": "1728999013.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1729003447.000000",
+  "thread_ts": "1729003447.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1729003671.000000",
+  "thread_ts": "1729003447.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "lgtm :+1:",
+  "ts": "1729004088.000000",
+  "thread_ts": "1729003447.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1729004821.000000",
+  "thread_ts": "1729003447.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1729007220.000000",
+  "thread_ts": "1729007220.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1729007594.000000",
+  "thread_ts": "1729007220.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ok merged",
+  "ts": "1729008179.000000",
+  "thread_ts": "1729007220.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "yeah that's the one",
+  "ts": "1729008487.000000",
+  "thread_ts": "1729007220.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "we discussed this in the arch sync",
+  "ts": "1729011538.000000",
+  "thread_ts": "1729011538.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ack",
+  "ts": "1729011581.000000",
+  "thread_ts": "1729011538.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "taking a look",
+  "ts": "1729011849.000000",
+  "thread_ts": "1729011538.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "taking a look",
+  "ts": "1729012251.000000",
+  "thread_ts": "1729011538.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "see above",
+  "ts": "1729012856.000000",
+  "thread_ts": "1729011538.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1729012953.000000",
+  "thread_ts": "1729011538.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1729014650.000000",
+  "thread_ts": "1729014650.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "dashboards look fine on my side",
+  "ts": "1729015316.000000",
+  "thread_ts": "1729014650.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can we sync after standup?",
+  "ts": "1729015963.000000",
+  "thread_ts": "1729014650.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1729017080.000000",
+  "thread_ts": "1729017080.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "thanks!",
+  "ts": "1729017103.000000",
+  "thread_ts": "1729017080.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1729017244.000000"
+ }
+]

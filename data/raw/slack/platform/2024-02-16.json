@@ -1,0 +1,195 @@
+[
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1708074349.000000",
+  "thread_ts": "1708074349.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ack",
+  "ts": "1708074796.000000",
+  "thread_ts": "1708074349.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ticket filed",
+  "ts": "1708075376.000000",
+  "thread_ts": "1708074349.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1708075611.000000",
+  "thread_ts": "1708074349.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "lgtm :+1:",
+  "ts": "1708075798.000000",
+  "thread_ts": "1708074349.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "will do after lunch",
+  "ts": "1708076562.000000",
+  "thread_ts": "1708074349.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "can we sync after standup?",
+  "ts": "1708076791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1708077418.000000",
+  "thread_ts": "1708077418.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1708078028.000000",
+  "thread_ts": "1708077418.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1708078881.000000",
+  "thread_ts": "1708077418.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "we discussed this in the arch sync",
+  "ts": "1708079547.000000",
+  "thread_ts": "1708077418.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ack",
+  "ts": "1708080106.000000",
+  "thread_ts": "1708077418.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1708083708.000000",
+  "thread_ts": "1708083708.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "yeah that's the one",
+  "ts": "1708084222.000000",
+  "thread_ts": "1708083708.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1708085753.000000",
+  "thread_ts": "1708085753.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1708086593.000000",
+  "thread_ts": "1708085753.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "see above",
+  "ts": "1708089166.000000",
+  "thread_ts": "1708089166.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "let's not do that on a Friday",
+  "ts": "1708089286.000000",
+  "thread_ts": "1708089166.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1708089823.000000",
+  "thread_ts": "1708089166.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1708090603.000000",
+  "thread_ts": "1708089166.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "dashboards look fine on my side",
+  "ts": "1708091203.000000",
+  "thread_ts": "1708089166.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1708091429.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1708092000.000000",
+  "thread_ts": "1708092000.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "thanks!",
+  "ts": "1708092177.000000",
+  "thread_ts": "1708092000.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "dashboards look fine on my side",
+  "ts": "1708092228.000000",
+  "thread_ts": "1708092000.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1708092369.000000",
+  "thread_ts": "1708092000.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1708092887.000000",
+  "thread_ts": "1708092000.000000"
+ }
+]

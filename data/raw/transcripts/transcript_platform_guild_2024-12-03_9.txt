@@ -1,0 +1,69 @@
+Meeting: Platform Guild
+Date: 2024-12-03
+Attendees: Aisha Bello, Sofia Marquez, Noah Fischer, Mateo Rossi
+Transcript generated automatically - may contain errors.
+
+[00:00:21] Aisha Bello: Can you put that in the notes? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:01:02] Sofia Marquez: Is that a hard requirement or a nice-to-have?
+[00:01:16] Aisha Bello: Okay, any other updates?
+[00:02:02] Noah Fischer: That's a good question, I'm not sure.
+[00:02:30] Noah Fischer: Nothing from my side. On-call handover happens every Monday at 10:00 local time.
+[00:03:00] Sofia Marquez: Okay, any other updates? Dependency upgrades are batched weekly by the platform bot.
+[00:03:39] Sofia Marquez: We're slightly over time so let's move on.
+[00:03:59] Aisha Bello: I think we covered that last time, right? Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:04:54] Sofia Marquez: That's a good question, I'm not sure. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:05:24] Sofia Marquez: Okay, um, so let's get started.
+[00:06:16] Noah Fischer: Can you put that in the notes?
+[00:06:43] Noah Fischer: Nothing from my side. We should revisit the alert thresholds after the next game day.
+[00:06:58] Noah Fischer: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:07:45] Aisha Bello: Uh, I'll share my screen. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:08:36] Mateo Rossi: Okay, any other updates?
+[00:09:25] Sofia Marquez: Okay, any other updates? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:10:07] Noah Fischer: We had a similar discussion in Q3.
+[00:10:41] Aisha Bello: Nothing from my side. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:11:24] Aisha Bello: Is that a hard requirement or a nice-to-have? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:12:23] Noah Fischer: Sorry, I was on mute.
+[00:12:48] Aisha Bello: Makes sense to me.
+[00:13:36] Sofia Marquez: Let me check the dashboard real quick. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:14:34] Noah Fischer: Makes sense to me.
+[00:14:59] Mateo Rossi: Sorry, I was on mute. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:15:30] Mateo Rossi: I don't have context on that one, sorry. Infrastructure changes go through Terraform plans that need two approvals.
+[00:15:49] Aisha Bello: [crosstalk]
+[00:16:46] Sofia Marquez: Sorry, I was on mute. We should revisit the alert thresholds after the next game day.
+[00:17:45] Mateo Rossi: Nothing from my side. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:18:23] Noah Fischer: Makes sense to me. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:19:23] Sofia Marquez: Is that a hard requirement or a nice-to-have?
+[00:20:00] Mateo Rossi: Nothing from my side. Infrastructure changes go through Terraform plans that need two approvals.
+[00:20:10] Aisha Bello: Makes sense to me. The dashboards were updated to show saturation alongside latency and errors.
+[00:20:24] Noah Fischer: Okay, um, so let's get started. Infrastructure changes go through Terraform plans that need two approvals.
+[00:21:12] Sofia Marquez: Makes sense to me. Infrastructure changes go through Terraform plans that need two approvals.
+[00:21:37] Noah Fischer: We had a similar discussion in Q3.
+[00:22:02] Sofia Marquez: Uh, I'll share my screen. We should revisit the alert thresholds after the next game day.
+[00:22:49] Aisha Bello: Is that a hard requirement or a nice-to-have? Database schema migrations must be backward compatible for at least one release.
+[00:23:17] Noah Fischer: Let's take that offline.
+[00:24:16] Noah Fischer: We're slightly over time so let's move on. Infrastructure changes go through Terraform plans that need two approvals.
+[00:25:03] Noah Fischer: We had a similar discussion in Q3. We should revisit the alert thresholds after the next game day.
+[00:25:41] Aisha Bello: I think we covered that last time, right? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:26:16] Mateo Rossi: Uh, I'll share my screen.
+[00:27:01] Mateo Rossi: [crosstalk] Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:27:54] Aisha Bello: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:28:54] Mateo Rossi: I think we covered that last time, right? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:29:32] Sofia Marquez: We're slightly over time so let's move on. On-call handover happens every Monday at 10:00 local time.
+[00:29:56] Noah Fischer: Let me check the dashboard real quick. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:30:54] Noah Fischer: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:31:32] Aisha Bello: [crosstalk] All services must expose Prometheus metrics on the /metrics path.
+[00:31:58] Noah Fischer: Let's take that offline. Every service has a README that links to its dashboards and runbook.
+[00:32:58] Aisha Bello: Makes sense to me. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:33:56] Noah Fischer: We had a similar discussion in Q3. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:34:19] Sofia Marquez: Uh, I'll share my screen.
+[00:34:51] Aisha Bello: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:35:26] Mateo Rossi: Makes sense to me. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:35:45] Aisha Bello: Okay, any other updates? On-call handover happens every Monday at 10:00 local time.
+[00:36:22] Noah Fischer: I think we covered that last time, right?
+[00:36:41] Noah Fischer: Let me check the dashboard real quick. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:37:32] Mateo Rossi: Makes sense to me. The dashboards were updated to show saturation alongside latency and errors.
+[00:37:45] Sofia Marquez: Let's take that offline.
+[00:38:41] Aisha Bello: Let's take that offline.
+[00:39:17] Noah Fischer: Let me check the dashboard real quick.
+[00:39:53] Sofia Marquez: Is that a hard requirement or a nice-to-have?
+[00:40:21] Noah Fischer: I don't have context on that one, sorry.

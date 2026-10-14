@@ -1,0 +1,309 @@
+[
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1739179003.000000",
+  "thread_ts": "1739179003.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can someone review my PR",
+  "ts": "1739179508.000000",
+  "thread_ts": "1739179003.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1739180326.000000",
+  "thread_ts": "1739179003.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "yeah that's the one",
+  "ts": "1739180580.000000",
+  "thread_ts": "1739179003.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "ack",
+  "ts": "1739184297.000000",
+  "thread_ts": "1739184297.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1739184679.000000",
+  "thread_ts": "1739184297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1739185159.000000",
+  "thread_ts": "1739184297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1739185755.000000",
+  "thread_ts": "1739184297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "thanks!",
+  "ts": "1739186228.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1739187976.000000",
+  "thread_ts": "1739187976.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "let's not do that on a Friday",
+  "ts": "1739188834.000000",
+  "thread_ts": "1739187976.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "we discussed this in the arch sync",
+  "ts": "1739189067.000000",
+  "thread_ts": "1739187976.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "rolling back just in case",
+  "ts": "1739189388.000000",
+  "thread_ts": "1739187976.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1739192927.000000",
+  "thread_ts": "1739192927.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "is staging down again?",
+  "ts": "1739193579.000000",
+  "thread_ts": "1739192927.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1739194475.000000",
+  "thread_ts": "1739192927.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1739194699.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1739196963.000000",
+  "thread_ts": "1739196963.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "let's not do that on a Friday",
+  "ts": "1739197687.000000",
+  "thread_ts": "1739196963.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can we sync after standup?",
+  "ts": "1739198131.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1739198660.000000",
+  "thread_ts": "1739198660.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "can we sync after standup?",
+  "ts": "1739198971.000000",
+  "thread_ts": "1739198660.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "done",
+  "ts": "1739199128.000000",
+  "thread_ts": "1739198660.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "hmm interesting",
+  "ts": "1739199480.000000",
+  "thread_ts": "1739198660.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1739203359.000000",
+  "thread_ts": "1739203359.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "see above",
+  "ts": "1739203827.000000",
+  "thread_ts": "1739203359.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "nope, just slow",
+  "ts": "1739204433.000000",
+  "thread_ts": "1739203359.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "is staging down again?",
+  "ts": "1739205023.000000",
+  "thread_ts": "1739203359.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1739205749.000000",
+  "thread_ts": "1739203359.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "hmm interesting",
+  "ts": "1739206559.000000",
+  "thread_ts": "1739203359.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1739209723.000000",
+  "thread_ts": "1739209723.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1739209931.000000",
+  "thread_ts": "1739209723.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": ":eyes:",
+  "ts": "1739210184.000000",
+  "thread_ts": "1739209723.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1739210545.000000",
+  "thread_ts": "1739209723.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "+1",
+  "ts": "1739210826.000000",
+  "thread_ts": "1739209723.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1739211306.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "lgtm :+1:",
+  "ts": "1739214907.000000",
+  "thread_ts": "1739214907.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ticket filed",
+  "ts": "1739214943.000000",
+  "thread_ts": "1739214907.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1739217308.000000",
+  "thread_ts": "1739217308.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "dashboards look fine on my side",
+  "ts": "1739217916.000000",
+  "thread_ts": "1739217308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "taking a look",
+  "ts": "1739218688.000000",
+  "thread_ts": "1739217308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "hmm interesting",
+  "ts": "1739219279.000000",
+  "thread_ts": "1739217308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1739219843.000000",
+  "thread_ts": "1739217308.000000"
+ }
+]

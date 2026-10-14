@@ -1,0 +1,89 @@
+Meeting: Weekly Standup
+Date: 2024-05-19
+Attendees: Ravi Kulkarni, Julia Novak, Daniel Okafor, Omar Haddad
+Transcript generated automatically - may contain errors.
+
+[00:00:23] Daniel Okafor: I think we covered that last time, right?
+[00:00:57] Ravi Kulkarni: I think we covered that last time, right? Infrastructure changes go through Terraform plans that need two approvals.
+[00:01:07] Julia Novak: I think we covered that last time, right? Container images are built once and promoted across environments by digest.
+[00:01:34] Daniel Okafor: Okay, any other updates? Capacity planning for the holiday peak starts in September every year.
+[00:01:51] Omar Haddad: Can everyone hear me? Yeah, okay.
+[00:02:18] Daniel Okafor: Is that a hard requirement or a nice-to-have? Dependency upgrades are batched weekly by the platform bot.
+[00:02:26] Ravi Kulkarni: [crosstalk] The dashboards were updated to show saturation alongside latency and errors.
+[00:03:00] Omar Haddad: I don't have context on that one, sorry. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:03:58] Omar Haddad: Okay, any other updates?
+[00:04:44] Julia Novak: Let's take that offline. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:05:40] Omar Haddad: We had a similar discussion in Q3. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:05:53] Omar Haddad: Let me check the dashboard real quick. Every service has a README that links to its dashboards and runbook.
+[00:06:22] Ravi Kulkarni: We had a similar discussion in Q3.
+[00:07:11] Ravi Kulkarni: Uh, I'll share my screen.
+[00:07:55] Daniel Okafor: I think we covered that last time, right?
+[00:08:08] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:08:49] Julia Novak: Okay, any other updates? We should revisit the alert thresholds after the next game day.
+[00:09:04] Julia Novak: Okay, um, so let's get started. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:09:27] Omar Haddad: Sorry, I was on mute.
+[00:10:13] Daniel Okafor: Let me check the dashboard real quick. Dependency upgrades are batched weekly by the platform bot.
+[00:10:22] Daniel Okafor: That's a good question, I'm not sure. We should revisit the alert thresholds after the next game day.
+[00:11:03] Daniel Okafor: Let me check the dashboard real quick. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:11:17] Julia Novak: I don't have context on that one, sorry. Service-level objectives are reviewed quarterly with product owners.
+[00:12:14] Ravi Kulkarni: Let's take that offline. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:13:05] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:13:33] Julia Novak: Okay, um, so let's get started.
+[00:14:00] Omar Haddad: I think we covered that last time, right? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:14:28] Daniel Okafor: Let me check the dashboard real quick.
+[00:14:43] Ravi Kulkarni: Is that a hard requirement or a nice-to-have? On-call handover happens every Monday at 10:00 local time.
+[00:15:28] Julia Novak: Okay, any other updates? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:16:00] Ravi Kulkarni: Can you put that in the notes? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:16:43] Omar Haddad: Sorry, I was on mute. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:17:31] Julia Novak: Okay, um, so let's get started. Postmortems are blameless and are published within five business days.
+[00:18:22] Ravi Kulkarni: We're slightly over time so let's move on.
+[00:19:11] Julia Novak: I don't have context on that one, sorry. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:19:24] Julia Novak: Let's take that offline. All services must expose Prometheus metrics on the /metrics path.
+[00:20:22] Julia Novak: That's a good question, I'm not sure.
+[00:21:05] Omar Haddad: Can everyone hear me? Yeah, okay. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:21:52] Daniel Okafor: Uh, I'll share my screen. Dependency upgrades are batched weekly by the platform bot.
+[00:22:17] Daniel Okafor: Let me check the dashboard real quick.
+[00:23:05] Julia Novak: Nothing from my side. All services must expose Prometheus metrics on the /metrics path.
+[00:24:00] Ravi Kulkarni: I don't have context on that one, sorry. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:24:16] Daniel Okafor: That's a good question, I'm not sure. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:25:15] Daniel Okafor: Makes sense to me.
+[00:26:11] Omar Haddad: Can you put that in the notes? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:26:40] Julia Novak: We had a similar discussion in Q3.
+[00:27:09] Ravi Kulkarni: Let's take that offline.
+[00:27:17] Omar Haddad: Okay, um, so let's get started.
+[00:28:08] Julia Novak: That's a good question, I'm not sure. Dependency upgrades are batched weekly by the platform bot.
+[00:29:04] Omar Haddad: Sorry, I was on mute.
+[00:29:53] Ravi Kulkarni: Okay, um, so let's get started.
+[00:30:53] Omar Haddad: I think we covered that last time, right? Every service has a README that links to its dashboards and runbook.
+[00:31:53] Daniel Okafor: Let me check the dashboard real quick. We should revisit the alert thresholds after the next game day.
+[00:32:08] Omar Haddad: [crosstalk]
+[00:32:44] Ravi Kulkarni: We're slightly over time so let's move on.
+[00:33:40] Daniel Okafor: [crosstalk] On-call handover happens every Monday at 10:00 local time.
+[00:34:28] Daniel Okafor: We're slightly over time so let's move on. Dependency upgrades are batched weekly by the platform bot.
+[00:34:59] Ravi Kulkarni: Can you put that in the notes? On-call handover happens every Monday at 10:00 local time.
+[00:35:20] Ravi Kulkarni: Is that a hard requirement or a nice-to-have?
+[00:36:08] Omar Haddad: I think we covered that last time, right?
+[00:36:52] Omar Haddad: Uh, I'll share my screen. Postmortems are blameless and are published within five business days.
+[00:37:43] Julia Novak: Sorry, I was on mute. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:37:59] Daniel Okafor: We're slightly over time so let's move on.
+[00:38:53] Daniel Okafor: Is that a hard requirement or a nice-to-have?
+[00:39:02] Daniel Okafor: We had a similar discussion in Q3. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:39:51] Ravi Kulkarni: Makes sense to me. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:40:16] Ravi Kulkarni: Nothing from my side. Container images are built once and promoted across environments by digest.
+[00:40:57] Ravi Kulkarni: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:41:39] Omar Haddad: Makes sense to me. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:42:08] Ravi Kulkarni: Okay, um, so let's get started.
+[00:42:30] Omar Haddad: Sorry, I was on mute.
+[00:42:50] Julia Novak: Makes sense to me. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:42:59] Omar Haddad: That's a good question, I'm not sure.
+[00:43:44] Daniel Okafor: Can you put that in the notes? Dependency upgrades are batched weekly by the platform bot.
+[00:44:07] Daniel Okafor: Can everyone hear me? Yeah, okay.
+[00:44:48] Julia Novak: Sorry, I was on mute.
+[00:45:35] Omar Haddad: I think we covered that last time, right?
+[00:46:20] Ravi Kulkarni: Sorry, I was on mute.
+[00:46:30] Omar Haddad: Makes sense to me.
+[00:47:22] Ravi Kulkarni: Let's take that offline. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:47:33] Daniel Okafor: That's a good question, I'm not sure. The dashboards were updated to show saturation alongside latency and errors.
+[00:48:16] Ravi Kulkarni: I don't have context on that one, sorry.
+[00:48:49] Ravi Kulkarni: That's a good question, I'm not sure. On-call handover happens every Monday at 10:00 local time.
+[00:49:47] Ravi Kulkarni: We had a similar discussion in Q3. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.

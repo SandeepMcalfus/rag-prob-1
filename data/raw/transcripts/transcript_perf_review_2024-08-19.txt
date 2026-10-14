@@ -1,0 +1,72 @@
+Meeting: Performance Review
+Date: 2024-08-19
+Attendees: Chloe Dubois, Julia Novak, Grace Kim, Hannah Weber
+Transcript generated automatically - may contain errors.
+
+[00:00:48] Grace Kim: We're slightly over time so let's move on.
+[00:01:15] Grace Kim: Is that a hard requirement or a nice-to-have?
+[00:01:54] Grace Kim: Okay, any other updates? Service-level objectives are reviewed quarterly with product owners.
+[00:02:20] Chloe Dubois: Let me check the dashboard real quick.
+[00:02:53] Grace Kim: Let's take that offline. Infrastructure changes go through Terraform plans that need two approvals.
+[00:03:46] Chloe Dubois: [crosstalk]
+[00:04:35] Grace Kim: Okay, any other updates? Database schema migrations must be backward compatible for at least one release.
+[00:05:00] Grace Kim: Let's take that offline. Postmortems are blameless and are published within five business days.
+[00:05:23] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:06:04] Julia Novak: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:06:33] Hannah Weber: I think we covered that last time, right?
+[00:06:49] Chloe Dubois: Uh, I'll share my screen. Dependency upgrades are batched weekly by the platform bot.
+[00:07:27] Julia Novak: I don't have context on that one, sorry. The dashboards were updated to show saturation alongside latency and errors.
+[00:08:24] Chloe Dubois: We're slightly over time so let's move on. The dashboards were updated to show saturation alongside latency and errors.
+[00:08:43] Hannah Weber: Uh, I'll share my screen.
+[00:08:53] Hannah Weber: Okay, any other updates? Infrastructure changes go through Terraform plans that need two approvals.
+[00:09:03] Chloe Dubois: I don't have context on that one, sorry. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:09:32] Grace Kim: We had a similar discussion in Q3.
+[00:10:14] Hannah Weber: Let's take that offline.
+[00:10:51] Grace Kim: Is that a hard requirement or a nice-to-have?
+[00:11:20] Julia Novak: We had a similar discussion in Q3.
+[00:12:13] Julia Novak: Okay, um, so let's get started.
+[00:13:11] Ravi Kulkarni: Um, oh and the k6 load test scripts live in the perf-tests repo under scenarios/checkout.
+[00:13:37] Julia Novak: Uh, I'll share my screen.
+[00:14:25] Hannah Weber: That's a good question, I'm not sure. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:14:58] Chloe Dubois: Uh, I'll share my screen.
+[00:15:36] Grace Kim: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:15:59] Hannah Weber: Can you put that in the notes?
+[00:16:26] Chloe Dubois: Can you put that in the notes?
+[00:17:18] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:17:55] Grace Kim: Uh, I'll share my screen. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:18:48] Grace Kim: I think we covered that last time, right?
+[00:19:14] Grace Kim: We're slightly over time so let's move on. Capacity planning for the holiday peak starts in September every year.
+[00:19:52] Julia Novak: We had a similar discussion in Q3.
+[00:20:38] Grace Kim: That's a good question, I'm not sure.
+[00:21:16] Julia Novak: We're slightly over time so let's move on.
+[00:22:02] Chloe Dubois: Nothing from my side. Container images are built once and promoted across environments by digest.
+[00:22:14] Chloe Dubois: Can everyone hear me? Yeah, okay.
+[00:22:54] Julia Novak: Let's take that offline. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:23:30] Chloe Dubois: Is that a hard requirement or a nice-to-have?
+[00:24:09] Chloe Dubois: Nothing from my side. The dashboards were updated to show saturation alongside latency and errors.
+[00:24:46] Julia Novak: Nothing from my side. Postmortems are blameless and are published within five business days.
+[00:24:57] Hannah Weber: I don't have context on that one, sorry.
+[00:25:30] Grace Kim: Okay, um, so let's get started.
+[00:26:15] Chloe Dubois: Can everyone hear me? Yeah, okay. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:26:57] Chloe Dubois: Sorry, I was on mute.
+[00:27:35] Chloe Dubois: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:28:32] Hannah Weber: [crosstalk]
+[00:29:04] Hannah Weber: Let me check the dashboard real quick. Database schema migrations must be backward compatible for at least one release.
+[00:29:20] Grace Kim: I think we covered that last time, right? Database schema migrations must be backward compatible for at least one release.
+[00:29:53] Julia Novak: We're slightly over time so let's move on.
+[00:30:49] Chloe Dubois: I don't have context on that one, sorry. Database schema migrations must be backward compatible for at least one release.
+[00:31:24] Hannah Weber: We're slightly over time so let's move on. Container images are built once and promoted across environments by digest.
+[00:31:41] Grace Kim: Is that a hard requirement or a nice-to-have?
+[00:32:35] Chloe Dubois: Can everyone hear me? Yeah, okay.
+[00:33:09] Chloe Dubois: We're slightly over time so let's move on. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:33:55] Chloe Dubois: We had a similar discussion in Q3. The dashboards were updated to show saturation alongside latency and errors.
+[00:34:18] Chloe Dubois: Let me check the dashboard real quick. Database schema migrations must be backward compatible for at least one release.
+[00:34:39] Chloe Dubois: Let's take that offline. Infrastructure changes go through Terraform plans that need two approvals.
+[00:35:01] Grace Kim: Makes sense to me. Capacity planning for the holiday peak starts in September every year.
+[00:35:51] Julia Novak: That's a good question, I'm not sure. The dashboards were updated to show saturation alongside latency and errors.
+[00:36:34] Julia Novak: That's a good question, I'm not sure. The dashboards were updated to show saturation alongside latency and errors.
+[00:37:04] Hannah Weber: Nothing from my side. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:37:38] Julia Novak: I don't have context on that one, sorry. Database schema migrations must be backward compatible for at least one release.
+[00:38:16] Julia Novak: We're slightly over time so let's move on. Capacity planning for the holiday peak starts in September every year.
+[00:39:15] Hannah Weber: Can everyone hear me? Yeah, okay. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:39:58] Julia Novak: Let me check the dashboard real quick. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.

@@ -1,0 +1,54 @@
+Meeting: Quarterly Planning
+Date: 2024-03-02
+Attendees: Mateo Rossi, Liam Chen, Daniel Okafor, Fatima Zahra
+Transcript generated automatically - may contain errors.
+
+[00:00:29] Liam Chen: We had a similar discussion in Q3. Dependency upgrades are batched weekly by the platform bot.
+[00:00:39] Fatima Zahra: [crosstalk]
+[00:01:22] Fatima Zahra: We had a similar discussion in Q3. Capacity planning for the holiday peak starts in September every year.
+[00:01:37] Daniel Okafor: Sorry, I was on mute. Infrastructure changes go through Terraform plans that need two approvals.
+[00:01:56] Liam Chen: Nothing from my side.
+[00:02:40] Liam Chen: Okay, um, so let's get started. Postmortems are blameless and are published within five business days.
+[00:02:59] Fatima Zahra: Sorry, I was on mute. Dependency upgrades are batched weekly by the platform bot.
+[00:03:50] Mateo Rossi: Makes sense to me. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:04:23] Daniel Okafor: I think we covered that last time, right?
+[00:04:40] Mateo Rossi: Sorry, I was on mute. Dependency upgrades are batched weekly by the platform bot.
+[00:05:17] Daniel Okafor: Okay, um, so let's get started. The dashboards were updated to show saturation alongside latency and errors.
+[00:06:06] Fatima Zahra: Makes sense to me.
+[00:07:00] Liam Chen: Is that a hard requirement or a nice-to-have?
+[00:07:59] Daniel Okafor: Makes sense to me.
+[00:08:54] Mateo Rossi: Let me check the dashboard real quick. Service-level objectives are reviewed quarterly with product owners.
+[00:09:13] Liam Chen: Let me check the dashboard real quick. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:09:31] Fatima Zahra: Let me check the dashboard real quick. Capacity planning for the holiday peak starts in September every year.
+[00:09:46] Daniel Okafor: Okay, any other updates?
+[00:10:41] Daniel Okafor: Let's take that offline. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:11:12] Liam Chen: Okay, any other updates? Every service has a README that links to its dashboards and runbook.
+[00:11:50] Daniel Okafor: That's a good question, I'm not sure. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:12:49] Daniel Okafor: Uh, I'll share my screen. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:13:02] Mateo Rossi: Nothing from my side. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:13:53] Liam Chen: Let's take that offline.
+[00:14:34] Mateo Rossi: I don't have context on that one, sorry. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:15:33] Fatima Zahra: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:16:24] Daniel Okafor: We're slightly over time so let's move on. Infrastructure changes go through Terraform plans that need two approvals.
+[00:17:08] Mateo Rossi: Sorry, I was on mute.
+[00:17:48] Mateo Rossi: Nothing from my side. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:18:25] Daniel Okafor: [crosstalk] Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:19:22] Mateo Rossi: I think we covered that last time, right?
+[00:19:59] Liam Chen: Uh, I'll share my screen.
+[00:20:09] Mateo Rossi: That's a good question, I'm not sure.
+[00:20:36] Daniel Okafor: We had a similar discussion in Q3.
+[00:21:12] Daniel Okafor: Makes sense to me.
+[00:22:11] Liam Chen: Is that a hard requirement or a nice-to-have? On-call handover happens every Monday at 10:00 local time.
+[00:22:35] Mateo Rossi: That's a good question, I'm not sure. We should revisit the alert thresholds after the next game day.
+[00:23:08] Mateo Rossi: Okay, um, so let's get started. Dependency upgrades are batched weekly by the platform bot.
+[00:23:45] Fatima Zahra: Okay, any other updates? On-call handover happens every Monday at 10:00 local time.
+[00:24:16] Fatima Zahra: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:24:24] Liam Chen: I think we covered that last time, right?
+[00:25:16] Liam Chen: Okay, um, so let's get started. Capacity planning for the holiday peak starts in September every year.
+[00:26:05] Liam Chen: That's a good question, I'm not sure.
+[00:27:03] Liam Chen: Sorry, I was on mute. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:27:20] Fatima Zahra: That's a good question, I'm not sure. All services must expose Prometheus metrics on the /metrics path.
+[00:27:37] Fatima Zahra: Okay, any other updates? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:28:22] Liam Chen: Is that a hard requirement or a nice-to-have? Every service has a README that links to its dashboards and runbook.
+[00:28:33] Daniel Okafor: Okay, um, so let's get started. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:29:07] Fatima Zahra: I don't have context on that one, sorry. Every service has a README that links to its dashboards and runbook.

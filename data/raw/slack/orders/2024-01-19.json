@@ -1,0 +1,173 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1705655473.000000",
+  "thread_ts": "1705655473.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "see above",
+  "ts": "1705655590.000000",
+  "thread_ts": "1705655473.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "see above",
+  "ts": "1705655836.000000",
+  "thread_ts": "1705655473.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "same as last week I think",
+  "ts": "1705656480.000000",
+  "thread_ts": "1705655473.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1705656725.000000",
+  "thread_ts": "1705655473.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ticket filed",
+  "ts": "1705657100.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1705660926.000000",
+  "thread_ts": "1705660926.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "taking a look",
+  "ts": "1705661048.000000",
+  "thread_ts": "1705660926.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": ":eyes:",
+  "ts": "1705661797.000000",
+  "thread_ts": "1705660926.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1705662250.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1705664767.000000",
+  "thread_ts": "1705664767.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1705665116.000000",
+  "thread_ts": "1705664767.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "+1",
+  "ts": "1705665655.000000",
+  "thread_ts": "1705664767.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": ":eyes:",
+  "ts": "1705666533.000000",
+  "thread_ts": "1705664767.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ack",
+  "ts": "1705666934.000000",
+  "thread_ts": "1705664767.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1705670096.000000",
+  "thread_ts": "1705670096.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "rolling back just in case",
+  "ts": "1705670437.000000",
+  "thread_ts": "1705670096.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "see above",
+  "ts": "1705670737.000000",
+  "thread_ts": "1705670096.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1705672591.000000",
+  "thread_ts": "1705672591.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "let's not do that on a Friday",
+  "ts": "1705673271.000000",
+  "thread_ts": "1705672591.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "let's not do that on a Friday",
+  "ts": "1705673754.000000",
+  "thread_ts": "1705672591.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ticket filed",
+  "ts": "1705674172.000000",
+  "thread_ts": "1705672591.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1705674560.000000",
+  "thread_ts": "1705672591.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "thanks!",
+  "ts": "1705675082.000000",
+  "thread_ts": "1705672591.000000"
+ }
+]

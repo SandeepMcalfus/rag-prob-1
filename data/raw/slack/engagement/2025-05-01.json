@@ -1,0 +1,146 @@
+[
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1746093770.000000",
+  "thread_ts": "1746093770.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "thanks!",
+  "ts": "1746094514.000000",
+  "thread_ts": "1746093770.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "taking a look",
+  "ts": "1746095045.000000",
+  "thread_ts": "1746093770.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1746095331.000000",
+  "thread_ts": "1746093770.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": ":eyes:",
+  "ts": "1746095474.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1746098853.000000",
+  "thread_ts": "1746098853.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "lgtm :+1:",
+  "ts": "1746099443.000000",
+  "thread_ts": "1746098853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "same as last week I think",
+  "ts": "1746099560.000000",
+  "thread_ts": "1746098853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1746100121.000000",
+  "thread_ts": "1746098853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1746100475.000000",
+  "thread_ts": "1746098853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ticket filed",
+  "ts": "1746100523.000000",
+  "thread_ts": "1746098853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "+1",
+  "ts": "1746101529.000000",
+  "thread_ts": "1746101529.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can we sync after standup?",
+  "ts": "1746101902.000000",
+  "thread_ts": "1746101529.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "rolling back just in case",
+  "ts": "1746102536.000000",
+  "thread_ts": "1746101529.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1746105729.000000",
+  "thread_ts": "1746105729.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "+1",
+  "ts": "1746105780.000000",
+  "thread_ts": "1746105729.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1746106350.000000",
+  "thread_ts": "1746105729.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1746107091.000000",
+  "thread_ts": "1746107091.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ok merged",
+  "ts": "1746107620.000000",
+  "thread_ts": "1746107091.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1746108267.000000",
+  "thread_ts": "1746107091.000000"
+ }
+]

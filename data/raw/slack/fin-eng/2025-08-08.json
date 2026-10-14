@@ -1,0 +1,166 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ack",
+  "ts": "1754644415.000000",
+  "thread_ts": "1754644415.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "can we sync after standup?",
+  "ts": "1754645196.000000",
+  "thread_ts": "1754644415.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1754645505.000000",
+  "thread_ts": "1754644415.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1754645821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "let's not do that on a Friday",
+  "ts": "1754648821.000000",
+  "thread_ts": "1754648821.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ticket filed",
+  "ts": "1754649370.000000",
+  "thread_ts": "1754648821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ack",
+  "ts": "1754650168.000000",
+  "thread_ts": "1754648821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "rolling back just in case",
+  "ts": "1754650620.000000",
+  "thread_ts": "1754648821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "done",
+  "ts": "1754651233.000000",
+  "thread_ts": "1754648821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1754652018.000000",
+  "thread_ts": "1754648821.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1754653064.000000",
+  "thread_ts": "1754653064.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "dashboards look fine on my side",
+  "ts": "1754653490.000000",
+  "thread_ts": "1754653064.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "will do after lunch",
+  "ts": "1754654095.000000",
+  "thread_ts": "1754653064.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1754655164.000000",
+  "thread_ts": "1754655164.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "+1",
+  "ts": "1754655648.000000",
+  "thread_ts": "1754655164.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": ":eyes:",
+  "ts": "1754656226.000000",
+  "thread_ts": "1754655164.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "yeah that's the one",
+  "ts": "1754657008.000000",
+  "thread_ts": "1754655164.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "dashboards look fine on my side",
+  "ts": "1754657373.000000",
+  "thread_ts": "1754655164.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": ":eyes:",
+  "ts": "1754657932.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "dashboards look fine on my side",
+  "ts": "1754660948.000000",
+  "thread_ts": "1754660948.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1754661768.000000",
+  "thread_ts": "1754660948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1754662445.000000",
+  "thread_ts": "1754660948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1754662594.000000",
+  "thread_ts": "1754660948.000000"
+ }
+]

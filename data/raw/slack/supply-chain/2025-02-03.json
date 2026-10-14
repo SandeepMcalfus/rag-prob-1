@@ -1,0 +1,288 @@
+[
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1738575334.000000",
+  "thread_ts": "1738575334.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "ack",
+  "ts": "1738575728.000000",
+  "thread_ts": "1738575334.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "will do after lunch",
+  "ts": "1738576585.000000",
+  "thread_ts": "1738575334.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1738577418.000000",
+  "thread_ts": "1738575334.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1738579685.000000",
+  "thread_ts": "1738579685.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can someone review my PR",
+  "ts": "1738580384.000000",
+  "thread_ts": "1738579685.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "ticket filed",
+  "ts": "1738580943.000000",
+  "thread_ts": "1738579685.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1738581497.000000",
+  "thread_ts": "1738579685.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "ok merged",
+  "ts": "1738582175.000000",
+  "thread_ts": "1738579685.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "ack",
+  "ts": "1738582523.000000",
+  "thread_ts": "1738579685.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1738584022.000000",
+  "thread_ts": "1738584022.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "will do after lunch",
+  "ts": "1738584126.000000",
+  "thread_ts": "1738584022.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1738584649.000000",
+  "thread_ts": "1738584022.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1738585243.000000",
+  "thread_ts": "1738584022.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "will do after lunch",
+  "ts": "1738585576.000000",
+  "thread_ts": "1738584022.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "lgtm :+1:",
+  "ts": "1738588738.000000",
+  "thread_ts": "1738588738.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "done",
+  "ts": "1738589359.000000",
+  "thread_ts": "1738588738.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "nope, just slow",
+  "ts": "1738589740.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738590154.000000",
+  "thread_ts": "1738590154.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "lgtm :+1:",
+  "ts": "1738590724.000000",
+  "thread_ts": "1738590154.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "is staging down again?",
+  "ts": "1738591500.000000",
+  "thread_ts": "1738590154.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "let's not do that on a Friday",
+  "ts": "1738593883.000000",
+  "thread_ts": "1738593883.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "same as last week I think",
+  "ts": "1738594371.000000",
+  "thread_ts": "1738593883.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "dashboards look fine on my side",
+  "ts": "1738595120.000000",
+  "thread_ts": "1738593883.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can someone review my PR",
+  "ts": "1738597448.000000",
+  "thread_ts": "1738597448.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "let's not do that on a Friday",
+  "ts": "1738597678.000000",
+  "thread_ts": "1738597448.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1738597997.000000",
+  "thread_ts": "1738597997.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1738598397.000000",
+  "thread_ts": "1738597997.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "ack",
+  "ts": "1738598576.000000",
+  "thread_ts": "1738597997.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738599232.000000",
+  "thread_ts": "1738597997.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738599684.000000",
+  "thread_ts": "1738597997.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "let's not do that on a Friday",
+  "ts": "1738600023.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "thanks!",
+  "ts": "1738600364.000000",
+  "thread_ts": "1738600364.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "hmm interesting",
+  "ts": "1738601220.000000",
+  "thread_ts": "1738600364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "+1",
+  "ts": "1738601499.000000",
+  "thread_ts": "1738600364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "let's not do that on a Friday",
+  "ts": "1738602160.000000",
+  "thread_ts": "1738600364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738602679.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1738605803.000000",
+  "thread_ts": "1738605803.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "will do after lunch",
+  "ts": "1738606633.000000",
+  "thread_ts": "1738605803.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1738607028.000000"
+ }
+]

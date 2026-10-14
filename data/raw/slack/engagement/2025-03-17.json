@@ -1,0 +1,278 @@
+[
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "+1",
+  "ts": "1742203263.000000",
+  "thread_ts": "1742203263.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1742203895.000000",
+  "thread_ts": "1742203263.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "taking a look",
+  "ts": "1742204788.000000",
+  "thread_ts": "1742203263.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "taking a look",
+  "ts": "1742204892.000000",
+  "thread_ts": "1742203263.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "taking a look",
+  "ts": "1742205390.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1742208940.000000",
+  "thread_ts": "1742208940.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1742209141.000000",
+  "thread_ts": "1742208940.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "we discussed this in the arch sync",
+  "ts": "1742209576.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "same as last week I think",
+  "ts": "1742212218.000000",
+  "thread_ts": "1742212218.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ticket filed",
+  "ts": "1742212277.000000",
+  "thread_ts": "1742212218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "+1",
+  "ts": "1742212337.000000",
+  "thread_ts": "1742212218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ok merged",
+  "ts": "1742213198.000000",
+  "thread_ts": "1742212218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1742216873.000000",
+  "thread_ts": "1742216873.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "is staging down again?",
+  "ts": "1742217523.000000",
+  "thread_ts": "1742216873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "+1",
+  "ts": "1742218394.000000",
+  "thread_ts": "1742216873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "taking a look",
+  "ts": "1742218555.000000",
+  "thread_ts": "1742216873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "yeah that's the one",
+  "ts": "1742219195.000000",
+  "thread_ts": "1742216873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "hmm interesting",
+  "ts": "1742219873.000000",
+  "thread_ts": "1742216873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "lgtm :+1:",
+  "ts": "1742220162.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1742222073.000000",
+  "thread_ts": "1742222073.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1742222614.000000",
+  "thread_ts": "1742222073.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "let's not do that on a Friday",
+  "ts": "1742223303.000000",
+  "thread_ts": "1742222073.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "see above",
+  "ts": "1742223751.000000",
+  "thread_ts": "1742222073.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "dashboards look fine on my side",
+  "ts": "1742224453.000000",
+  "thread_ts": "1742222073.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1742224665.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can we sync after standup?",
+  "ts": "1742225290.000000",
+  "thread_ts": "1742225290.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ack",
+  "ts": "1742225439.000000",
+  "thread_ts": "1742225290.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ticket filed",
+  "ts": "1742225839.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1742227118.000000",
+  "thread_ts": "1742227118.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ok merged",
+  "ts": "1742227864.000000",
+  "thread_ts": "1742227118.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ok merged",
+  "ts": "1742229655.000000",
+  "thread_ts": "1742229655.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "yeah that's the one",
+  "ts": "1742229707.000000",
+  "thread_ts": "1742229655.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "we discussed this in the arch sync",
+  "ts": "1742230276.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1742232204.000000",
+  "thread_ts": "1742232204.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "let's not do that on a Friday",
+  "ts": "1742232987.000000",
+  "thread_ts": "1742232204.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "dashboards look fine on my side",
+  "ts": "1742233681.000000",
+  "thread_ts": "1742232204.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "thanks!",
+  "ts": "1742233909.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "dashboards look fine on my side",
+  "ts": "1742234590.000000",
+  "thread_ts": "1742234590.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "is staging down again?",
+  "ts": "1742234855.000000",
+  "thread_ts": "1742234590.000000"
+ }
+]

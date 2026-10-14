@@ -1,0 +1,146 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1745141603.000000",
+  "thread_ts": "1745141603.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "lgtm :+1:",
+  "ts": "1745142006.000000",
+  "thread_ts": "1745141603.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1745143889.000000",
+  "thread_ts": "1745143889.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1745144272.000000",
+  "thread_ts": "1745143889.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "lgtm :+1:",
+  "ts": "1745144780.000000",
+  "thread_ts": "1745143889.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "rolling back just in case",
+  "ts": "1745144869.000000",
+  "thread_ts": "1745143889.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1745145087.000000",
+  "thread_ts": "1745143889.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1745145276.000000",
+  "thread_ts": "1745143889.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1745145612.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "is staging down again?",
+  "ts": "1745147998.000000",
+  "thread_ts": "1745147998.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1745148431.000000",
+  "thread_ts": "1745147998.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "lgtm :+1:",
+  "ts": "1745150068.000000",
+  "thread_ts": "1745150068.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "hmm interesting",
+  "ts": "1745150536.000000",
+  "thread_ts": "1745150068.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "hmm interesting",
+  "ts": "1745150999.000000",
+  "thread_ts": "1745150068.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "we discussed this in the arch sync",
+  "ts": "1745151056.000000",
+  "thread_ts": "1745150068.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "done",
+  "ts": "1745151822.000000",
+  "thread_ts": "1745150068.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ack",
+  "ts": "1745151910.000000",
+  "thread_ts": "1745150068.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1745155135.000000",
+  "thread_ts": "1745155135.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ok merged",
+  "ts": "1745155935.000000",
+  "thread_ts": "1745155135.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1745156586.000000",
+  "thread_ts": "1745155135.000000"
+ }
+]

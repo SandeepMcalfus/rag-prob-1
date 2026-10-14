@@ -1,0 +1,93 @@
+Meeting: Weekly Standup
+Recorded on 6 Feb 2024
+Attendees: Julia Novak, Sofia Marquez, Omar Haddad, Noah Fischer
+Transcript generated automatically - may contain errors.
+
+[00:00:43] Noah Fischer: Can you put that in the notes?
+[00:01:21] Julia Novak: [crosstalk] Postmortems are blameless and are published within five business days.
+[00:01:30] Omar Haddad: Uh, I'll share my screen. Capacity planning for the holiday peak starts in September every year.
+[00:01:58] Noah Fischer: Let's take that offline. The dashboards were updated to show saturation alongside latency and errors.
+[00:02:23] Omar Haddad: That's a good question, I'm not sure.
+[00:02:53] Julia Novak: I don't have context on that one, sorry. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:03:33] Sofia Marquez: Uh, I'll share my screen.
+[00:04:19] Sofia Marquez: Makes sense to me.
+[00:05:19] Omar Haddad: Can you put that in the notes?
+[00:06:11] Omar Haddad: I think we covered that last time, right? Container images are built once and promoted across environments by digest.
+[00:07:11] Sofia Marquez: Okay, um, so let's get started. Infrastructure changes go through Terraform plans that need two approvals.
+[00:07:42] Noah Fischer: That's a good question, I'm not sure. All services must expose Prometheus metrics on the /metrics path.
+[00:07:56] Sofia Marquez: Let's take that offline. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:08:54] Julia Novak: That's a good question, I'm not sure. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:09:09] Sofia Marquez: Okay, um, so let's get started. Infrastructure changes go through Terraform plans that need two approvals.
+[00:10:01] Omar Haddad: Let's take that offline.
+[00:10:47] Omar Haddad: Uh, I'll share my screen.
+[00:10:56] Julia Novak: We're slightly over time so let's move on. Capacity planning for the holiday peak starts in September every year.
+[00:11:48] Sofia Marquez: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:12:01] Noah Fischer: I think we covered that last time, right? Dependency upgrades are batched weekly by the platform bot.
+[00:12:57] Noah Fischer: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:13:55] Julia Novak: Okay, any other updates? Service-level objectives are reviewed quarterly with product owners.
+[00:14:05] Julia Novak: I don't have context on that one, sorry.
+[00:15:01] Julia Novak: I think we covered that last time, right?
+[00:15:22] Sofia Marquez: Uh, I'll share my screen.
+[00:15:31] Julia Novak: Let's take that offline.
+[00:15:56] Omar Haddad: [crosstalk] Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:16:53] Sofia Marquez: Nothing from my side. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:17:53] Julia Novak: Nothing from my side. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:18:19] Sofia Marquez: Okay, um, so let's get started.
+[00:18:33] Sofia Marquez: Nothing from my side.
+[00:19:11] Omar Haddad: Uh, I'll share my screen. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:19:30] Omar Haddad: Let me check the dashboard real quick. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:19:52] Noah Fischer: I think we covered that last time, right?
+[00:20:20] Julia Novak: We had a similar discussion in Q3. Capacity planning for the holiday peak starts in September every year.
+[00:20:59] Omar Haddad: I don't have context on that one, sorry. The dashboards were updated to show saturation alongside latency and errors.
+[00:21:12] Omar Haddad: Okay, any other updates? Infrastructure changes go through Terraform plans that need two approvals.
+[00:21:49] Omar Haddad: We had a similar discussion in Q3. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:22:15] Noah Fischer: Is that a hard requirement or a nice-to-have?
+[00:23:14] Noah Fischer: [crosstalk] Dependency upgrades are batched weekly by the platform bot.
+[00:24:05] Julia Novak: Let me check the dashboard real quick. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:24:20] Sofia Marquez: Let me check the dashboard real quick. Postmortems are blameless and are published within five business days.
+[00:24:34] Sofia Marquez: Sorry, I was on mute. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:25:03] Sofia Marquez: Let me check the dashboard real quick. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:25:57] Noah Fischer: Can you put that in the notes?
+[00:26:54] Omar Haddad: Let me check the dashboard real quick. On-call handover happens every Monday at 10:00 local time.
+[00:27:27] Noah Fischer: Nothing from my side. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:27:41] Julia Novak: Can you put that in the notes? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:28:29] Sofia Marquez: Okay, um, so let's get started. The dashboards were updated to show saturation alongside latency and errors.
+[00:28:41] Noah Fischer: Okay, um, so let's get started.
+[00:29:13] Omar Haddad: Let's take that offline. On-call handover happens every Monday at 10:00 local time.
+[00:29:27] Julia Novak: Nothing from my side.
+[00:30:25] Noah Fischer: Is that a hard requirement or a nice-to-have? Dependency upgrades are batched weekly by the platform bot.
+[00:31:04] Omar Haddad: Makes sense to me.
+[00:31:46] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:32:01] Noah Fischer: We had a similar discussion in Q3. Every service has a README that links to its dashboards and runbook.
+[00:32:37] Noah Fischer: Can everyone hear me? Yeah, okay. Database schema migrations must be backward compatible for at least one release.
+[00:33:27] Omar Haddad: Uh, I'll share my screen. Capacity planning for the holiday peak starts in September every year.
+[00:33:54] Noah Fischer: Okay, any other updates?
+[00:34:38] Noah Fischer: Okay, any other updates? All services must expose Prometheus metrics on the /metrics path.
+[00:35:18] Julia Novak: Let me check the dashboard real quick. Postmortems are blameless and are published within five business days.
+[00:35:50] Omar Haddad: I don't have context on that one, sorry. We should revisit the alert thresholds after the next game day.
+[00:36:35] Julia Novak: Let's take that offline.
+[00:37:05] Julia Novak: Makes sense to me. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:37:35] Omar Haddad: That's a good question, I'm not sure. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:37:58] Sofia Marquez: I don't have context on that one, sorry. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:38:25] Julia Novak: Makes sense to me. Database schema migrations must be backward compatible for at least one release.
+[00:38:53] Julia Novak: We had a similar discussion in Q3.
+[00:39:28] Noah Fischer: Can you put that in the notes? Dependency upgrades are batched weekly by the platform bot.
+[00:40:13] Julia Novak: Makes sense to me. Every service has a README that links to its dashboards and runbook.
+[00:40:41] Julia Novak: Okay, any other updates? Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:41:10] Noah Fischer: Nothing from my side.
+[00:42:00] Omar Haddad: Uh, I'll share my screen.
+[00:42:31] Noah Fischer: Is that a hard requirement or a nice-to-have? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:43:13] Sofia Marquez: I don't have context on that one, sorry. Infrastructure changes go through Terraform plans that need two approvals.
+[00:43:57] Noah Fischer: We're slightly over time so let's move on.
+[00:44:10] Julia Novak: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:45:09] Noah Fischer: That's a good question, I'm not sure. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:45:58] Omar Haddad: Nothing from my side.
+[00:46:33] Omar Haddad: Is that a hard requirement or a nice-to-have? Service-level objectives are reviewed quarterly with product owners.
+[00:47:20] Noah Fischer: Uh, I'll share my screen.
+[00:48:08] Sofia Marquez: Okay, any other updates? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:48:33] Noah Fischer: Can everyone hear me? Yeah, okay. Container images are built once and promoted across environments by digest.
+[00:49:10] Sofia Marquez: We're slightly over time so let's move on. Infrastructure changes go through Terraform plans that need two approvals.
+[00:49:45] Noah Fischer: Makes sense to me.
+[00:49:57] Sofia Marquez: That's a good question, I'm not sure. Infrastructure changes go through Terraform plans that need two approvals.
+[00:50:46] Sofia Marquez: Can you put that in the notes?
+[00:51:09] Noah Fischer: We're slightly over time so let's move on. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.

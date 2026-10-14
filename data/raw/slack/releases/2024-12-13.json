@@ -1,0 +1,273 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1734084192.000000",
+  "thread_ts": "1734084192.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "same as last week I think",
+  "ts": "1734085047.000000",
+  "thread_ts": "1734084192.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "will do after lunch",
+  "ts": "1734085406.000000",
+  "thread_ts": "1734084192.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "lgtm :+1:",
+  "ts": "1734085675.000000",
+  "thread_ts": "1734084192.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "yeah that's the one",
+  "ts": "1734086403.000000",
+  "thread_ts": "1734084192.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "nope, just slow",
+  "ts": "1734086508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "thanks!",
+  "ts": "1734088023.000000",
+  "thread_ts": "1734088023.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "see above",
+  "ts": "1734088067.000000",
+  "thread_ts": "1734088023.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1734089814.000000",
+  "thread_ts": "1734089814.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1734090007.000000",
+  "thread_ts": "1734089814.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1734090355.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "rolling back just in case",
+  "ts": "1734093176.000000",
+  "thread_ts": "1734093176.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "thanks!",
+  "ts": "1734093378.000000",
+  "thread_ts": "1734093176.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1734094420.000000",
+  "thread_ts": "1734094420.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can we sync after standup?",
+  "ts": "1734094796.000000",
+  "thread_ts": "1734094420.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "we discussed this in the arch sync",
+  "ts": "1734095327.000000",
+  "thread_ts": "1734094420.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "let's not do that on a Friday",
+  "ts": "1734095618.000000",
+  "thread_ts": "1734094420.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1734096445.000000",
+  "thread_ts": "1734094420.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can someone review my PR",
+  "ts": "1734097261.000000",
+  "thread_ts": "1734094420.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "reminder: deploy freeze starts Friday 14:00 IST, nothing to prod until Monday",
+  "ts": "1734099160.000000",
+  "thread_ts": "1734099160.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1734099924.000000",
+  "thread_ts": "1734099160.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1734100114.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "will do after lunch",
+  "ts": "1734101991.000000",
+  "thread_ts": "1734101991.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can someone review my PR",
+  "ts": "1734102627.000000",
+  "thread_ts": "1734101991.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can someone review my PR",
+  "ts": "1734102788.000000",
+  "thread_ts": "1734101991.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "thanks!",
+  "ts": "1734103200.000000",
+  "thread_ts": "1734101991.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1734103729.000000",
+  "thread_ts": "1734101991.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1734106225.000000",
+  "thread_ts": "1734106225.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "ticket filed",
+  "ts": "1734106784.000000",
+  "thread_ts": "1734106225.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "taking a look",
+  "ts": "1734107523.000000",
+  "thread_ts": "1734106225.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1734107913.000000",
+  "thread_ts": "1734106225.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1734108804.000000",
+  "thread_ts": "1734106225.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "will do after lunch",
+  "ts": "1734109395.000000",
+  "thread_ts": "1734106225.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1734109939.000000",
+  "thread_ts": "1734109939.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "nope, just slow",
+  "ts": "1734110106.000000",
+  "thread_ts": "1734109939.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "ok merged",
+  "ts": "1734110374.000000",
+  "thread_ts": "1734109939.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "done",
+  "ts": "1734110451.000000",
+  "thread_ts": "1734109939.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1734110657.000000"
+ }
+]

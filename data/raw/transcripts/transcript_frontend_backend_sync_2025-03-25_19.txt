@@ -1,0 +1,69 @@
+Meeting: Frontend-Backend Sync
+Date: 2025-03-25
+Attendees: Hannah Weber, Marcus Lee, Daniel Okafor, Fatima Zahra
+Transcript generated automatically - may contain errors.
+
+[00:00:23] Daniel Okafor: I don't have context on that one, sorry.
+[00:00:35] Marcus Lee: Okay, any other updates? Database schema migrations must be backward compatible for at least one release.
+[00:00:50] Daniel Okafor: Sorry, I was on mute.
+[00:01:30] Daniel Okafor: That's a good question, I'm not sure. Service-level objectives are reviewed quarterly with product owners.
+[00:01:51] Hannah Weber: We had a similar discussion in Q3. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:02:23] Daniel Okafor: Let me check the dashboard real quick.
+[00:02:56] Hannah Weber: Okay, um, so let's get started. Capacity planning for the holiday peak starts in September every year.
+[00:03:24] Fatima Zahra: Okay, any other updates? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:04:07] Marcus Lee: We had a similar discussion in Q3. Service-level objectives are reviewed quarterly with product owners.
+[00:04:25] Marcus Lee: Okay, um, so let's get started.
+[00:04:44] Daniel Okafor: I think we covered that last time, right? Every service has a README that links to its dashboards and runbook.
+[00:05:02] Hannah Weber: Okay, um, so let's get started.
+[00:05:19] Fatima Zahra: [crosstalk] The dashboards were updated to show saturation alongside latency and errors.
+[00:06:10] Marcus Lee: We had a similar discussion in Q3.
+[00:06:58] Hannah Weber: Let me check the dashboard real quick.
+[00:07:34] Hannah Weber: Okay, um, so let's get started. Every service has a README that links to its dashboards and runbook.
+[00:08:31] Marcus Lee: We're slightly over time so let's move on. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:08:51] Hannah Weber: Okay, um, so let's get started. We should revisit the alert thresholds after the next game day.
+[00:09:20] Marcus Lee: Sorry, I was on mute. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:10:19] Marcus Lee: Uh, I'll share my screen. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:10:33] Daniel Okafor: Makes sense to me. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:11:20] Marcus Lee: Let me check the dashboard real quick.
+[00:11:35] Marcus Lee: Is that a hard requirement or a nice-to-have? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:11:54] Hannah Weber: Let me check the dashboard real quick.
+[00:12:02] Fatima Zahra: Is that a hard requirement or a nice-to-have? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:12:52] Daniel Okafor: [crosstalk] Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:13:26] Daniel Okafor: Okay, any other updates?
+[00:13:40] Marcus Lee: Can you put that in the notes?
+[00:14:26] Daniel Okafor: Let me check the dashboard real quick.
+[00:15:23] Marcus Lee: Makes sense to me. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:16:13] Fatima Zahra: Sorry, I was on mute. On-call handover happens every Monday at 10:00 local time.
+[00:16:58] Fatima Zahra: Let me check the dashboard real quick. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:17:38] Hannah Weber: We're slightly over time so let's move on. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:18:05] Marcus Lee: That's a good question, I'm not sure.
+[00:18:52] Hannah Weber: Can everyone hear me? Yeah, okay. Dependency upgrades are batched weekly by the platform bot.
+[00:19:18] Marcus Lee: Let's take that offline. The dashboards were updated to show saturation alongside latency and errors.
+[00:19:41] Fatima Zahra: Makes sense to me. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:20:30] Hannah Weber: Nothing from my side.
+[00:21:04] Daniel Okafor: Okay, um, so let's get started. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:21:33] Marcus Lee: Is that a hard requirement or a nice-to-have? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:22:32] Marcus Lee: Let me check the dashboard real quick. All services must expose Prometheus metrics on the /metrics path.
+[00:23:08] Hannah Weber: Sorry, I was on mute.
+[00:23:20] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:23:37] Marcus Lee: Let's take that offline. Postmortems are blameless and are published within five business days.
+[00:24:20] Marcus Lee: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:25:14] Fatima Zahra: I don't have context on that one, sorry. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:25:37] Fatima Zahra: Uh, I'll share my screen.
+[00:26:04] Daniel Okafor: We had a similar discussion in Q3.
+[00:26:24] Daniel Okafor: Okay, any other updates? Container images are built once and promoted across environments by digest.
+[00:26:57] Fatima Zahra: Uh, I'll share my screen. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:27:37] Fatima Zahra: Let's take that offline.
+[00:28:35] Fatima Zahra: Okay, um, so let's get started.
+[00:29:10] Hannah Weber: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:29:53] Marcus Lee: Can you put that in the notes? Infrastructure changes go through Terraform plans that need two approvals.
+[00:30:30] Daniel Okafor: Let me check the dashboard real quick. Dependency upgrades are batched weekly by the platform bot.
+[00:30:42] Daniel Okafor: Let's take that offline.
+[00:31:02] Marcus Lee: Is that a hard requirement or a nice-to-have? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:31:56] Daniel Okafor: Okay, any other updates? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:32:29] Daniel Okafor: Let me check the dashboard real quick. Postmortems are blameless and are published within five business days.
+[00:32:41] Fatima Zahra: Can everyone hear me? Yeah, okay.
+[00:32:56] Fatima Zahra: Uh, I'll share my screen. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:33:20] Daniel Okafor: Nothing from my side.
+[00:34:08] Daniel Okafor: Can everyone hear me? Yeah, okay.
+[00:34:43] Marcus Lee: We're slightly over time so let's move on. Container images are built once and promoted across environments by digest.

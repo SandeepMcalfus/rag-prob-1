@@ -1,0 +1,385 @@
+[
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "is staging down again?",
+  "ts": "1738576599.000000",
+  "thread_ts": "1738576599.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "+1",
+  "ts": "1738576813.000000",
+  "thread_ts": "1738576599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ticket filed",
+  "ts": "1738577625.000000",
+  "thread_ts": "1738576599.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1738580975.000000",
+  "thread_ts": "1738580975.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "dashboards look fine on my side",
+  "ts": "1738581391.000000",
+  "thread_ts": "1738580975.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "lgtm :+1:",
+  "ts": "1738581614.000000",
+  "thread_ts": "1738580975.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1738582097.000000",
+  "thread_ts": "1738580975.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "rolling back just in case",
+  "ts": "1738582701.000000",
+  "thread_ts": "1738580975.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "rolling back just in case",
+  "ts": "1738583401.000000",
+  "thread_ts": "1738580975.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1738587131.000000",
+  "thread_ts": "1738587131.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "can we sync after standup?",
+  "ts": "1738588014.000000",
+  "thread_ts": "1738587131.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1738588791.000000",
+  "thread_ts": "1738588791.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "hmm interesting",
+  "ts": "1738589554.000000",
+  "thread_ts": "1738588791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "+1",
+  "ts": "1738589696.000000",
+  "thread_ts": "1738588791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can someone review my PR",
+  "ts": "1738590521.000000",
+  "thread_ts": "1738588791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738590792.000000",
+  "thread_ts": "1738588791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "thanks!",
+  "ts": "1738591653.000000",
+  "thread_ts": "1738588791.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738591822.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1738594845.000000",
+  "thread_ts": "1738594845.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1738595152.000000",
+  "thread_ts": "1738594845.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "is staging down again?",
+  "ts": "1738595248.000000",
+  "thread_ts": "1738594845.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "will do after lunch",
+  "ts": "1738595344.000000",
+  "thread_ts": "1738594845.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738596120.000000",
+  "thread_ts": "1738594845.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "same as last week I think",
+  "ts": "1738596471.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ack",
+  "ts": "1738599686.000000",
+  "thread_ts": "1738599686.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "can we sync after standup?",
+  "ts": "1738600578.000000",
+  "thread_ts": "1738599686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can we sync after standup?",
+  "ts": "1738600714.000000",
+  "thread_ts": "1738599686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "dashboards look fine on my side",
+  "ts": "1738601520.000000",
+  "thread_ts": "1738599686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "same as last week I think",
+  "ts": "1738601666.000000",
+  "thread_ts": "1738599686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "taking a look",
+  "ts": "1738602282.000000",
+  "thread_ts": "1738599686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "hmm interesting",
+  "ts": "1738602660.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1738605177.000000",
+  "thread_ts": "1738605177.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "nope, just slow",
+  "ts": "1738605501.000000",
+  "thread_ts": "1738605177.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1738605623.000000",
+  "thread_ts": "1738605177.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "thanks!",
+  "ts": "1738605962.000000",
+  "thread_ts": "1738605177.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "dashboards look fine on my side",
+  "ts": "1738606655.000000",
+  "thread_ts": "1738605177.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1738607433.000000",
+  "thread_ts": "1738605177.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "will do after lunch",
+  "ts": "1738607497.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "rolling back just in case",
+  "ts": "1738607971.000000",
+  "thread_ts": "1738607971.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "same as last week I think",
+  "ts": "1738608261.000000",
+  "thread_ts": "1738607971.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "see above",
+  "ts": "1738609094.000000",
+  "thread_ts": "1738607971.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "same as last week I think",
+  "ts": "1738609456.000000",
+  "thread_ts": "1738607971.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ticket filed",
+  "ts": "1738610140.000000",
+  "thread_ts": "1738607971.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1738610805.000000",
+  "thread_ts": "1738607971.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1738610994.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1738614661.000000",
+  "thread_ts": "1738614661.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "is staging down again?",
+  "ts": "1738615378.000000",
+  "thread_ts": "1738614661.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "done",
+  "ts": "1738615988.000000",
+  "thread_ts": "1738614661.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "nope, just slow",
+  "ts": "1738616512.000000",
+  "thread_ts": "1738614661.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1738616592.000000",
+  "thread_ts": "1738614661.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "is staging down again?",
+  "ts": "1738618483.000000",
+  "thread_ts": "1738618483.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ticket filed",
+  "ts": "1738618917.000000",
+  "thread_ts": "1738618483.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1738619529.000000",
+  "thread_ts": "1738618483.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1738619804.000000",
+  "thread_ts": "1738618483.000000"
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "dashboards look fine on my side",
+  "ts": "1723281440.000000",
+  "thread_ts": "1723281440.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1723282281.000000",
+  "thread_ts": "1723281440.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "yeah that's the one",
+  "ts": "1723283170.000000",
+  "thread_ts": "1723281440.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "we discussed this in the arch sync",
+  "ts": "1723284028.000000",
+  "thread_ts": "1723281440.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "lgtm :+1:",
+  "ts": "1723285346.000000",
+  "thread_ts": "1723285346.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "same as last week I think",
+  "ts": "1723286153.000000",
+  "thread_ts": "1723285346.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "hmm interesting",
+  "ts": "1723286744.000000",
+  "thread_ts": "1723285346.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1723287427.000000",
+  "thread_ts": "1723285346.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "rolling back just in case",
+  "ts": "1723288218.000000",
+  "thread_ts": "1723285346.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "rolling back just in case",
+  "ts": "1723292026.000000",
+  "thread_ts": "1723292026.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1723292894.000000",
+  "thread_ts": "1723292026.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "taking a look",
+  "ts": "1723293653.000000",
+  "thread_ts": "1723292026.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1723295989.000000",
+  "thread_ts": "1723295989.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "rolling back just in case",
+  "ts": "1723296506.000000",
+  "thread_ts": "1723295989.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": ":eyes:",
+  "ts": "1723297351.000000",
+  "thread_ts": "1723295989.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "same as last week I think",
+  "ts": "1723298143.000000",
+  "thread_ts": "1723295989.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1723298899.000000",
+  "thread_ts": "1723298899.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1723299693.000000",
+  "thread_ts": "1723298899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1723299895.000000",
+  "thread_ts": "1723298899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "taking a look",
+  "ts": "1723300118.000000",
+  "thread_ts": "1723298899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "+1",
+  "ts": "1723300866.000000",
+  "thread_ts": "1723298899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1723301758.000000",
+  "thread_ts": "1723298899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ack",
+  "ts": "1723304240.000000",
+  "thread_ts": "1723304240.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ticket filed",
+  "ts": "1723304888.000000",
+  "thread_ts": "1723304240.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "lgtm :+1:",
+  "ts": "1723306108.000000",
+  "thread_ts": "1723306108.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1723306811.000000",
+  "thread_ts": "1723306108.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "see above",
+  "ts": "1723307337.000000",
+  "thread_ts": "1723306108.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "see above",
+  "ts": "1723307608.000000",
+  "thread_ts": "1723306108.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ok merged",
+  "ts": "1723308291.000000",
+  "thread_ts": "1723306108.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1723308323.000000",
+  "thread_ts": "1723306108.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1723312135.000000",
+  "thread_ts": "1723312135.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ok merged",
+  "ts": "1723312736.000000",
+  "thread_ts": "1723312135.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "is staging down again?",
+  "ts": "1723312946.000000",
+  "thread_ts": "1723312135.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ticket filed",
+  "ts": "1723313608.000000",
+  "thread_ts": "1723312135.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "yeah that's the one",
+  "ts": "1723314392.000000",
+  "thread_ts": "1723312135.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "yeah that's the one",
+  "ts": "1723315234.000000",
+  "thread_ts": "1723312135.000000"
+ }
+]

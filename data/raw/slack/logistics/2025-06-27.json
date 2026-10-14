@@ -1,0 +1,159 @@
+[
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1751017049.000000",
+  "thread_ts": "1751017049.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "we discussed this in the arch sync",
+  "ts": "1751017818.000000",
+  "thread_ts": "1751017049.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1751018291.000000",
+  "thread_ts": "1751017049.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "taking a look",
+  "ts": "1751018317.000000",
+  "thread_ts": "1751017049.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1751018539.000000",
+  "thread_ts": "1751017049.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1751021195.000000",
+  "thread_ts": "1751021195.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "dashboards look fine on my side",
+  "ts": "1751022083.000000",
+  "thread_ts": "1751021195.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1751022269.000000",
+  "thread_ts": "1751021195.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1751024644.000000",
+  "thread_ts": "1751024644.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "see above",
+  "ts": "1751025417.000000",
+  "thread_ts": "1751024644.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can someone review my PR",
+  "ts": "1751025444.000000",
+  "thread_ts": "1751024644.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1751025752.000000",
+  "thread_ts": "1751024644.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "rolling back just in case",
+  "ts": "1751025876.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1751029873.000000",
+  "thread_ts": "1751029873.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "done",
+  "ts": "1751029905.000000",
+  "thread_ts": "1751029873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1751033364.000000",
+  "thread_ts": "1751033364.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1751034128.000000",
+  "thread_ts": "1751033364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "done",
+  "ts": "1751034514.000000",
+  "thread_ts": "1751033364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "will do after lunch",
+  "ts": "1751034913.000000",
+  "thread_ts": "1751033364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "will do after lunch",
+  "ts": "1751035714.000000",
+  "thread_ts": "1751033364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "done",
+  "ts": "1751036293.000000",
+  "thread_ts": "1751033364.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "let's not do that on a Friday",
+  "ts": "1751036527.000000"
+ }
+]

@@ -1,0 +1,56 @@
+Meeting: Weekly Standup
+Date: 2025-07-05
+Attendees: Ken Tanaka, Ravi Kulkarni, Priya Nair, Julia Novak
+Transcript generated automatically - may contain errors.
+
+[00:00:28] Priya Nair: Makes sense to me. All services must expose Prometheus metrics on the /metrics path.
+[00:00:37] Priya Nair: [crosstalk] Infrastructure changes go through Terraform plans that need two approvals.
+[00:01:00] Priya Nair: Can everyone hear me? Yeah, okay.
+[00:01:32] Ken Tanaka: Can you put that in the notes? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:02:05] Ravi Kulkarni: Sorry, I was on mute.
+[00:02:46] Ravi Kulkarni: That's a good question, I'm not sure. Capacity planning for the holiday peak starts in September every year.
+[00:03:21] Priya Nair: Makes sense to me. Capacity planning for the holiday peak starts in September every year.
+[00:03:42] Ravi Kulkarni: Is that a hard requirement or a nice-to-have?
+[00:04:09] Ravi Kulkarni: That's a good question, I'm not sure.
+[00:05:06] Ravi Kulkarni: Uh, I'll share my screen. Database schema migrations must be backward compatible for at least one release.
+[00:05:48] Ken Tanaka: Uh, I'll share my screen. Capacity planning for the holiday peak starts in September every year.
+[00:06:42] Ken Tanaka: Makes sense to me.
+[00:07:16] Julia Novak: I don't have context on that one, sorry. Service-level objectives are reviewed quarterly with product owners.
+[00:07:33] Ravi Kulkarni: I think we covered that last time, right? We should revisit the alert thresholds after the next game day.
+[00:08:29] Priya Nair: We're slightly over time so let's move on. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:09:20] Ken Tanaka: [crosstalk] Dependency upgrades are batched weekly by the platform bot.
+[00:09:36] Julia Novak: [crosstalk] Every service has a README that links to its dashboards and runbook.
+[00:10:15] Julia Novak: Let's take that offline. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:10:25] Julia Novak: Okay, um, so let's get started.
+[00:10:59] Ravi Kulkarni: Is that a hard requirement or a nice-to-have?
+[00:11:11] Ravi Kulkarni: We had a similar discussion in Q3.
+[00:11:50] Priya Nair: We had a similar discussion in Q3.
+[00:12:25] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:13:25] Julia Novak: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:14:11] Ken Tanaka: Nothing from my side. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:15:11] Ken Tanaka: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:16:06] Ken Tanaka: Let me check the dashboard real quick. The dashboards were updated to show saturation alongside latency and errors.
+[00:16:26] Priya Nair: We had a similar discussion in Q3. Infrastructure changes go through Terraform plans that need two approvals.
+[00:17:23] Priya Nair: We had a similar discussion in Q3. Infrastructure changes go through Terraform plans that need two approvals.
+[00:18:10] Ken Tanaka: Nothing from my side.
+[00:18:47] Julia Novak: Sorry, I was on mute.
+[00:19:02] Ravi Kulkarni: Let's take that offline. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:19:38] Ken Tanaka: Uh, I'll share my screen. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:20:15] Ken Tanaka: Can you put that in the notes? All services must expose Prometheus metrics on the /metrics path.
+[00:21:08] Ken Tanaka: Sorry, I was on mute. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:21:56] Priya Nair: Sorry, I was on mute. Every service has a README that links to its dashboards and runbook.
+[00:22:50] Ravi Kulkarni: Let me check the dashboard real quick. The dashboards were updated to show saturation alongside latency and errors.
+[00:23:47] Ravi Kulkarni: Makes sense to me. Capacity planning for the holiday peak starts in September every year.
+[00:24:05] Ravi Kulkarni: Uh, I'll share my screen.
+[00:24:16] Julia Novak: I don't have context on that one, sorry. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:24:42] Ravi Kulkarni: I think we covered that last time, right?
+[00:25:02] Ken Tanaka: Can you put that in the notes? Dependency upgrades are batched weekly by the platform bot.
+[00:25:41] Ken Tanaka: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:26:31] Julia Novak: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:27:17] Ken Tanaka: We're slightly over time so let's move on.
+[00:27:42] Ravi Kulkarni: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:28:31] Priya Nair: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:29:21] Priya Nair: Makes sense to me.
+[00:29:32] Ken Tanaka: That's a good question, I'm not sure.
+[00:29:50] Priya Nair: Uh, I'll share my screen.
+[00:30:45] Priya Nair: Can everyone hear me? Yeah, okay. Infrastructure changes go through Terraform plans that need two approvals.

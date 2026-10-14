@@ -1,0 +1,201 @@
+[
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1754905598.000000",
+  "thread_ts": "1754905598.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": ":eyes:",
+  "ts": "1754906094.000000",
+  "thread_ts": "1754905598.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "dashboards look fine on my side",
+  "ts": "1754906780.000000",
+  "thread_ts": "1754905598.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can someone review my PR",
+  "ts": "1754906986.000000",
+  "thread_ts": "1754905598.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "is staging down again?",
+  "ts": "1754907470.000000",
+  "thread_ts": "1754905598.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "We should revisit the alert thresholds after the next game day.",
+  "ts": "1754909414.000000",
+  "thread_ts": "1754909414.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1754909664.000000",
+  "thread_ts": "1754909414.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "nope, just slow",
+  "ts": "1754909952.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1754912126.000000",
+  "thread_ts": "1754912126.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "hmm interesting",
+  "ts": "1754912339.000000",
+  "thread_ts": "1754912126.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1754912570.000000",
+  "thread_ts": "1754912126.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1754912693.000000",
+  "thread_ts": "1754912126.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "lgtm :+1:",
+  "ts": "1754913329.000000",
+  "thread_ts": "1754912126.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "rolling back just in case",
+  "ts": "1754913902.000000",
+  "thread_ts": "1754912126.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1754915493.000000",
+  "thread_ts": "1754915493.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "yeah that's the one",
+  "ts": "1754915947.000000",
+  "thread_ts": "1754915493.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "hmm interesting",
+  "ts": "1754916189.000000",
+  "thread_ts": "1754915493.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "ack",
+  "ts": "1754916236.000000",
+  "thread_ts": "1754915493.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": ":eyes:",
+  "ts": "1754916680.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1754920533.000000",
+  "thread_ts": "1754920533.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1754921002.000000",
+  "thread_ts": "1754920533.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "taking a look",
+  "ts": "1754921451.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1754922468.000000",
+  "thread_ts": "1754922468.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ok merged",
+  "ts": "1754923262.000000",
+  "thread_ts": "1754922468.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1754926595.000000",
+  "thread_ts": "1754926595.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "is staging down again?",
+  "ts": "1754926707.000000",
+  "thread_ts": "1754926595.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "yeah that's the one",
+  "ts": "1754927216.000000",
+  "thread_ts": "1754926595.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1754927743.000000"
+ }
+]

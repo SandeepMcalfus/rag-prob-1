@@ -1,0 +1,118 @@
+[
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1707903045.000000",
+  "thread_ts": "1707903045.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "hmm interesting",
+  "ts": "1707903758.000000",
+  "thread_ts": "1707903045.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "nope, just slow",
+  "ts": "1707904341.000000",
+  "thread_ts": "1707903045.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": ":eyes:",
+  "ts": "1707904898.000000",
+  "thread_ts": "1707903045.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "+1",
+  "ts": "1707905280.000000",
+  "thread_ts": "1707903045.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "yeah that's the one",
+  "ts": "1707906069.000000",
+  "thread_ts": "1707903045.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1707907052.000000",
+  "thread_ts": "1707907052.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "+1",
+  "ts": "1707907147.000000",
+  "thread_ts": "1707907052.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1707907920.000000",
+  "thread_ts": "1707907920.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1707908322.000000",
+  "thread_ts": "1707907920.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ok merged",
+  "ts": "1707908840.000000",
+  "thread_ts": "1707907920.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "thanks!",
+  "ts": "1707909080.000000",
+  "thread_ts": "1707907920.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ticket filed",
+  "ts": "1707909560.000000",
+  "thread_ts": "1707907920.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ack",
+  "ts": "1707911096.000000",
+  "thread_ts": "1707911096.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1707911374.000000",
+  "thread_ts": "1707911096.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "let's not do that on a Friday",
+  "ts": "1707911871.000000",
+  "thread_ts": "1707911096.000000"
+ }
+]

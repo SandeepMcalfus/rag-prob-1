@@ -1,0 +1,141 @@
+[
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "rolling back just in case",
+  "ts": "1711271996.000000",
+  "thread_ts": "1711271996.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can we sync after standup?",
+  "ts": "1711272424.000000",
+  "thread_ts": "1711271996.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "+1",
+  "ts": "1711272753.000000",
+  "thread_ts": "1711271996.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "ticket filed",
+  "ts": "1711272950.000000",
+  "thread_ts": "1711271996.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "dashboards look fine on my side",
+  "ts": "1711273665.000000",
+  "thread_ts": "1711271996.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "thanks!",
+  "ts": "1711274782.000000",
+  "thread_ts": "1711274782.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "taking a look",
+  "ts": "1711275114.000000",
+  "thread_ts": "1711274782.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "can someone review my PR",
+  "ts": "1711275714.000000",
+  "thread_ts": "1711274782.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1711277553.000000",
+  "thread_ts": "1711277553.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "dashboards look fine on my side",
+  "ts": "1711278283.000000",
+  "thread_ts": "1711277553.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "let's not do that on a Friday",
+  "ts": "1711279004.000000",
+  "thread_ts": "1711277553.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "thanks!",
+  "ts": "1711281055.000000",
+  "thread_ts": "1711281055.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "thanks!",
+  "ts": "1711281860.000000",
+  "thread_ts": "1711281055.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1711284679.000000",
+  "thread_ts": "1711284679.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "nope, just slow",
+  "ts": "1711285334.000000",
+  "thread_ts": "1711284679.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "hmm interesting",
+  "ts": "1711285408.000000",
+  "thread_ts": "1711284679.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1711285556.000000",
+  "thread_ts": "1711284679.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1711288981.000000",
+  "thread_ts": "1711288981.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1711289277.000000",
+  "thread_ts": "1711288981.000000"
+ }
+]

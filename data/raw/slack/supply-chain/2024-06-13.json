@@ -1,0 +1,267 @@
+[
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1718272771.000000",
+  "thread_ts": "1718272771.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1718272905.000000",
+  "thread_ts": "1718272771.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1718273071.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1718275625.000000",
+  "thread_ts": "1718275625.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "dashboards look fine on my side",
+  "ts": "1718275764.000000",
+  "thread_ts": "1718275625.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718276345.000000",
+  "thread_ts": "1718275625.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718277037.000000",
+  "thread_ts": "1718275625.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "hmm interesting",
+  "ts": "1718280408.000000",
+  "thread_ts": "1718280408.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "let's not do that on a Friday",
+  "ts": "1718280587.000000",
+  "thread_ts": "1718280408.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1718281340.000000",
+  "thread_ts": "1718280408.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "taking a look",
+  "ts": "1718283668.000000",
+  "thread_ts": "1718283668.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "ok merged",
+  "ts": "1718283998.000000",
+  "thread_ts": "1718283668.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "can we sync after standup?",
+  "ts": "1718284671.000000",
+  "thread_ts": "1718283668.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1718284762.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "hmm interesting",
+  "ts": "1718285910.000000",
+  "thread_ts": "1718285910.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can we sync after standup?",
+  "ts": "1718286393.000000",
+  "thread_ts": "1718285910.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "let's not do that on a Friday",
+  "ts": "1718289402.000000",
+  "thread_ts": "1718289402.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "ok merged",
+  "ts": "1718289805.000000",
+  "thread_ts": "1718289402.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "+1",
+  "ts": "1718290263.000000",
+  "thread_ts": "1718289402.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "+1",
+  "ts": "1718290933.000000",
+  "thread_ts": "1718289402.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "rolling back just in case",
+  "ts": "1718291362.000000",
+  "thread_ts": "1718291362.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718291866.000000",
+  "thread_ts": "1718291362.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can we sync after standup?",
+  "ts": "1718292674.000000",
+  "thread_ts": "1718291362.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ticket filed",
+  "ts": "1718293399.000000",
+  "thread_ts": "1718291362.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1718296504.000000",
+  "thread_ts": "1718296504.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "taking a look",
+  "ts": "1718297301.000000",
+  "thread_ts": "1718296504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "see above",
+  "ts": "1718297455.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1718300721.000000",
+  "thread_ts": "1718300721.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "+1",
+  "ts": "1718300988.000000",
+  "thread_ts": "1718300721.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "dashboards look fine on my side",
+  "ts": "1718301043.000000",
+  "thread_ts": "1718300721.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "hmm interesting",
+  "ts": "1718301628.000000",
+  "thread_ts": "1718300721.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "+1",
+  "ts": "1718301869.000000",
+  "thread_ts": "1718300721.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "is staging down again?",
+  "ts": "1718302060.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "same as last week I think",
+  "ts": "1718304180.000000",
+  "thread_ts": "1718304180.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1718304778.000000",
+  "thread_ts": "1718304180.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "done",
+  "ts": "1718305467.000000",
+  "thread_ts": "1718304180.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ticket filed",
+  "ts": "1718305746.000000",
+  "thread_ts": "1718304180.000000"
+ }
+]

@@ -1,0 +1,86 @@
+Meeting: Platform Guild
+Date: 2024-04-20
+Attendees: Ravi Kulkarni, Ken Tanaka, Emma Larsen, Noah Fischer
+Transcript generated automatically - may contain errors.
+
+[00:00:25] Ravi Kulkarni: I think we covered that last time, right? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:01:10] Ken Tanaka: Let's take that offline.
+[00:01:34] Emma Larsen: That's a good question, I'm not sure. On-call handover happens every Monday at 10:00 local time.
+[00:02:10] Ken Tanaka: We're slightly over time so let's move on. The dashboards were updated to show saturation alongside latency and errors.
+[00:02:21] Ken Tanaka: I don't have context on that one, sorry. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:03:10] Emma Larsen: I don't have context on that one, sorry. Database schema migrations must be backward compatible for at least one release.
+[00:04:07] Ken Tanaka: Let's take that offline. On-call handover happens every Monday at 10:00 local time.
+[00:04:36] Emma Larsen: [crosstalk]
+[00:05:17] Ken Tanaka: Can everyone hear me? Yeah, okay. Database schema migrations must be backward compatible for at least one release.
+[00:05:28] Noah Fischer: [crosstalk] Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:06:16] Ken Tanaka: Sorry, I was on mute. Dependency upgrades are batched weekly by the platform bot.
+[00:07:08] Noah Fischer: Makes sense to me.
+[00:07:52] Emma Larsen: I don't have context on that one, sorry. All services must expose Prometheus metrics on the /metrics path.
+[00:08:06] Noah Fischer: Can everyone hear me? Yeah, okay. We should revisit the alert thresholds after the next game day.
+[00:08:54] Ken Tanaka: We're slightly over time so let's move on. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:09:17] Noah Fischer: Makes sense to me.
+[00:09:49] Ken Tanaka: Let me check the dashboard real quick. We should revisit the alert thresholds after the next game day.
+[00:10:20] Ravi Kulkarni: Sorry, I was on mute. Database schema migrations must be backward compatible for at least one release.
+[00:10:35] Ken Tanaka: I don't have context on that one, sorry. Postmortems are blameless and are published within five business days.
+[00:11:31] Emma Larsen: Can everyone hear me? Yeah, okay.
+[00:11:51] Ken Tanaka: I don't have context on that one, sorry. Service-level objectives are reviewed quarterly with product owners.
+[00:12:45] Ken Tanaka: Makes sense to me.
+[00:13:08] Ken Tanaka: Is that a hard requirement or a nice-to-have? Service-level objectives are reviewed quarterly with product owners.
+[00:13:22] Ravi Kulkarni: Let's take that offline. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:13:51] Ken Tanaka: I don't have context on that one, sorry. Container images are built once and promoted across environments by digest.
+[00:14:50] Emma Larsen: Uh, I'll share my screen.
+[00:15:49] Noah Fischer: Sorry, I was on mute. Capacity planning for the holiday peak starts in September every year.
+[00:16:47] Ken Tanaka: Is that a hard requirement or a nice-to-have? Container images are built once and promoted across environments by digest.
+[00:17:15] Noah Fischer: We're slightly over time so let's move on.
+[00:18:11] Ken Tanaka: I don't have context on that one, sorry.
+[00:18:39] Ken Tanaka: Can everyone hear me? Yeah, okay.
+[00:19:04] Ken Tanaka: Nothing from my side.
+[00:19:43] Ken Tanaka: Sorry, I was on mute.
+[00:20:41] Ravi Kulkarni: Uh, I'll share my screen. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:21:12] Noah Fischer: Nothing from my side. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:22:05] Emma Larsen: Nothing from my side.
+[00:22:58] Noah Fischer: Okay, any other updates? Every service has a README that links to its dashboards and runbook.
+[00:23:46] Ravi Kulkarni: Is that a hard requirement or a nice-to-have? Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:24:22] Ken Tanaka: Let me check the dashboard real quick. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:24:54] Ken Tanaka: [crosstalk] Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:25:10] Ravi Kulkarni: I don't have context on that one, sorry. Container images are built once and promoted across environments by digest.
+[00:25:32] Ravi Kulkarni: We had a similar discussion in Q3. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:26:07] Noah Fischer: We had a similar discussion in Q3. Container images are built once and promoted across environments by digest.
+[00:27:06] Noah Fischer: Makes sense to me. We should revisit the alert thresholds after the next game day.
+[00:27:25] Noah Fischer: We're slightly over time so let's move on. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:27:55] Ravi Kulkarni: I don't have context on that one, sorry.
+[00:28:35] Ravi Kulkarni: Can you put that in the notes?
+[00:28:49] Ravi Kulkarni: Sorry, I was on mute. Database schema migrations must be backward compatible for at least one release.
+[00:29:09] Emma Larsen: Is that a hard requirement or a nice-to-have?
+[00:29:33] Emma Larsen: Can you put that in the notes? On-call handover happens every Monday at 10:00 local time.
+[00:29:49] Emma Larsen: Okay, um, so let's get started.
+[00:30:15] Emma Larsen: Let me check the dashboard real quick.
+[00:31:15] Ravi Kulkarni: Okay, any other updates?
+[00:32:11] Ken Tanaka: Let me check the dashboard real quick. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:32:49] Ken Tanaka: Nothing from my side. Database schema migrations must be backward compatible for at least one release.
+[00:33:45] Noah Fischer: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:34:13] Ken Tanaka: That's a good question, I'm not sure.
+[00:35:05] Noah Fischer: Is that a hard requirement or a nice-to-have? Database schema migrations must be backward compatible for at least one release.
+[00:35:14] Emma Larsen: Let's take that offline. Capacity planning for the holiday peak starts in September every year.
+[00:35:41] Ravi Kulkarni: Okay, any other updates?
+[00:36:11] Emma Larsen: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:37:07] Emma Larsen: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:38:05] Ravi Kulkarni: Let's take that offline. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:38:49] Noah Fischer: Let me check the dashboard real quick. Every service has a README that links to its dashboards and runbook.
+[00:39:01] Noah Fischer: Is that a hard requirement or a nice-to-have? Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:39:45] Noah Fischer: I don't have context on that one, sorry. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:40:36] Ken Tanaka: Can everyone hear me? Yeah, okay.
+[00:41:22] Noah Fischer: Okay, um, so let's get started. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:41:54] Emma Larsen: Is that a hard requirement or a nice-to-have? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:42:06] Noah Fischer: Can everyone hear me? Yeah, okay. We should revisit the alert thresholds after the next game day.
+[00:42:24] Emma Larsen: That's a good question, I'm not sure. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:42:40] Noah Fischer: Okay, any other updates?
+[00:43:12] Ken Tanaka: Let's take that offline.
+[00:43:39] Noah Fischer: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:44:06] Ken Tanaka: Nothing from my side.
+[00:44:43] Emma Larsen: Is that a hard requirement or a nice-to-have? Capacity planning for the holiday peak starts in September every year.
+[00:45:19] Ravi Kulkarni: Let me check the dashboard real quick.
+[00:45:42] Emma Larsen: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:45:52] Ravi Kulkarni: I don't have context on that one, sorry.
+[00:46:29] Emma Larsen: I don't have context on that one, sorry. All services must expose Prometheus metrics on the /metrics path.
+[00:47:03] Ken Tanaka: Uh, I'll share my screen.

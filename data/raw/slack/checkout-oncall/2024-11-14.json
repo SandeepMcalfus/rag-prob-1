@@ -1,0 +1,209 @@
+[
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1731577694.000000",
+  "thread_ts": "1731577694.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "is staging down again?",
+  "ts": "1731577776.000000",
+  "thread_ts": "1731577694.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "lgtm :+1:",
+  "ts": "1731578455.000000",
+  "thread_ts": "1731577694.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "yeah that's the one",
+  "ts": "1731578587.000000",
+  "thread_ts": "1731577694.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1731578894.000000",
+  "thread_ts": "1731577694.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "lgtm :+1:",
+  "ts": "1731579002.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1731579304.000000",
+  "thread_ts": "1731579304.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1731579807.000000",
+  "thread_ts": "1731579304.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "same as last week I think",
+  "ts": "1731580268.000000",
+  "thread_ts": "1731579304.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can we sync after standup?",
+  "ts": "1731582057.000000",
+  "thread_ts": "1731582057.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "rolling back just in case",
+  "ts": "1731582416.000000",
+  "thread_ts": "1731582057.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1731585128.000000",
+  "thread_ts": "1731585128.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1731585746.000000",
+  "thread_ts": "1731585128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ack",
+  "ts": "1731585874.000000",
+  "thread_ts": "1731585128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1731585936.000000",
+  "thread_ts": "1731585128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "taking a look",
+  "ts": "1731586452.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Infrastructure changes go through Terraform plans that need two approvals.",
+  "ts": "1731588990.000000",
+  "thread_ts": "1731588990.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ack",
+  "ts": "1731589054.000000",
+  "thread_ts": "1731588990.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "nope, just slow",
+  "ts": "1731589502.000000",
+  "thread_ts": "1731588990.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1731592912.000000",
+  "thread_ts": "1731592912.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "let's not do that on a Friday",
+  "ts": "1731593576.000000",
+  "thread_ts": "1731592912.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "<@U1015> the checkout dashboard you want is CHK-OVERVIEW in Grafana",
+  "ts": "1731594042.000000",
+  "thread_ts": "1731592912.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "is staging down again?",
+  "ts": "1731594598.000000",
+  "thread_ts": "1731592912.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1731594938.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1731595424.000000",
+  "thread_ts": "1731595424.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "nope, just slow",
+  "ts": "1731596145.000000",
+  "thread_ts": "1731595424.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "same as last week I think",
+  "ts": "1731596241.000000",
+  "thread_ts": "1731595424.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "is staging down again?",
+  "ts": "1731597029.000000",
+  "thread_ts": "1731595424.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "hmm interesting",
+  "ts": "1731597624.000000",
+  "thread_ts": "1731595424.000000"
+ }
+]

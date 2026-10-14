@@ -1,0 +1,167 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ticket filed",
+  "ts": "1739353296.000000",
+  "thread_ts": "1739353296.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ok merged",
+  "ts": "1739353720.000000",
+  "thread_ts": "1739353296.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "is staging down again?",
+  "ts": "1739356059.000000",
+  "thread_ts": "1739356059.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1739356190.000000",
+  "thread_ts": "1739356059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1739356248.000000",
+  "thread_ts": "1739356059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "hmm interesting",
+  "ts": "1739356353.000000",
+  "thread_ts": "1739356059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "thanks!",
+  "ts": "1739356620.000000",
+  "thread_ts": "1739356059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "hmm interesting",
+  "ts": "1739357504.000000",
+  "thread_ts": "1739357504.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ok merged",
+  "ts": "1739358310.000000",
+  "thread_ts": "1739357504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1739358374.000000",
+  "thread_ts": "1739357504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "dashboards look fine on my side",
+  "ts": "1739358550.000000",
+  "thread_ts": "1739357504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "rolling back just in case",
+  "ts": "1739358749.000000",
+  "thread_ts": "1739357504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1739358974.000000",
+  "thread_ts": "1739357504.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1739359901.000000",
+  "thread_ts": "1739359901.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ok merged",
+  "ts": "1739360563.000000",
+  "thread_ts": "1739359901.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "done",
+  "ts": "1739361256.000000",
+  "thread_ts": "1739359901.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "see above",
+  "ts": "1739361767.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1739364531.000000",
+  "thread_ts": "1739364531.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1739364609.000000",
+  "thread_ts": "1739364531.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1739365048.000000",
+  "thread_ts": "1739364531.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "rolling back just in case",
+  "ts": "1739365281.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1739365738.000000",
+  "thread_ts": "1739365738.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "ticket filed",
+  "ts": "1739365761.000000",
+  "thread_ts": "1739365738.000000"
+ }
+]

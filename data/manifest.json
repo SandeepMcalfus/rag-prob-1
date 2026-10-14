@@ -1,0 +1,1455 @@
+{
+ "documents": {
+  "arch_payment-service": {
+   "path": "data/raw/pdf/arch_payment-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-01-15",
+   "title": "Payment Service Architecture"
+  },
+  "arch_checkout-service": {
+   "path": "data/raw/pdf/arch_checkout-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-01-15",
+   "title": "Checkout Service Architecture"
+  },
+  "arch_auth-service": {
+   "path": "data/raw/pdf/arch_auth-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-06-03",
+   "title": "Auth Service Architecture"
+  },
+  "arch_user-profile-service": {
+   "path": "data/raw/pdf/arch_user-profile-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2023-06-12",
+   "title": "User Profile Service Architecture"
+  },
+  "arch_notification-service": {
+   "path": "data/raw/pdf/arch_notification-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-02-01",
+   "title": "Notification Service Architecture"
+  },
+  "arch_search-service": {
+   "path": "data/raw/pdf/arch_search-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2023-09-18",
+   "title": "Search Service Architecture"
+  },
+  "arch_inventory-service": {
+   "path": "data/raw/pdf/arch_inventory-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-04-22",
+   "title": "Inventory Service Architecture"
+  },
+  "arch_order-service": {
+   "path": "data/raw/pdf/arch_order-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-03-01",
+   "title": "Order Service Architecture"
+  },
+  "arch_shipping-service": {
+   "path": "data/raw/pdf/arch_shipping-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2023-12-05",
+   "title": "Shipping Service Architecture"
+  },
+  "arch_billing-service": {
+   "path": "data/raw/pdf/arch_billing-service.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-05-02",
+   "title": "Billing Service Architecture"
+  },
+  "arch_analytics-pipeline": {
+   "path": "data/raw/pdf/arch_analytics-pipeline.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-07-15",
+   "title": "Analytics Pipeline Architecture"
+  },
+  "arch_api-gateway": {
+   "path": "data/raw/pdf/arch_api-gateway.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-01-22",
+   "title": "API Gateway Architecture"
+  },
+  "arch_platform_overview": {
+   "path": "data/raw/pdf/arch_platform_overview.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-02-10",
+   "title": "Platform Architecture Overview"
+  },
+  "arch_data_platform": {
+   "path": "data/raw/pdf/arch_data_platform.pdf",
+   "source_type": "pdf",
+   "true_date": "2024-07-15",
+   "title": "Data Platform Design"
+  },
+  "svc_payment-service": {
+   "path": "data/raw/markdown/svc_payment-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-10-01",
+   "title": "Payment Service"
+  },
+  "svc_checkout-service": {
+   "path": "data/raw/markdown/svc_checkout-service.md",
+   "source_type": "markdown",
+   "true_date": "2025-01-15",
+   "title": "Checkout Service"
+  },
+  "svc_auth-service": {
+   "path": "data/raw/markdown/svc_auth-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-08-12",
+   "title": "Auth Service"
+  },
+  "svc_user-profile-service": {
+   "path": "data/raw/markdown/svc_user-profile-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-06-30",
+   "title": "User Profile Service"
+  },
+  "svc_notification-service": {
+   "path": "data/raw/markdown/svc_notification-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-02-14",
+   "title": "Notification Service"
+  },
+  "svc_search-service": {
+   "path": "data/raw/markdown/svc_search-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-05-09",
+   "title": "Search Service"
+  },
+  "svc_inventory-service": {
+   "path": "data/raw/markdown/svc_inventory-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-09-23",
+   "title": "Inventory Service"
+  },
+  "svc_order-service": {
+   "path": "data/raw/markdown/svc_order-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-07-07",
+   "title": "Order Service"
+  },
+  "svc_shipping-service": {
+   "path": "data/raw/markdown/svc_shipping-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-04-18",
+   "title": "Shipping Service"
+  },
+  "svc_billing-service": {
+   "path": "data/raw/markdown/svc_billing-service.md",
+   "source_type": "markdown",
+   "true_date": "2024-03-27",
+   "title": "Billing Service"
+  },
+  "svc_analytics-pipeline": {
+   "path": "data/raw/markdown/svc_analytics-pipeline.md",
+   "source_type": "markdown",
+   "true_date": "2024-11-11",
+   "title": "Analytics Pipeline"
+  },
+  "svc_api-gateway": {
+   "path": "data/raw/markdown/svc_api-gateway.md",
+   "source_type": "markdown",
+   "true_date": "2024-06-01",
+   "title": "API Gateway"
+  },
+  "auth_token_design": {
+   "path": "data/raw/markdown/auth_token_design.md",
+   "source_type": "markdown",
+   "true_date": "2023-11-02",
+   "title": "Auth Token Design"
+  },
+  "order_service_argocd_migration": {
+   "path": "data/raw/markdown/order_service_argocd_migration.md",
+   "source_type": "markdown",
+   "true_date": "2024-11-20",
+   "title": "Order Service: Jenkins to ArgoCD migration"
+  },
+  "onboarding": {
+   "path": "data/raw/markdown/onboarding.md",
+   "source_type": "markdown",
+   "true_date": "2023-01-01",
+   "title": "Engineering Onboarding"
+  },
+  "coding_standards": {
+   "path": "data/raw/markdown/coding_standards.md",
+   "source_type": "markdown",
+   "true_date": "2024-02-08",
+   "title": "Coding Standards"
+  },
+  "adr_001_kubernetes": {
+   "path": "data/raw/markdown/adr_001_kubernetes.md",
+   "source_type": "markdown",
+   "true_date": "2025-03-15",
+   "title": "ADR 001: Adopt Kubernetes"
+  },
+  "adr_002_kafka": {
+   "path": "data/raw/markdown/adr_002_kafka.md",
+   "source_type": "markdown",
+   "true_date": "2023-04-22",
+   "title": "ADR 002: Kafka as event backbone"
+  },
+  "adr_003_argocd": {
+   "path": "data/raw/markdown/adr_003_argocd.md",
+   "source_type": "markdown",
+   "true_date": "2024-05-02",
+   "title": "ADR 003: GitOps with ArgoCD"
+  },
+  "adr_004_opentelemetry": {
+   "path": "data/raw/markdown/adr_004_opentelemetry.md",
+   "source_type": "markdown",
+   "true_date": "2025-06-09",
+   "title": "ADR 004: OpenTelemetry"
+  },
+  "observability_guide": {
+   "path": "data/raw/markdown/observability_guide.md",
+   "source_type": "markdown",
+   "true_date": "2023-07-16",
+   "title": "Observability Guide"
+  },
+  "ci_pipeline": {
+   "path": "data/raw/markdown/ci_pipeline.md",
+   "source_type": "markdown",
+   "true_date": "2024-08-23",
+   "title": "CI Pipeline Guide"
+  },
+  "local_dev_setup": {
+   "path": "data/raw/markdown/local_dev_setup.md",
+   "source_type": "markdown",
+   "true_date": "2025-09-03",
+   "title": "Local Development Setup"
+  },
+  "code_review_guidelines": {
+   "path": "data/raw/markdown/code_review_guidelines.md",
+   "source_type": "markdown",
+   "true_date": "2023-10-10",
+   "title": "Code Review Guidelines"
+  },
+  "incident_severity_levels": {
+   "path": "data/raw/markdown/incident_severity_levels.md",
+   "source_type": "markdown",
+   "true_date": "2024-11-17",
+   "title": "Incident Severity Levels"
+  },
+  "terraform_conventions": {
+   "path": "data/raw/markdown/terraform_conventions.md",
+   "source_type": "markdown",
+   "true_date": "2025-12-24",
+   "title": "Terraform Conventions"
+  },
+  "api_design_guidelines": {
+   "path": "data/raw/markdown/api_design_guidelines.md",
+   "source_type": "markdown",
+   "true_date": "2023-01-04",
+   "title": "API Design Guidelines"
+  },
+  "database_migrations": {
+   "path": "data/raw/markdown/database_migrations.md",
+   "source_type": "markdown",
+   "true_date": "2024-02-11",
+   "title": "Database Migration Policy"
+  },
+  "release_calendar": {
+   "path": "data/raw/markdown/release_calendar.md",
+   "source_type": "markdown",
+   "true_date": "2025-03-18",
+   "title": "Release Calendar"
+  },
+  "security_baseline": {
+   "path": "data/raw/markdown/security_baseline.md",
+   "source_type": "markdown",
+   "true_date": "2023-04-25",
+   "title": "Security Baseline"
+  },
+  "runbook_payment-service": {
+   "path": "data/raw/runbooks/runbook_payment-service.md",
+   "source_type": "runbook",
+   "true_date": null,
+   "title": "Payment Service Runbook"
+  },
+  "runbook_checkout-service": {
+   "path": "data/raw/runbooks/runbook_checkout-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-05-11",
+   "title": "Checkout Service Runbook"
+  },
+  "runbook_auth-service": {
+   "path": "data/raw/runbooks/runbook_auth-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-05-15",
+   "title": "Auth Service Runbook"
+  },
+  "runbook_user-profile-service": {
+   "path": "data/raw/runbooks/runbook_user-profile-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-07-11",
+   "title": "User Profile Service Runbook"
+  },
+  "runbook_notification-service": {
+   "path": "data/raw/runbooks/runbook_notification-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-06-06",
+   "title": "Notification Service Runbook"
+  },
+  "runbook_search-service": {
+   "path": "data/raw/runbooks/runbook_search-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-06-26",
+   "title": "Search Service Runbook"
+  },
+  "runbook_inventory-service": {
+   "path": "data/raw/runbooks/runbook_inventory-service.md",
+   "source_type": "runbook",
+   "true_date": null,
+   "title": "Inventory Service Runbook"
+  },
+  "runbook_order-service": {
+   "path": "data/raw/runbooks/runbook_order-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-03-08",
+   "title": "Order Service Runbook"
+  },
+  "runbook_shipping-service": {
+   "path": "data/raw/runbooks/runbook_shipping-service.md",
+   "source_type": "runbook",
+   "true_date": null,
+   "title": "Shipping Service Runbook"
+  },
+  "runbook_billing-service": {
+   "path": "data/raw/runbooks/runbook_billing-service.md",
+   "source_type": "runbook",
+   "true_date": "2024-05-20",
+   "title": "Billing Service Runbook"
+  },
+  "runbook_analytics-pipeline": {
+   "path": "data/raw/runbooks/runbook_analytics-pipeline.md",
+   "source_type": "runbook",
+   "true_date": null,
+   "title": "Analytics Pipeline Runbook"
+  },
+  "runbook_api-gateway": {
+   "path": "data/raw/runbooks/runbook_api-gateway.md",
+   "source_type": "runbook",
+   "true_date": "2024-08-21",
+   "title": "API Gateway Runbook"
+  },
+  "runbook_redis_outage": {
+   "path": "data/raw/runbooks/runbook_redis_outage.md",
+   "source_type": "runbook",
+   "true_date": null,
+   "title": "Redis Outage"
+  },
+  "runbook_db_connection_failures": {
+   "path": "data/raw/runbooks/runbook_db_connection_failures.md",
+   "source_type": "runbook",
+   "true_date": "2024-08-30",
+   "title": "Database Connection Failures"
+  },
+  "runbook_k8s_crashloop": {
+   "path": "data/raw/runbooks/runbook_k8s_crashloop.md",
+   "source_type": "runbook",
+   "true_date": "2024-04-11",
+   "title": "Pod CrashLoopBackOff"
+  },
+  "runbook_incident_process": {
+   "path": "data/raw/runbooks/runbook_incident_process.md",
+   "source_type": "runbook",
+   "true_date": "2024-01-05",
+   "title": "Incident Response Process"
+  },
+  "faq_platform": {
+   "path": "data/raw/faq/faq_platform.html",
+   "source_type": "faq",
+   "true_date": "2024-06-14",
+   "title": "Platform FAQ"
+  },
+  "faq_auth": {
+   "path": "data/raw/faq/faq_auth.html",
+   "source_type": "faq",
+   "true_date": "2024-02-20",
+   "title": "Authentication FAQ"
+  },
+  "faq_deploy": {
+   "path": "data/raw/faq/faq_deploy.html",
+   "source_type": "faq",
+   "true_date": "2024-09-02",
+   "title": "Deployment FAQ"
+  },
+  "faq_gateway": {
+   "path": "data/raw/faq/faq_gateway.html",
+   "source_type": "faq",
+   "true_date": "2024-01-22",
+   "title": "API Gateway FAQ"
+  },
+  "transcript_payments_arch_sync_2025-02-12": {
+   "path": "data/raw/transcripts/transcript_payments_arch_sync_2025-02-12.txt",
+   "source_type": "transcript",
+   "true_date": "2025-02-12",
+   "title": "Payments Architecture Sync"
+  },
+  "transcript_discovery_sync_2025-03-04": {
+   "path": "data/raw/transcripts/transcript_discovery_sync_2025-03-04.txt",
+   "source_type": "transcript",
+   "true_date": "2025-03-04",
+   "title": "Discovery Team Sync"
+  },
+  "transcript_edge_planning_2025-06-10": {
+   "path": "data/raw/transcripts/transcript_edge_planning_2025-06-10.txt",
+   "source_type": "transcript",
+   "true_date": "2025-06-10",
+   "title": "Platform Edge Sprint Planning"
+  },
+  "transcript_finance_eng_sync_2025-07-21": {
+   "path": "data/raw/transcripts/transcript_finance_eng_sync_2025-07-21.txt",
+   "source_type": "transcript",
+   "true_date": "2025-07-21",
+   "title": "Finance Engineering Weekly"
+  },
+  "transcript_payments_standup_2024-10-03": {
+   "path": "data/raw/transcripts/transcript_payments_standup_2024-10-03.txt",
+   "source_type": "transcript",
+   "true_date": "2024-10-03",
+   "title": "Payments Standup"
+  },
+  "transcript_perf_review_2024-08-19": {
+   "path": "data/raw/transcripts/transcript_perf_review_2024-08-19.txt",
+   "source_type": "transcript",
+   "true_date": "2024-08-19",
+   "title": "Performance Review"
+  },
+  "transcript_security_review_2024-11-07": {
+   "path": "data/raw/transcripts/transcript_security_review_2024-11-07.txt",
+   "source_type": "transcript",
+   "true_date": "2024-11-07",
+   "title": "Security Review"
+  },
+  "transcript_release_retro_2024-06-27": {
+   "path": "data/raw/transcripts/transcript_release_retro_2024-06-27.txt",
+   "source_type": "transcript",
+   "true_date": "2024-06-27",
+   "title": "Release Process Retro"
+  },
+  "transcript_data_platform_sync_2024-09-12": {
+   "path": "data/raw/transcripts/transcript_data_platform_sync_2024-09-12.txt",
+   "source_type": "transcript",
+   "true_date": "2024-09-12",
+   "title": "Data Platform Sync"
+  },
+  "transcript_supply_chain_sync_2024-05-15": {
+   "path": "data/raw/transcripts/transcript_supply_chain_sync_2024-05-15.txt",
+   "source_type": "transcript",
+   "true_date": "2024-05-15",
+   "title": "Supply Chain Sync"
+  },
+  "transcript_architecture_review_2024-03-24_0": {
+   "path": "data/raw/transcripts/transcript_architecture_review_2024-03-24_0.txt",
+   "source_type": "transcript",
+   "true_date": "2024-03-24",
+   "title": "Architecture Review"
+  },
+  "transcript_weekly_standup_2024-11-01_1": {
+   "path": "data/raw/transcripts/transcript_weekly_standup_2024-11-01_1.txt",
+   "source_type": "transcript",
+   "true_date": "2024-11-01",
+   "title": "Weekly Standup"
+  },
+  "transcript_tech_debt_triage_2024-12-25_2": {
+   "path": "data/raw/transcripts/transcript_tech_debt_triage_2024-12-25_2.txt",
+   "source_type": "transcript",
+   "true_date": "2024-12-25",
+   "title": "Tech Debt Triage"
+  },
+  "transcript_frontend_backend_sync_2025-01-14_3": {
+   "path": "data/raw/transcripts/transcript_frontend_backend_sync_2025-01-14_3.txt",
+   "source_type": "transcript",
+   "true_date": "2025-01-14",
+   "title": "Frontend-Backend Sync"
+  },
+  "transcript_weekly_standup_2025-03-17_4": {
+   "path": "data/raw/transcripts/transcript_weekly_standup_2025-03-17_4.txt",
+   "source_type": "transcript",
+   "true_date": "2025-03-17",
+   "title": "Weekly Standup"
+  },
+  "transcript_frontend_backend_sync_2025-05-04_5": {
+   "path": "data/raw/transcripts/transcript_frontend_backend_sync_2025-05-04_5.txt",
+   "source_type": "transcript",
+   "true_date": "2025-05-04",
+   "title": "Frontend-Backend Sync"
+  },
+  "transcript_reliability_sync_2024-10-20_6": {
+   "path": "data/raw/transcripts/transcript_reliability_sync_2024-10-20_6.txt",
+   "source_type": "transcript",
+   "true_date": "2024-10-20",
+   "title": "Reliability Sync"
+  },
+  "transcript_frontend_backend_sync_2025-01-22_7": {
+   "path": "data/raw/transcripts/transcript_frontend_backend_sync_2025-01-22_7.txt",
+   "source_type": "transcript",
+   "true_date": "2025-01-22",
+   "title": "Frontend-Backend Sync"
+  },
+  "transcript_weekly_standup_2025-07-05_8": {
+   "path": "data/raw/transcripts/transcript_weekly_standup_2025-07-05_8.txt",
+   "source_type": "transcript",
+   "true_date": "2025-07-05",
+   "title": "Weekly Standup"
+  },
+  "transcript_platform_guild_2024-12-03_9": {
+   "path": "data/raw/transcripts/transcript_platform_guild_2024-12-03_9.txt",
+   "source_type": "transcript",
+   "true_date": "2024-12-03",
+   "title": "Platform Guild"
+  },
+  "transcript_platform_guild_2025-03-28_10": {
+   "path": "data/raw/transcripts/transcript_platform_guild_2025-03-28_10.txt",
+   "source_type": "transcript",
+   "true_date": "2025-03-28",
+   "title": "Platform Guild"
+  },
+  "transcript_quarterly_planning_2025-01-01_11": {
+   "path": "data/raw/transcripts/transcript_quarterly_planning_2025-01-01_11.txt",
+   "source_type": "transcript",
+   "true_date": "2025-01-01",
+   "title": "Quarterly Planning"
+  },
+  "transcript_quarterly_planning_2024-03-16_12": {
+   "path": "data/raw/transcripts/transcript_quarterly_planning_2024-03-16_12.txt",
+   "source_type": "transcript",
+   "true_date": "2024-03-16",
+   "title": "Quarterly Planning"
+  },
+  "transcript_weekly_standup_2024-02-06_13": {
+   "path": "data/raw/transcripts/transcript_weekly_standup_2024-02-06_13.txt",
+   "source_type": "transcript",
+   "true_date": "2024-02-06",
+   "title": "Weekly Standup"
+  },
+  "transcript_quarterly_planning_2024-02-05_14": {
+   "path": "data/raw/transcripts/transcript_quarterly_planning_2024-02-05_14.txt",
+   "source_type": "transcript",
+   "true_date": "2024-02-05",
+   "title": "Quarterly Planning"
+  },
+  "transcript_quarterly_planning_2024-03-02_15": {
+   "path": "data/raw/transcripts/transcript_quarterly_planning_2024-03-02_15.txt",
+   "source_type": "transcript",
+   "true_date": "2024-03-02",
+   "title": "Quarterly Planning"
+  },
+  "transcript_frontend_backend_sync_2025-05-19_16": {
+   "path": "data/raw/transcripts/transcript_frontend_backend_sync_2025-05-19_16.txt",
+   "source_type": "transcript",
+   "true_date": "2025-05-19",
+   "title": "Frontend-Backend Sync"
+  },
+  "transcript_weekly_standup_2024-05-19_17": {
+   "path": "data/raw/transcripts/transcript_weekly_standup_2024-05-19_17.txt",
+   "source_type": "transcript",
+   "true_date": "2024-05-19",
+   "title": "Weekly Standup"
+  },
+  "transcript_platform_guild_2024-04-20_18": {
+   "path": "data/raw/transcripts/transcript_platform_guild_2024-04-20_18.txt",
+   "source_type": "transcript",
+   "true_date": "2024-04-20",
+   "title": "Platform Guild"
+  },
+  "transcript_frontend_backend_sync_2025-03-25_19": {
+   "path": "data/raw/transcripts/transcript_frontend_backend_sync_2025-03-25_19.txt",
+   "source_type": "transcript",
+   "true_date": "2025-03-25",
+   "title": "Frontend-Backend Sync"
+  },
+  "slack_identity_2025-05-06": {
+   "path": "data/raw/slack/identity/2025-05-06.json",
+   "source_type": "slack",
+   "true_date": "2025-05-06",
+   "title": "#identity 2025-05-06"
+  },
+  "slack_engagement_2024-09-17": {
+   "path": "data/raw/slack/engagement/2024-09-17.json",
+   "source_type": "slack",
+   "true_date": "2024-09-17",
+   "title": "#engagement 2024-09-17"
+  },
+  "slack_supply-chain_2025-04-08": {
+   "path": "data/raw/slack/supply-chain/2025-04-08.json",
+   "source_type": "slack",
+   "true_date": "2025-04-08",
+   "title": "#supply-chain 2025-04-08"
+  },
+  "slack_customer-data_2024-12-02": {
+   "path": "data/raw/slack/customer-data/2024-12-02.json",
+   "source_type": "slack",
+   "true_date": "2024-12-02",
+   "title": "#customer-data 2024-12-02"
+  },
+  "slack_platform_2024-10-21": {
+   "path": "data/raw/slack/platform/2024-10-21.json",
+   "source_type": "slack",
+   "true_date": "2024-10-21",
+   "title": "#platform 2024-10-21"
+  },
+  "slack_platform_2024-07-30": {
+   "path": "data/raw/slack/platform/2024-07-30.json",
+   "source_type": "slack",
+   "true_date": "2024-07-30",
+   "title": "#platform 2024-07-30"
+  },
+  "slack_incidents_2024-08-05": {
+   "path": "data/raw/slack/incidents/2024-08-05.json",
+   "source_type": "slack",
+   "true_date": "2024-08-05",
+   "title": "#incidents 2024-08-05"
+  },
+  "slack_checkout-oncall_2024-11-14": {
+   "path": "data/raw/slack/checkout-oncall/2024-11-14.json",
+   "source_type": "slack",
+   "true_date": "2024-11-14",
+   "title": "#checkout-oncall 2024-11-14"
+  },
+  "slack_customer-data_2024-09-03": {
+   "path": "data/raw/slack/customer-data/2024-09-03.json",
+   "source_type": "slack",
+   "true_date": "2024-09-03",
+   "title": "#customer-data 2024-09-03"
+  },
+  "slack_releases_2024-12-13": {
+   "path": "data/raw/slack/releases/2024-12-13.json",
+   "source_type": "slack",
+   "true_date": "2024-12-13",
+   "title": "#releases 2024-12-13"
+  },
+  "slack_payments-oncall_2025-01-22": {
+   "path": "data/raw/slack/payments-oncall/2025-01-22.json",
+   "source_type": "slack",
+   "true_date": "2025-01-22",
+   "title": "#payments-oncall 2025-01-22"
+  },
+  "slack_logistics_2024-06-11": {
+   "path": "data/raw/slack/logistics/2024-06-11.json",
+   "source_type": "slack",
+   "true_date": "2024-06-11",
+   "title": "#logistics 2024-06-11"
+  },
+  "slack_edge-oncall_2025-02-27": {
+   "path": "data/raw/slack/edge-oncall/2025-02-27.json",
+   "source_type": "slack",
+   "true_date": "2025-02-27",
+   "title": "#edge-oncall 2025-02-27"
+  },
+  "slack_logistics_2024-08-07": {
+   "path": "data/raw/slack/logistics/2024-08-07.json",
+   "source_type": "slack",
+   "true_date": "2024-08-07",
+   "title": "#logistics 2024-08-07"
+  },
+  "slack_data-platform_2024-06-20": {
+   "path": "data/raw/slack/data-platform/2024-06-20.json",
+   "source_type": "slack",
+   "true_date": "2024-06-20",
+   "title": "#data-platform 2024-06-20"
+  },
+  "slack_incidents_2025-08-09": {
+   "path": "data/raw/slack/incidents/2025-08-09.json",
+   "source_type": "slack",
+   "true_date": "2025-08-09",
+   "title": "#incidents 2025-08-09"
+  },
+  "slack_random-eng_2024-02-05": {
+   "path": "data/raw/slack/random-eng/2024-02-05.json",
+   "source_type": "slack",
+   "true_date": "2024-02-05",
+   "title": "#random-eng 2024-02-05"
+  },
+  "slack_logistics_2025-05-17": {
+   "path": "data/raw/slack/logistics/2025-05-17.json",
+   "source_type": "slack",
+   "true_date": "2025-05-17",
+   "title": "#logistics 2025-05-17"
+  },
+  "slack_fin-eng_2025-03-09": {
+   "path": "data/raw/slack/fin-eng/2025-03-09.json",
+   "source_type": "slack",
+   "true_date": "2025-03-09",
+   "title": "#fin-eng 2025-03-09"
+  },
+  "slack_fin-eng_2024-12-26": {
+   "path": "data/raw/slack/fin-eng/2024-12-26.json",
+   "source_type": "slack",
+   "true_date": "2024-12-26",
+   "title": "#fin-eng 2024-12-26"
+  },
+  "slack_random-eng_2024-03-24": {
+   "path": "data/raw/slack/random-eng/2024-03-24.json",
+   "source_type": "slack",
+   "true_date": "2024-03-24",
+   "title": "#random-eng 2024-03-24"
+  },
+  "slack_incidents_2024-10-25": {
+   "path": "data/raw/slack/incidents/2024-10-25.json",
+   "source_type": "slack",
+   "true_date": "2024-10-25",
+   "title": "#incidents 2024-10-25"
+  },
+  "slack_payments-oncall_2024-08-31": {
+   "path": "data/raw/slack/payments-oncall/2024-08-31.json",
+   "source_type": "slack",
+   "true_date": "2024-08-31",
+   "title": "#payments-oncall 2024-08-31"
+  },
+  "slack_engagement_2024-03-14": {
+   "path": "data/raw/slack/engagement/2024-03-14.json",
+   "source_type": "slack",
+   "true_date": "2024-03-14",
+   "title": "#engagement 2024-03-14"
+  },
+  "slack_data-platform_2024-01-17": {
+   "path": "data/raw/slack/data-platform/2024-01-17.json",
+   "source_type": "slack",
+   "true_date": "2024-01-17",
+   "title": "#data-platform 2024-01-17"
+  },
+  "slack_logistics_2025-07-24": {
+   "path": "data/raw/slack/logistics/2025-07-24.json",
+   "source_type": "slack",
+   "true_date": "2025-07-24",
+   "title": "#logistics 2025-07-24"
+  },
+  "slack_supply-chain_2025-06-05": {
+   "path": "data/raw/slack/supply-chain/2025-06-05.json",
+   "source_type": "slack",
+   "true_date": "2025-06-05",
+   "title": "#supply-chain 2025-06-05"
+  },
+  "slack_orders_2024-11-18": {
+   "path": "data/raw/slack/orders/2024-11-18.json",
+   "source_type": "slack",
+   "true_date": "2024-11-18",
+   "title": "#orders 2024-11-18"
+  },
+  "slack_edge-oncall_2025-07-26": {
+   "path": "data/raw/slack/edge-oncall/2025-07-26.json",
+   "source_type": "slack",
+   "true_date": "2025-07-26",
+   "title": "#edge-oncall 2025-07-26"
+  },
+  "slack_data-platform_2025-05-12": {
+   "path": "data/raw/slack/data-platform/2025-05-12.json",
+   "source_type": "slack",
+   "true_date": "2025-05-12",
+   "title": "#data-platform 2025-05-12"
+  },
+  "slack_orders_2024-09-13": {
+   "path": "data/raw/slack/orders/2024-09-13.json",
+   "source_type": "slack",
+   "true_date": "2024-09-13",
+   "title": "#orders 2024-09-13"
+  },
+  "slack_orders_2025-01-16": {
+   "path": "data/raw/slack/orders/2025-01-16.json",
+   "source_type": "slack",
+   "true_date": "2025-01-16",
+   "title": "#orders 2025-01-16"
+  },
+  "slack_random-eng_2024-01-15": {
+   "path": "data/raw/slack/random-eng/2024-01-15.json",
+   "source_type": "slack",
+   "true_date": "2024-01-15",
+   "title": "#random-eng 2024-01-15"
+  },
+  "slack_orders_2024-08-04": {
+   "path": "data/raw/slack/orders/2024-08-04.json",
+   "source_type": "slack",
+   "true_date": "2024-08-04",
+   "title": "#orders 2024-08-04"
+  },
+  "slack_identity_2025-01-29": {
+   "path": "data/raw/slack/identity/2025-01-29.json",
+   "source_type": "slack",
+   "true_date": "2025-01-29",
+   "title": "#identity 2025-01-29"
+  },
+  "slack_random-eng_2024-07-05": {
+   "path": "data/raw/slack/random-eng/2024-07-05.json",
+   "source_type": "slack",
+   "true_date": "2024-07-05",
+   "title": "#random-eng 2024-07-05"
+  },
+  "slack_edge-oncall_2024-07-17": {
+   "path": "data/raw/slack/edge-oncall/2024-07-17.json",
+   "source_type": "slack",
+   "true_date": "2024-07-17",
+   "title": "#edge-oncall 2024-07-17"
+  },
+  "slack_payments-oncall_2025-01-01": {
+   "path": "data/raw/slack/payments-oncall/2025-01-01.json",
+   "source_type": "slack",
+   "true_date": "2025-01-01",
+   "title": "#payments-oncall 2025-01-01"
+  },
+  "slack_payments-oncall_2025-02-10": {
+   "path": "data/raw/slack/payments-oncall/2025-02-10.json",
+   "source_type": "slack",
+   "true_date": "2025-02-10",
+   "title": "#payments-oncall 2025-02-10"
+  },
+  "slack_incidents_2025-08-11": {
+   "path": "data/raw/slack/incidents/2025-08-11.json",
+   "source_type": "slack",
+   "true_date": "2025-08-11",
+   "title": "#incidents 2025-08-11"
+  },
+  "slack_engagement_2025-03-07": {
+   "path": "data/raw/slack/engagement/2025-03-07.json",
+   "source_type": "slack",
+   "true_date": "2025-03-07",
+   "title": "#engagement 2025-03-07"
+  },
+  "slack_fin-eng_2025-08-08": {
+   "path": "data/raw/slack/fin-eng/2025-08-08.json",
+   "source_type": "slack",
+   "true_date": "2025-08-08",
+   "title": "#fin-eng 2025-08-08"
+  },
+  "slack_edge-oncall_2024-04-24": {
+   "path": "data/raw/slack/edge-oncall/2024-04-24.json",
+   "source_type": "slack",
+   "true_date": "2024-04-24",
+   "title": "#edge-oncall 2024-04-24"
+  },
+  "slack_payments-oncall_2024-03-10": {
+   "path": "data/raw/slack/payments-oncall/2024-03-10.json",
+   "source_type": "slack",
+   "true_date": "2024-03-10",
+   "title": "#payments-oncall 2024-03-10"
+  },
+  "slack_engagement_2025-03-08": {
+   "path": "data/raw/slack/engagement/2025-03-08.json",
+   "source_type": "slack",
+   "true_date": "2025-03-08",
+   "title": "#engagement 2025-03-08"
+  },
+  "slack_platform_2024-08-10": {
+   "path": "data/raw/slack/platform/2024-08-10.json",
+   "source_type": "slack",
+   "true_date": "2024-08-10",
+   "title": "#platform 2024-08-10"
+  },
+  "slack_random-eng_2024-08-29": {
+   "path": "data/raw/slack/random-eng/2024-08-29.json",
+   "source_type": "slack",
+   "true_date": "2024-08-29",
+   "title": "#random-eng 2024-08-29"
+  },
+  "slack_engagement_2025-05-01": {
+   "path": "data/raw/slack/engagement/2025-05-01.json",
+   "source_type": "slack",
+   "true_date": "2025-05-01",
+   "title": "#engagement 2025-05-01"
+  },
+  "slack_supply-chain_2025-02-03": {
+   "path": "data/raw/slack/supply-chain/2025-02-03.json",
+   "source_type": "slack",
+   "true_date": "2025-02-03",
+   "title": "#supply-chain 2025-02-03"
+  },
+  "slack_checkout-oncall_2025-02-12": {
+   "path": "data/raw/slack/checkout-oncall/2025-02-12.json",
+   "source_type": "slack",
+   "true_date": "2025-02-12",
+   "title": "#checkout-oncall 2025-02-12"
+  },
+  "slack_data-platform_2025-08-04": {
+   "path": "data/raw/slack/data-platform/2025-08-04.json",
+   "source_type": "slack",
+   "true_date": "2025-08-04",
+   "title": "#data-platform 2025-08-04"
+  },
+  "slack_supply-chain_2025-02-23": {
+   "path": "data/raw/slack/supply-chain/2025-02-23.json",
+   "source_type": "slack",
+   "true_date": "2025-02-23",
+   "title": "#supply-chain 2025-02-23"
+  },
+  "slack_fin-eng_2024-10-15": {
+   "path": "data/raw/slack/fin-eng/2024-10-15.json",
+   "source_type": "slack",
+   "true_date": "2024-10-15",
+   "title": "#fin-eng 2024-10-15"
+  },
+  "slack_logistics_2025-06-27": {
+   "path": "data/raw/slack/logistics/2025-06-27.json",
+   "source_type": "slack",
+   "true_date": "2025-06-27",
+   "title": "#logistics 2025-06-27"
+  },
+  "slack_identity_2025-02-24": {
+   "path": "data/raw/slack/identity/2025-02-24.json",
+   "source_type": "slack",
+   "true_date": "2025-02-24",
+   "title": "#identity 2025-02-24"
+  },
+  "slack_platform_2025-05-01": {
+   "path": "data/raw/slack/platform/2025-05-01.json",
+   "source_type": "slack",
+   "true_date": "2025-05-01",
+   "title": "#platform 2025-05-01"
+  },
+  "slack_orders_2024-02-11": {
+   "path": "data/raw/slack/orders/2024-02-11.json",
+   "source_type": "slack",
+   "true_date": "2024-02-11",
+   "title": "#orders 2024-02-11"
+  },
+  "slack_fin-eng_2024-11-02": {
+   "path": "data/raw/slack/fin-eng/2024-11-02.json",
+   "source_type": "slack",
+   "true_date": "2024-11-02",
+   "title": "#fin-eng 2024-11-02"
+  },
+  "slack_supply-chain_2024-06-13": {
+   "path": "data/raw/slack/supply-chain/2024-06-13.json",
+   "source_type": "slack",
+   "true_date": "2024-06-13",
+   "title": "#supply-chain 2024-06-13"
+  },
+  "slack_discovery_2024-06-28": {
+   "path": "data/raw/slack/discovery/2024-06-28.json",
+   "source_type": "slack",
+   "true_date": "2024-06-28",
+   "title": "#discovery 2024-06-28"
+  },
+  "slack_edge-oncall_2025-06-07": {
+   "path": "data/raw/slack/edge-oncall/2025-06-07.json",
+   "source_type": "slack",
+   "true_date": "2025-06-07",
+   "title": "#edge-oncall 2025-06-07"
+  },
+  "slack_identity_2025-06-30": {
+   "path": "data/raw/slack/identity/2025-06-30.json",
+   "source_type": "slack",
+   "true_date": "2025-06-30",
+   "title": "#identity 2025-06-30"
+  },
+  "slack_orders_2024-01-19": {
+   "path": "data/raw/slack/orders/2024-01-19.json",
+   "source_type": "slack",
+   "true_date": "2024-01-19",
+   "title": "#orders 2024-01-19"
+  },
+  "slack_incidents_2025-03-24": {
+   "path": "data/raw/slack/incidents/2025-03-24.json",
+   "source_type": "slack",
+   "true_date": "2025-03-24",
+   "title": "#incidents 2025-03-24"
+  },
+  "slack_data-platform_2024-02-14": {
+   "path": "data/raw/slack/data-platform/2024-02-14.json",
+   "source_type": "slack",
+   "true_date": "2024-02-14",
+   "title": "#data-platform 2024-02-14"
+  },
+  "slack_payments-oncall_2025-04-20": {
+   "path": "data/raw/slack/payments-oncall/2025-04-20.json",
+   "source_type": "slack",
+   "true_date": "2025-04-20",
+   "title": "#payments-oncall 2025-04-20"
+  },
+  "slack_platform_2024-02-16": {
+   "path": "data/raw/slack/platform/2024-02-16.json",
+   "source_type": "slack",
+   "true_date": "2024-02-16",
+   "title": "#platform 2024-02-16"
+  },
+  "slack_engagement_2025-03-17": {
+   "path": "data/raw/slack/engagement/2025-03-17.json",
+   "source_type": "slack",
+   "true_date": "2025-03-17",
+   "title": "#engagement 2025-03-17"
+  },
+  "slack_random-eng_2024-07-27": {
+   "path": "data/raw/slack/random-eng/2024-07-27.json",
+   "source_type": "slack",
+   "true_date": "2024-07-27",
+   "title": "#random-eng 2024-07-27"
+  },
+  "slack_edge-oncall_2025-02-03": {
+   "path": "data/raw/slack/edge-oncall/2025-02-03.json",
+   "source_type": "slack",
+   "true_date": "2025-02-03",
+   "title": "#edge-oncall 2025-02-03"
+  },
+  "slack_checkout-oncall_2025-05-25": {
+   "path": "data/raw/slack/checkout-oncall/2025-05-25.json",
+   "source_type": "slack",
+   "true_date": "2025-05-25",
+   "title": "#checkout-oncall 2025-05-25"
+  },
+  "slack_platform_2025-04-30": {
+   "path": "data/raw/slack/platform/2025-04-30.json",
+   "source_type": "slack",
+   "true_date": "2025-04-30",
+   "title": "#platform 2025-04-30"
+  },
+  "slack_discovery_2025-07-24": {
+   "path": "data/raw/slack/discovery/2025-07-24.json",
+   "source_type": "slack",
+   "true_date": "2025-07-24",
+   "title": "#discovery 2025-07-24"
+  }
+ },
+ "facts": {
+  "payment_redis.old": [
+   "arch_payment-service"
+  ],
+  "payment-service.team": [
+   "arch_payment-service",
+   "svc_payment-service"
+  ],
+  "payment-service.lang": [
+   "arch_payment-service"
+  ],
+  "payment-service.port": [
+   "arch_payment-service"
+  ],
+  "payment-service.auth": [
+   "arch_payment-service"
+  ],
+  "payment-service.db": [
+   "arch_payment-service"
+  ],
+  "checkout_timeout.old": [
+   "arch_checkout-service"
+  ],
+  "checkout-service.team": [
+   "arch_checkout-service",
+   "svc_checkout-service"
+  ],
+  "checkout-service.lang": [
+   "arch_checkout-service"
+  ],
+  "checkout-service.port": [
+   "arch_checkout-service"
+  ],
+  "checkout-service.auth": [
+   "arch_checkout-service"
+  ],
+  "checkout-service.db": [
+   "arch_checkout-service"
+  ],
+  "auth-service.team": [
+   "arch_auth-service",
+   "svc_auth-service"
+  ],
+  "auth-service.lang": [
+   "arch_auth-service"
+  ],
+  "auth-service.port": [
+   "arch_auth-service"
+  ],
+  "auth-service.auth": [
+   "arch_auth-service"
+  ],
+  "auth-service.db": [
+   "arch_auth-service"
+  ],
+  "profile_db.old": [
+   "arch_user-profile-service"
+  ],
+  "user-profile-service.team": [
+   "arch_user-profile-service",
+   "svc_user-profile-service"
+  ],
+  "user-profile-service.lang": [
+   "arch_user-profile-service"
+  ],
+  "user-profile-service.port": [
+   "arch_user-profile-service"
+  ],
+  "user-profile-service.auth": [
+   "arch_user-profile-service"
+  ],
+  "user-profile-service.db": [
+   "arch_user-profile-service"
+  ],
+  "notification-service.team": [
+   "arch_notification-service",
+   "svc_notification-service"
+  ],
+  "notification-service.lang": [
+   "arch_notification-service"
+  ],
+  "notification-service.port": [
+   "arch_notification-service"
+  ],
+  "notification-service.auth": [
+   "arch_notification-service"
+  ],
+  "notification-service.db": [
+   "arch_notification-service"
+  ],
+  "search_engine.old": [
+   "arch_search-service"
+  ],
+  "search-service.team": [
+   "arch_search-service",
+   "svc_search-service"
+  ],
+  "search-service.lang": [
+   "arch_search-service"
+  ],
+  "search-service.port": [
+   "arch_search-service"
+  ],
+  "search-service.auth": [
+   "arch_search-service"
+  ],
+  "search-service.db": [
+   "arch_search-service"
+  ],
+  "inventory-service.team": [
+   "arch_inventory-service",
+   "svc_inventory-service"
+  ],
+  "inventory-service.lang": [
+   "arch_inventory-service"
+  ],
+  "inventory-service.port": [
+   "arch_inventory-service"
+  ],
+  "inventory-service.auth": [
+   "arch_inventory-service"
+  ],
+  "inventory-service.db": [
+   "arch_inventory-service"
+  ],
+  "order-service.team": [
+   "arch_order-service",
+   "svc_order-service"
+  ],
+  "order-service.lang": [
+   "arch_order-service"
+  ],
+  "order-service.port": [
+   "arch_order-service"
+  ],
+  "order-service.auth": [
+   "arch_order-service"
+  ],
+  "order-service.db": [
+   "arch_order-service"
+  ],
+  "shipping-service.team": [
+   "arch_shipping-service",
+   "svc_shipping-service"
+  ],
+  "shipping-service.lang": [
+   "arch_shipping-service"
+  ],
+  "shipping-service.port": [
+   "arch_shipping-service"
+  ],
+  "shipping-service.auth": [
+   "arch_shipping-service"
+  ],
+  "shipping-service.db": [
+   "arch_shipping-service"
+  ],
+  "billing-service.team": [
+   "arch_billing-service",
+   "svc_billing-service"
+  ],
+  "billing-service.lang": [
+   "arch_billing-service"
+  ],
+  "billing-service.port": [
+   "arch_billing-service"
+  ],
+  "billing-service.auth": [
+   "arch_billing-service"
+  ],
+  "billing-service.db": [
+   "arch_billing-service"
+  ],
+  "analytics-pipeline.team": [
+   "arch_analytics-pipeline",
+   "svc_analytics-pipeline"
+  ],
+  "analytics-pipeline.lang": [
+   "arch_analytics-pipeline"
+  ],
+  "analytics-pipeline.port": [
+   "arch_analytics-pipeline"
+  ],
+  "analytics-pipeline.auth": [
+   "arch_analytics-pipeline"
+  ],
+  "analytics-pipeline.db": [
+   "arch_analytics-pipeline"
+  ],
+  "api-gateway.team": [
+   "arch_api-gateway",
+   "svc_api-gateway"
+  ],
+  "api-gateway.lang": [
+   "arch_api-gateway"
+  ],
+  "api-gateway.port": [
+   "arch_api-gateway"
+  ],
+  "api-gateway.auth": [
+   "arch_api-gateway"
+  ],
+  "api-gateway.db": [
+   "arch_api-gateway"
+  ],
+  "payment-service.deploy": [
+   "svc_payment-service"
+  ],
+  "payment-service.health": [
+   "svc_payment-service"
+  ],
+  "payment-service.oncall": [
+   "svc_payment-service"
+  ],
+  "checkout_timeout.new": [
+   "svc_checkout-service"
+  ],
+  "checkout-service.deploy": [
+   "svc_checkout-service"
+  ],
+  "checkout-service.health": [
+   "svc_checkout-service"
+  ],
+  "checkout-service.oncall": [
+   "svc_checkout-service"
+  ],
+  "auth-service.deploy": [
+   "svc_auth-service"
+  ],
+  "auth-service.health": [
+   "svc_auth-service"
+  ],
+  "auth-service.oncall": [
+   "svc_auth-service"
+  ],
+  "user-profile-service.deploy": [
+   "svc_user-profile-service"
+  ],
+  "user-profile-service.health": [
+   "svc_user-profile-service"
+  ],
+  "user-profile-service.oncall": [
+   "svc_user-profile-service"
+  ],
+  "notify_broker.old": [
+   "svc_notification-service"
+  ],
+  "notification-service.deploy": [
+   "svc_notification-service"
+  ],
+  "notification-service.health": [
+   "svc_notification-service"
+  ],
+  "notification-service.oncall": [
+   "svc_notification-service"
+  ],
+  "search-service.deploy": [
+   "svc_search-service"
+  ],
+  "search-service.health": [
+   "svc_search-service"
+  ],
+  "search-service.oncall": [
+   "svc_search-service"
+  ],
+  "inventory-service.deploy": [
+   "svc_inventory-service"
+  ],
+  "inventory-service.health": [
+   "svc_inventory-service"
+  ],
+  "inventory-service.oncall": [
+   "svc_inventory-service"
+  ],
+  "order-service.health": [
+   "svc_order-service"
+  ],
+  "order-service.oncall": [
+   "svc_order-service"
+  ],
+  "shipping-service.deploy": [
+   "svc_shipping-service"
+  ],
+  "shipping-service.health": [
+   "svc_shipping-service"
+  ],
+  "shipping-service.oncall": [
+   "svc_shipping-service"
+  ],
+  "billing-service.deploy": [
+   "svc_billing-service"
+  ],
+  "billing-service.health": [
+   "svc_billing-service"
+  ],
+  "billing-service.oncall": [
+   "svc_billing-service"
+  ],
+  "analytics-pipeline.deploy": [
+   "svc_analytics-pipeline"
+  ],
+  "analytics-pipeline.health": [
+   "svc_analytics-pipeline"
+  ],
+  "analytics-pipeline.oncall": [
+   "svc_analytics-pipeline"
+  ],
+  "api-gateway.deploy": [
+   "svc_api-gateway"
+  ],
+  "api-gateway.health": [
+   "svc_api-gateway"
+  ],
+  "api-gateway.oncall": [
+   "svc_api-gateway"
+  ],
+  "auth_signing.old": [
+   "auth_token_design"
+  ],
+  "order_deploy.new": [
+   "order_service_argocd_migration"
+  ],
+  "order-service.deploy": [
+   "order_service_argocd_migration"
+  ],
+  "payment_redis.stale": [
+   "runbook_payment-service"
+  ],
+  "payment-service.runbook": [
+   "runbook_payment-service"
+  ],
+  "checkout-service.runbook": [
+   "runbook_checkout-service"
+  ],
+  "auth-service.runbook": [
+   "runbook_auth-service"
+  ],
+  "user-profile-service.runbook": [
+   "runbook_user-profile-service"
+  ],
+  "notification-service.runbook": [
+   "runbook_notification-service"
+  ],
+  "search-service.runbook": [
+   "runbook_search-service"
+  ],
+  "inventory_pool.old": [
+   "runbook_inventory-service"
+  ],
+  "inventory-service.runbook": [
+   "runbook_inventory-service"
+  ],
+  "order_deploy.old": [
+   "runbook_order-service"
+  ],
+  "order-service.runbook": [
+   "runbook_order-service"
+  ],
+  "shipping-service.runbook": [
+   "runbook_shipping-service"
+  ],
+  "billing_cron.old": [
+   "runbook_billing-service"
+  ],
+  "billing-service.runbook": [
+   "runbook_billing-service"
+  ],
+  "analytics-pipeline.runbook": [
+   "runbook_analytics-pipeline"
+  ],
+  "api-gateway.runbook": [
+   "runbook_api-gateway"
+  ],
+  "auth_signing.stale": [
+   "faq_auth"
+  ],
+  "gateway_ratelimit.old": [
+   "faq_gateway"
+  ],
+  "payment_redis.new": [
+   "transcript_payments_arch_sync_2025-02-12"
+  ],
+  "search_engine.new": [
+   "transcript_discovery_sync_2025-03-04"
+  ],
+  "gateway_ratelimit.new": [
+   "transcript_edge_planning_2025-06-10"
+  ],
+  "billing_cron.new": [
+   "transcript_finance_eng_sync_2025-07-21"
+  ],
+  "sparse.3ds_flag": [
+   "transcript_payments_standup_2024-10-03"
+  ],
+  "sparse.k6_repo": [
+   "transcript_perf_review_2024-08-19"
+  ],
+  "sparse.vault_rotation": [
+   "transcript_security_review_2024-11-07"
+  ],
+  "sparse.canary": [
+   "transcript_release_retro_2024-06-27"
+  ],
+  "sparse.spark_emr": [
+   "transcript_data_platform_sync_2024-09-12"
+  ],
+  "sparse.reservation_ttl": [
+   "transcript_supply_chain_sync_2024-05-15"
+  ],
+  "auth_signing.new": [
+   "slack_identity_2025-05-06"
+  ],
+  "notify_broker.new": [
+   "slack_engagement_2024-09-17"
+  ],
+  "inventory_pool.new": [
+   "slack_supply-chain_2025-04-08"
+  ],
+  "profile_db.new": [
+   "slack_customer-data_2024-12-02"
+  ],
+  "sparse.tls_alert": [
+   "slack_platform_2024-10-21"
+  ],
+  "sparse.staging_refresh": [
+   "slack_platform_2024-07-30"
+  ],
+  "sparse.pd_escalation": [
+   "slack_incidents_2024-08-05"
+  ],
+  "sparse.grafana_chk": [
+   "slack_checkout-oncall_2024-11-14"
+  ],
+  "sparse.avatar_size": [
+   "slack_customer-data_2024-09-03"
+  ],
+  "sparse.deploy_freeze": [
+   "slack_releases_2024-12-13"
+  ],
+  "sparse.kafka_retention": [
+   "slack_payments-oncall_2025-01-22"
+  ],
+  "sparse.labelgen": [
+   "slack_logistics_2024-06-11"
+  ],
+  "sparse.waf_rules": [
+   "slack_edge-oncall_2025-02-27"
+  ]
+ }
+}

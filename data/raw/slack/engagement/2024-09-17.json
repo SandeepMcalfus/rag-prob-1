@@ -1,0 +1,234 @@
+[
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1726567456.000000",
+  "thread_ts": "1726567456.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "yeah that's the one",
+  "ts": "1726567603.000000",
+  "thread_ts": "1726567456.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "will do after lunch",
+  "ts": "1726570301.000000",
+  "thread_ts": "1726570301.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "<@U1000> Notification Service has switched from RabbitMQ to Kafka; it now consumes the Kafka topic notifications.v2 with consumer group notification-workers.",
+  "ts": "1726570593.000000",
+  "thread_ts": "1726570301.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1726571187.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1726573956.000000",
+  "thread_ts": "1726573956.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "thanks!",
+  "ts": "1726574594.000000",
+  "thread_ts": "1726573956.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "we discussed this in the arch sync",
+  "ts": "1726574993.000000",
+  "thread_ts": "1726573956.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "see above",
+  "ts": "1726575335.000000",
+  "thread_ts": "1726573956.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1726576036.000000",
+  "thread_ts": "1726573956.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1726577794.000000",
+  "thread_ts": "1726577794.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ack",
+  "ts": "1726578556.000000",
+  "thread_ts": "1726577794.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "can we sync after standup?",
+  "ts": "1726579192.000000",
+  "thread_ts": "1726577794.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "let's not do that on a Friday",
+  "ts": "1726579498.000000",
+  "thread_ts": "1726577794.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": ":eyes:",
+  "ts": "1726579895.000000",
+  "thread_ts": "1726577794.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can someone review my PR",
+  "ts": "1726582899.000000",
+  "thread_ts": "1726582899.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1726582965.000000",
+  "thread_ts": "1726582899.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1726584221.000000",
+  "thread_ts": "1726584221.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "we discussed this in the arch sync",
+  "ts": "1726584728.000000",
+  "thread_ts": "1726584221.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1726585499.000000",
+  "thread_ts": "1726584221.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ok merged",
+  "ts": "1726586140.000000",
+  "thread_ts": "1726584221.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1726590029.000000",
+  "thread_ts": "1726590029.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "taking a look",
+  "ts": "1726590864.000000",
+  "thread_ts": "1726590029.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "we discussed this in the arch sync",
+  "ts": "1726591736.000000",
+  "thread_ts": "1726590029.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": ":eyes:",
+  "ts": "1726593948.000000",
+  "thread_ts": "1726593948.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ok merged",
+  "ts": "1726594217.000000",
+  "thread_ts": "1726593948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "we discussed this in the arch sync",
+  "ts": "1726595008.000000",
+  "thread_ts": "1726593948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "thanks!",
+  "ts": "1726595136.000000",
+  "thread_ts": "1726593948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1726595320.000000",
+  "thread_ts": "1726593948.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1726596522.000000",
+  "thread_ts": "1726596522.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "let's not do that on a Friday",
+  "ts": "1726596634.000000",
+  "thread_ts": "1726596522.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ticket filed",
+  "ts": "1726596883.000000",
+  "thread_ts": "1726596522.000000"
+ }
+]

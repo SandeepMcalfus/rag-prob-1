@@ -1,0 +1,244 @@
+[
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1725355053.000000",
+  "thread_ts": "1725355053.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "is staging down again?",
+  "ts": "1725355882.000000",
+  "thread_ts": "1725355053.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "let's not do that on a Friday",
+  "ts": "1725356417.000000",
+  "thread_ts": "1725355053.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1725356702.000000",
+  "thread_ts": "1725355053.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "let's not do that on a Friday",
+  "ts": "1725357025.000000",
+  "thread_ts": "1725355053.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "can we sync after standup?",
+  "ts": "1725357610.000000",
+  "thread_ts": "1725355053.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "lgtm :+1:",
+  "ts": "1725357913.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1725360832.000000",
+  "thread_ts": "1725360832.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "<@U1006> max avatar upload size is 5 MB, anything bigger gets a 413 from user-profile-service",
+  "ts": "1725361509.000000",
+  "thread_ts": "1725360832.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1725361647.000000",
+  "thread_ts": "1725360832.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "+1",
+  "ts": "1725362314.000000",
+  "thread_ts": "1725360832.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1725365503.000000",
+  "thread_ts": "1725365503.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "lgtm :+1:",
+  "ts": "1725365855.000000",
+  "thread_ts": "1725365503.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "rolling back just in case",
+  "ts": "1725366718.000000",
+  "thread_ts": "1725365503.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "yeah that's the one",
+  "ts": "1725367486.000000",
+  "thread_ts": "1725365503.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1725367768.000000",
+  "thread_ts": "1725365503.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1725371623.000000",
+  "thread_ts": "1725371623.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "can someone review my PR",
+  "ts": "1725372284.000000",
+  "thread_ts": "1725371623.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": ":eyes:",
+  "ts": "1725372515.000000",
+  "thread_ts": "1725371623.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1725372867.000000",
+  "thread_ts": "1725371623.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "can someone review my PR",
+  "ts": "1725373482.000000",
+  "thread_ts": "1725371623.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1725373779.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1725374686.000000",
+  "thread_ts": "1725374686.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "same as last week I think",
+  "ts": "1725374895.000000",
+  "thread_ts": "1725374686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "will do after lunch",
+  "ts": "1725375498.000000",
+  "thread_ts": "1725374686.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "same as last week I think",
+  "ts": "1725375884.000000",
+  "thread_ts": "1725375884.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ack",
+  "ts": "1725375975.000000",
+  "thread_ts": "1725375884.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "see above",
+  "ts": "1725376431.000000",
+  "thread_ts": "1725375884.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1725377111.000000",
+  "thread_ts": "1725375884.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "is staging down again?",
+  "ts": "1725377872.000000",
+  "thread_ts": "1725375884.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "hmm interesting",
+  "ts": "1725378636.000000",
+  "thread_ts": "1725375884.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can we sync after standup?",
+  "ts": "1725380483.000000",
+  "thread_ts": "1725380483.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "hmm interesting",
+  "ts": "1725380757.000000",
+  "thread_ts": "1725380483.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can we sync after standup?",
+  "ts": "1725380830.000000"
+ }
+]

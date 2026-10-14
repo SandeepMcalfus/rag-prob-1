@@ -1,0 +1,91 @@
+Meeting: Quarterly Planning
+Recorded on 1 Jan 2025
+Attendees: Chloe Dubois, Grace Kim, Daniel Okafor, Priya Nair
+Transcript generated automatically - may contain errors.
+
+[00:00:52] Chloe Dubois: Can everyone hear me? Yeah, okay.
+[00:01:42] Grace Kim: I think we covered that last time, right?
+[00:01:57] Chloe Dubois: Let's take that offline. Postmortems are blameless and are published within five business days.
+[00:02:56] Grace Kim: I think we covered that last time, right?
+[00:03:20] Daniel Okafor: We had a similar discussion in Q3.
+[00:03:32] Priya Nair: Can you put that in the notes?
+[00:04:24] Daniel Okafor: Can you put that in the notes? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:04:49] Chloe Dubois: Let me check the dashboard real quick. The dashboards were updated to show saturation alongside latency and errors.
+[00:05:13] Daniel Okafor: Uh, I'll share my screen. Dependency upgrades are batched weekly by the platform bot.
+[00:05:33] Priya Nair: Uh, I'll share my screen.
+[00:05:47] Grace Kim: That's a good question, I'm not sure. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:06:23] Daniel Okafor: I think we covered that last time, right? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:07:07] Daniel Okafor: We had a similar discussion in Q3. Dependency upgrades are batched weekly by the platform bot.
+[00:07:24] Chloe Dubois: Can everyone hear me? Yeah, okay.
+[00:07:49] Grace Kim: Makes sense to me.
+[00:08:33] Chloe Dubois: Nothing from my side.
+[00:09:30] Priya Nair: Okay, any other updates? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:10:12] Grace Kim: Okay, um, so let's get started. Dependency upgrades are batched weekly by the platform bot.
+[00:10:27] Daniel Okafor: Makes sense to me.
+[00:11:00] Chloe Dubois: Sorry, I was on mute. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:11:13] Priya Nair: I don't have context on that one, sorry.
+[00:11:32] Chloe Dubois: Let me check the dashboard real quick.
+[00:11:59] Priya Nair: I think we covered that last time, right?
+[00:12:29] Priya Nair: Sorry, I was on mute.
+[00:13:05] Grace Kim: Let's take that offline. We should revisit the alert thresholds after the next game day.
+[00:13:59] Grace Kim: Okay, any other updates? Database schema migrations must be backward compatible for at least one release.
+[00:14:48] Daniel Okafor: Okay, any other updates? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:14:57] Chloe Dubois: Makes sense to me. The dashboards were updated to show saturation alongside latency and errors.
+[00:15:30] Chloe Dubois: Is that a hard requirement or a nice-to-have?
+[00:16:20] Priya Nair: Let's take that offline.
+[00:16:42] Chloe Dubois: Can everyone hear me? Yeah, okay.
+[00:17:21] Chloe Dubois: Okay, any other updates?
+[00:18:08] Chloe Dubois: We're slightly over time so let's move on.
+[00:18:24] Chloe Dubois: Uh, I'll share my screen.
+[00:18:51] Chloe Dubois: We had a similar discussion in Q3.
+[00:19:36] Chloe Dubois: I think we covered that last time, right? On-call handover happens every Monday at 10:00 local time.
+[00:20:35] Grace Kim: Sorry, I was on mute.
+[00:21:10] Daniel Okafor: Let me check the dashboard real quick. Postmortems are blameless and are published within five business days.
+[00:21:52] Grace Kim: Makes sense to me.
+[00:22:50] Grace Kim: Can everyone hear me? Yeah, okay. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:23:02] Chloe Dubois: Can you put that in the notes? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:23:20] Daniel Okafor: Uh, I'll share my screen. Postmortems are blameless and are published within five business days.
+[00:23:30] Grace Kim: I think we covered that last time, right?
+[00:24:18] Priya Nair: Uh, I'll share my screen. Dependency upgrades are batched weekly by the platform bot.
+[00:24:31] Chloe Dubois: Okay, um, so let's get started. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:25:24] Daniel Okafor: That's a good question, I'm not sure.
+[00:26:22] Priya Nair: Let's take that offline. Service-level objectives are reviewed quarterly with product owners.
+[00:27:03] Priya Nair: That's a good question, I'm not sure. All services must expose Prometheus metrics on the /metrics path.
+[00:27:50] Chloe Dubois: Uh, I'll share my screen.
+[00:28:37] Chloe Dubois: I don't have context on that one, sorry. We should revisit the alert thresholds after the next game day.
+[00:29:20] Grace Kim: Is that a hard requirement or a nice-to-have? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:29:34] Daniel Okafor: Nothing from my side. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:29:59] Chloe Dubois: Is that a hard requirement or a nice-to-have? Capacity planning for the holiday peak starts in September every year.
+[00:30:50] Priya Nair: Okay, any other updates? The dashboards were updated to show saturation alongside latency and errors.
+[00:31:01] Daniel Okafor: I don't have context on that one, sorry. Service-level objectives are reviewed quarterly with product owners.
+[00:31:30] Priya Nair: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:32:12] Grace Kim: Uh, I'll share my screen.
+[00:32:51] Chloe Dubois: Sorry, I was on mute.
+[00:33:45] Priya Nair: Makes sense to me. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:34:07] Chloe Dubois: Makes sense to me. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:35:02] Priya Nair: Is that a hard requirement or a nice-to-have? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:35:14] Priya Nair: Okay, any other updates? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:35:31] Grace Kim: We had a similar discussion in Q3. Container images are built once and promoted across environments by digest.
+[00:35:47] Priya Nair: Is that a hard requirement or a nice-to-have?
+[00:36:12] Grace Kim: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:36:23] Daniel Okafor: Let's take that offline. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:37:00] Priya Nair: Uh, I'll share my screen.
+[00:37:22] Daniel Okafor: Uh, I'll share my screen.
+[00:38:10] Grace Kim: We're slightly over time so let's move on. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:38:49] Grace Kim: Okay, any other updates?
+[00:39:14] Chloe Dubois: That's a good question, I'm not sure.
+[00:39:37] Grace Kim: Makes sense to me. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:40:22] Grace Kim: Okay, um, so let's get started. The dashboards were updated to show saturation alongside latency and errors.
+[00:40:32] Priya Nair: Nothing from my side. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:41:05] Priya Nair: I think we covered that last time, right? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:41:18] Chloe Dubois: That's a good question, I'm not sure.
+[00:41:34] Daniel Okafor: I don't have context on that one, sorry. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:41:43] Priya Nair: I don't have context on that one, sorry. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:42:27] Chloe Dubois: We had a similar discussion in Q3. Capacity planning for the holiday peak starts in September every year.
+[00:43:20] Priya Nair: Uh, I'll share my screen.
+[00:43:51] Priya Nair: Okay, um, so let's get started.
+[00:44:03] Priya Nair: Makes sense to me. Infrastructure changes go through Terraform plans that need two approvals.
+[00:44:38] Daniel Okafor: Is that a hard requirement or a nice-to-have?
+[00:44:51] Daniel Okafor: Can everyone hear me? Yeah, okay. Container images are built once and promoted across environments by digest.
+[00:45:02] Chloe Dubois: Let me check the dashboard real quick. On-call handover happens every Monday at 10:00 local time.
+[00:45:12] Daniel Okafor: [crosstalk] Database schema migrations must be backward compatible for at least one release.

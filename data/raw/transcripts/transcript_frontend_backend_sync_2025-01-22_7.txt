@@ -1,0 +1,89 @@
+Meeting: Frontend-Backend Sync
+Date: 2025-01-22
+Attendees: Emma Larsen, Sofia Marquez, Arjun Mehta, Priya Nair
+Transcript generated automatically - may contain errors.
+
+[00:00:30] Priya Nair: Sorry, I was on mute. All services must expose Prometheus metrics on the /metrics path.
+[00:00:50] Arjun Mehta: Let me check the dashboard real quick.
+[00:01:05] Sofia Marquez: Let me check the dashboard real quick.
+[00:01:41] Sofia Marquez: Can everyone hear me? Yeah, okay. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:02:22] Sofia Marquez: Okay, any other updates? Infrastructure changes go through Terraform plans that need two approvals.
+[00:02:50] Sofia Marquez: Can everyone hear me? Yeah, okay.
+[00:03:33] Emma Larsen: Can you put that in the notes? Infrastructure changes go through Terraform plans that need two approvals.
+[00:03:53] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:04:14] Emma Larsen: We're slightly over time so let's move on.
+[00:04:42] Emma Larsen: Uh, I'll share my screen.
+[00:05:27] Emma Larsen: Let me check the dashboard real quick.
+[00:05:35] Emma Larsen: Okay, any other updates?
+[00:05:52] Arjun Mehta: Sorry, I was on mute. Dependency upgrades are batched weekly by the platform bot.
+[00:06:05] Arjun Mehta: Can everyone hear me? Yeah, okay. Capacity planning for the holiday peak starts in September every year.
+[00:06:57] Emma Larsen: Let's take that offline. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:07:40] Arjun Mehta: We had a similar discussion in Q3.
+[00:07:49] Priya Nair: [crosstalk]
+[00:08:13] Emma Larsen: Okay, any other updates?
+[00:08:56] Arjun Mehta: Okay, any other updates? All services must expose Prometheus metrics on the /metrics path.
+[00:09:38] Arjun Mehta: Makes sense to me.
+[00:10:03] Sofia Marquez: Sorry, I was on mute. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:10:29] Arjun Mehta: [crosstalk] Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:11:01] Sofia Marquez: Okay, um, so let's get started.
+[00:11:32] Sofia Marquez: Makes sense to me.
+[00:12:22] Priya Nair: Is that a hard requirement or a nice-to-have? Dependency upgrades are batched weekly by the platform bot.
+[00:13:19] Sofia Marquez: I don't have context on that one, sorry. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:13:34] Emma Larsen: Nothing from my side.
+[00:13:44] Sofia Marquez: Uh, I'll share my screen.
+[00:14:04] Emma Larsen: Okay, any other updates? The dashboards were updated to show saturation alongside latency and errors.
+[00:14:48] Priya Nair: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:15:12] Emma Larsen: [crosstalk] Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:15:20] Sofia Marquez: Okay, any other updates?
+[00:15:33] Priya Nair: Can everyone hear me? Yeah, okay. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:16:33] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:16:58] Emma Larsen: Sorry, I was on mute.
+[00:17:10] Sofia Marquez: Nothing from my side. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:17:52] Priya Nair: Is that a hard requirement or a nice-to-have? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:18:36] Sofia Marquez: That's a good question, I'm not sure.
+[00:19:33] Arjun Mehta: We had a similar discussion in Q3.
+[00:20:08] Emma Larsen: Uh, I'll share my screen.
+[00:20:51] Priya Nair: Nothing from my side. All services must expose Prometheus metrics on the /metrics path.
+[00:21:33] Priya Nair: [crosstalk]
+[00:22:16] Arjun Mehta: [crosstalk] Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:23:16] Arjun Mehta: We're slightly over time so let's move on. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:23:48] Arjun Mehta: [crosstalk]
+[00:24:24] Priya Nair: Okay, um, so let's get started.
+[00:24:50] Emma Larsen: Nothing from my side. Infrastructure changes go through Terraform plans that need two approvals.
+[00:24:58] Arjun Mehta: We're slightly over time so let's move on. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:25:07] Arjun Mehta: Nothing from my side. Postmortems are blameless and are published within five business days.
+[00:25:24] Emma Larsen: Can everyone hear me? Yeah, okay. Capacity planning for the holiday peak starts in September every year.
+[00:25:40] Arjun Mehta: [crosstalk]
+[00:26:03] Sofia Marquez: Can you put that in the notes?
+[00:26:16] Priya Nair: Is that a hard requirement or a nice-to-have?
+[00:27:10] Arjun Mehta: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:28:10] Emma Larsen: I don't have context on that one, sorry. Postmortems are blameless and are published within five business days.
+[00:28:42] Emma Larsen: Can everyone hear me? Yeah, okay.
+[00:29:11] Arjun Mehta: That's a good question, I'm not sure. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:30:08] Sofia Marquez: Okay, um, so let's get started.
+[00:30:56] Priya Nair: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:31:24] Sofia Marquez: Makes sense to me. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:31:41] Emma Larsen: Let me check the dashboard real quick.
+[00:32:37] Emma Larsen: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:32:54] Sofia Marquez: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:33:49] Emma Larsen: Let me check the dashboard real quick. Every service has a README that links to its dashboards and runbook.
+[00:34:29] Priya Nair: Let's take that offline.
+[00:35:07] Sofia Marquez: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:35:27] Sofia Marquez: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:35:55] Emma Larsen: I think we covered that last time, right?
+[00:36:30] Arjun Mehta: [crosstalk] Container images are built once and promoted across environments by digest.
+[00:37:16] Emma Larsen: I don't have context on that one, sorry. Container images are built once and promoted across environments by digest.
+[00:38:03] Priya Nair: Let's take that offline. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:38:23] Arjun Mehta: Let's take that offline.
+[00:38:36] Emma Larsen: Can everyone hear me? Yeah, okay. On-call handover happens every Monday at 10:00 local time.
+[00:38:53] Arjun Mehta: Okay, um, so let's get started. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:39:20] Priya Nair: Okay, any other updates? Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:40:15] Sofia Marquez: Is that a hard requirement or a nice-to-have? Service-level objectives are reviewed quarterly with product owners.
+[00:40:58] Priya Nair: Let's take that offline.
+[00:41:48] Emma Larsen: Let me check the dashboard real quick. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:41:58] Arjun Mehta: Uh, I'll share my screen. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:42:56] Arjun Mehta: Can everyone hear me? Yeah, okay. We should revisit the alert thresholds after the next game day.
+[00:43:08] Priya Nair: Can you put that in the notes?
+[00:43:58] Arjun Mehta: I think we covered that last time, right? Every service has a README that links to its dashboards and runbook.
+[00:44:20] Priya Nair: Nothing from my side.
+[00:44:34] Arjun Mehta: Okay, any other updates?

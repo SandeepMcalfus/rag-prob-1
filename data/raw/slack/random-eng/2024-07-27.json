@@ -1,0 +1,329 @@
+[
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "hmm interesting",
+  "ts": "1722071839.000000",
+  "thread_ts": "1722071839.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "+1",
+  "ts": "1722072210.000000",
+  "thread_ts": "1722071839.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1722072575.000000",
+  "thread_ts": "1722071839.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "hmm interesting",
+  "ts": "1722073089.000000",
+  "thread_ts": "1722071839.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "we discussed this in the arch sync",
+  "ts": "1722073300.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1722076297.000000",
+  "thread_ts": "1722076297.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1722076858.000000",
+  "thread_ts": "1722076297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "hmm interesting",
+  "ts": "1722077323.000000",
+  "thread_ts": "1722076297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "done",
+  "ts": "1722077808.000000",
+  "thread_ts": "1722076297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "nope, just slow",
+  "ts": "1722078125.000000",
+  "thread_ts": "1722076297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1722078190.000000",
+  "thread_ts": "1722076297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "thanks!",
+  "ts": "1722078314.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "On-call handover happens every Monday at 10:00 local time.",
+  "ts": "1722080512.000000",
+  "thread_ts": "1722080512.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1722080760.000000",
+  "thread_ts": "1722080512.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1722081087.000000",
+  "thread_ts": "1722080512.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "see above",
+  "ts": "1722081943.000000",
+  "thread_ts": "1722080512.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1722082260.000000",
+  "thread_ts": "1722082260.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1722082686.000000",
+  "thread_ts": "1722082260.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "taking a look",
+  "ts": "1722082754.000000",
+  "thread_ts": "1722082260.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "nope, just slow",
+  "ts": "1722083322.000000",
+  "thread_ts": "1722082260.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "is staging down again?",
+  "ts": "1722083358.000000",
+  "thread_ts": "1722082260.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ticket filed",
+  "ts": "1722086374.000000",
+  "thread_ts": "1722086374.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "hmm interesting",
+  "ts": "1722086688.000000",
+  "thread_ts": "1722086374.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "see above",
+  "ts": "1722087583.000000",
+  "thread_ts": "1722086374.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "done",
+  "ts": "1722088177.000000",
+  "thread_ts": "1722086374.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "nope, just slow",
+  "ts": "1722088378.000000",
+  "thread_ts": "1722086374.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "we discussed this in the arch sync",
+  "ts": "1722088412.000000",
+  "thread_ts": "1722086374.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1722088723.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1722089430.000000",
+  "thread_ts": "1722089430.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "yeah that's the one",
+  "ts": "1722090137.000000",
+  "thread_ts": "1722089430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1722090322.000000",
+  "thread_ts": "1722089430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1722092102.000000",
+  "thread_ts": "1722092102.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "taking a look",
+  "ts": "1722092776.000000",
+  "thread_ts": "1722092102.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can we sync after standup?",
+  "ts": "1722092955.000000",
+  "thread_ts": "1722092102.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "taking a look",
+  "ts": "1722093220.000000",
+  "thread_ts": "1722092102.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "can we sync after standup?",
+  "ts": "1722093423.000000",
+  "thread_ts": "1722092102.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "can we sync after standup?",
+  "ts": "1722093788.000000",
+  "thread_ts": "1722092102.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1722097280.000000",
+  "thread_ts": "1722097280.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1722098104.000000",
+  "thread_ts": "1722097280.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "taking a look",
+  "ts": "1722098931.000000",
+  "thread_ts": "1722097280.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1722099131.000000",
+  "thread_ts": "1722097280.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1722099709.000000",
+  "thread_ts": "1722097280.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1722102549.000000",
+  "thread_ts": "1722102549.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1722102919.000000",
+  "thread_ts": "1722102549.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "let's not do that on a Friday",
+  "ts": "1722103773.000000",
+  "thread_ts": "1722102549.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "dashboards look fine on my side",
+  "ts": "1722104192.000000"
+ }
+]

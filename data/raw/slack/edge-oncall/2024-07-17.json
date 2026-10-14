@@ -1,0 +1,305 @@
+[
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "done",
+  "ts": "1721207761.000000",
+  "thread_ts": "1721207761.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ok merged",
+  "ts": "1721208510.000000",
+  "thread_ts": "1721207761.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1721208665.000000",
+  "thread_ts": "1721207761.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Load tests should be coordinated in the platform channel so they do not trip alerts.",
+  "ts": "1721209812.000000",
+  "thread_ts": "1721209812.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "same as last week I think",
+  "ts": "1721210079.000000",
+  "thread_ts": "1721209812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1721210611.000000",
+  "thread_ts": "1721209812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "+1",
+  "ts": "1721211453.000000",
+  "thread_ts": "1721209812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "see above",
+  "ts": "1721211636.000000",
+  "thread_ts": "1721209812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "taking a look",
+  "ts": "1721212395.000000",
+  "thread_ts": "1721209812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1721215488.000000",
+  "thread_ts": "1721215488.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "thanks!",
+  "ts": "1721216309.000000",
+  "thread_ts": "1721215488.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "nope, just slow",
+  "ts": "1721217062.000000",
+  "thread_ts": "1721215488.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "hmm interesting",
+  "ts": "1721217814.000000",
+  "thread_ts": "1721215488.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1721218565.000000",
+  "thread_ts": "1721215488.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1721221838.000000",
+  "thread_ts": "1721221838.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "is staging down again?",
+  "ts": "1721222591.000000",
+  "thread_ts": "1721221838.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can we sync after standup?",
+  "ts": "1721223049.000000",
+  "thread_ts": "1721221838.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1721223218.000000",
+  "thread_ts": "1721221838.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "dashboards look fine on my side",
+  "ts": "1721225019.000000",
+  "thread_ts": "1721225019.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1721225254.000000",
+  "thread_ts": "1721225019.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can someone review my PR",
+  "ts": "1721225611.000000",
+  "thread_ts": "1721225019.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "see above",
+  "ts": "1721228815.000000",
+  "thread_ts": "1721228815.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": ":eyes:",
+  "ts": "1721229540.000000",
+  "thread_ts": "1721228815.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1721230366.000000",
+  "thread_ts": "1721228815.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "yeah that's the one",
+  "ts": "1721230967.000000",
+  "thread_ts": "1721228815.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "We should revisit the alert thresholds after the next game day.",
+  "ts": "1721231873.000000",
+  "thread_ts": "1721231873.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "let's not do that on a Friday",
+  "ts": "1721232264.000000",
+  "thread_ts": "1721231873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "let's not do that on a Friday",
+  "ts": "1721232598.000000",
+  "thread_ts": "1721231873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can someone review my PR",
+  "ts": "1721233199.000000",
+  "thread_ts": "1721231873.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1721235300.000000",
+  "thread_ts": "1721235300.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1721236199.000000",
+  "thread_ts": "1721235300.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "see above",
+  "ts": "1721236871.000000",
+  "thread_ts": "1721235300.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1721239559.000000",
+  "thread_ts": "1721239559.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "is staging down again?",
+  "ts": "1721240317.000000",
+  "thread_ts": "1721239559.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "will do after lunch",
+  "ts": "1721240752.000000",
+  "thread_ts": "1721239559.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can someone review my PR",
+  "ts": "1721241124.000000",
+  "thread_ts": "1721239559.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "rolling back just in case",
+  "ts": "1721243476.000000",
+  "thread_ts": "1721243476.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "will do after lunch",
+  "ts": "1721244033.000000",
+  "thread_ts": "1721243476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1721244548.000000",
+  "thread_ts": "1721243476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "taking a look",
+  "ts": "1721245252.000000",
+  "thread_ts": "1721243476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1721245502.000000",
+  "thread_ts": "1721243476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1721245846.000000"
+ }
+]

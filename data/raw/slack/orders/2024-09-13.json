@@ -1,0 +1,124 @@
+[
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "will do after lunch",
+  "ts": "1726218878.000000",
+  "thread_ts": "1726218878.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "hmm interesting",
+  "ts": "1726218958.000000",
+  "thread_ts": "1726218878.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "thanks!",
+  "ts": "1726219236.000000",
+  "thread_ts": "1726218878.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "dashboards look fine on my side",
+  "ts": "1726220014.000000",
+  "thread_ts": "1726218878.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1726220071.000000",
+  "thread_ts": "1726218878.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1726220096.000000",
+  "thread_ts": "1726218878.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "will do after lunch",
+  "ts": "1726223651.000000",
+  "thread_ts": "1726223651.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "let's not do that on a Friday",
+  "ts": "1726224143.000000",
+  "thread_ts": "1726223651.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "nope, just slow",
+  "ts": "1726224689.000000",
+  "thread_ts": "1726223651.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1726226732.000000",
+  "thread_ts": "1726226732.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "done",
+  "ts": "1726227284.000000",
+  "thread_ts": "1726226732.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "lgtm :+1:",
+  "ts": "1726227792.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "same as last week I think",
+  "ts": "1726231719.000000",
+  "thread_ts": "1726231719.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "nope, just slow",
+  "ts": "1726232505.000000",
+  "thread_ts": "1726231719.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1726232933.000000",
+  "thread_ts": "1726231719.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "thanks!",
+  "ts": "1726233073.000000",
+  "thread_ts": "1726231719.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "we discussed this in the arch sync",
+  "ts": "1726233830.000000",
+  "thread_ts": "1726231719.000000"
+ }
+]

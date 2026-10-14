@@ -1,0 +1,75 @@
+Meeting: Weekly Standup
+Date: 2024-11-01
+Attendees: Noah Fischer, Marcus Lee, Julia Novak, Mateo Rossi
+Transcript generated automatically - may contain errors.
+
+[00:00:55] Julia Novak: Sorry, I was on mute.
+[00:01:27] Marcus Lee: [crosstalk]
+[00:01:58] Marcus Lee: We had a similar discussion in Q3. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:02:35] Julia Novak: We're slightly over time so let's move on.
+[00:03:19] Noah Fischer: Let's take that offline.
+[00:04:09] Noah Fischer: Sorry, I was on mute.
+[00:05:08] Mateo Rossi: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:06:08] Mateo Rossi: Okay, any other updates? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:06:46] Julia Novak: Sorry, I was on mute. The dashboards were updated to show saturation alongside latency and errors.
+[00:07:26] Marcus Lee: I think we covered that last time, right?
+[00:08:02] Marcus Lee: Uh, I'll share my screen.
+[00:09:01] Marcus Lee: Let's take that offline. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:09:52] Mateo Rossi: Is that a hard requirement or a nice-to-have?
+[00:10:40] Marcus Lee: Can you put that in the notes? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:10:53] Mateo Rossi: Let me check the dashboard real quick. Service-level objectives are reviewed quarterly with product owners.
+[00:11:34] Mateo Rossi: Okay, um, so let's get started.
+[00:12:21] Mateo Rossi: I think we covered that last time, right? Capacity planning for the holiday peak starts in September every year.
+[00:13:05] Noah Fischer: I think we covered that last time, right? Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:14:03] Julia Novak: [crosstalk]
+[00:14:27] Mateo Rossi: Okay, any other updates? Dependency upgrades are batched weekly by the platform bot.
+[00:14:37] Marcus Lee: Can you put that in the notes? On-call handover happens every Monday at 10:00 local time.
+[00:15:23] Mateo Rossi: Can everyone hear me? Yeah, okay. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:16:15] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:16:40] Julia Novak: Okay, um, so let's get started. Infrastructure changes go through Terraform plans that need two approvals.
+[00:17:07] Julia Novak: Okay, any other updates?
+[00:17:58] Noah Fischer: We're slightly over time so let's move on. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:18:55] Julia Novak: Can you put that in the notes?
+[00:19:41] Noah Fischer: Is that a hard requirement or a nice-to-have? Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:20:36] Mateo Rossi: Nothing from my side.
+[00:21:36] Noah Fischer: Nothing from my side.
+[00:21:48] Julia Novak: Nothing from my side. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:22:32] Noah Fischer: Uh, I'll share my screen. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:22:43] Marcus Lee: Can everyone hear me? Yeah, okay. Container images are built once and promoted across environments by digest.
+[00:23:36] Marcus Lee: Can you put that in the notes? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:24:16] Mateo Rossi: I think we covered that last time, right?
+[00:24:39] Julia Novak: Okay, any other updates? All services must expose Prometheus metrics on the /metrics path.
+[00:25:17] Julia Novak: [crosstalk] Service-level objectives are reviewed quarterly with product owners.
+[00:26:12] Noah Fischer: I don't have context on that one, sorry. The dashboards were updated to show saturation alongside latency and errors.
+[00:26:30] Marcus Lee: We're slightly over time so let's move on.
+[00:27:21] Marcus Lee: Can you put that in the notes?
+[00:28:01] Noah Fischer: Okay, um, so let's get started. Capacity planning for the holiday peak starts in September every year.
+[00:28:50] Marcus Lee: Okay, um, so let's get started. On-call handover happens every Monday at 10:00 local time.
+[00:29:49] Julia Novak: Can you put that in the notes? Every service has a README that links to its dashboards and runbook.
+[00:30:19] Mateo Rossi: Can you put that in the notes? Infrastructure changes go through Terraform plans that need two approvals.
+[00:31:10] Mateo Rossi: I think we covered that last time, right? Container images are built once and promoted across environments by digest.
+[00:31:53] Julia Novak: I don't have context on that one, sorry.
+[00:32:31] Noah Fischer: Makes sense to me.
+[00:33:19] Julia Novak: Can you put that in the notes? Infrastructure changes go through Terraform plans that need two approvals.
+[00:33:39] Marcus Lee: Nothing from my side.
+[00:33:50] Mateo Rossi: Makes sense to me.
+[00:34:44] Noah Fischer: Okay, any other updates?
+[00:35:08] Mateo Rossi: Let me check the dashboard real quick. The dashboards were updated to show saturation alongside latency and errors.
+[00:35:53] Marcus Lee: Makes sense to me.
+[00:36:15] Mateo Rossi: [crosstalk] All services must expose Prometheus metrics on the /metrics path.
+[00:37:05] Marcus Lee: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:38:00] Julia Novak: Uh, I'll share my screen.
+[00:38:29] Noah Fischer: We're slightly over time so let's move on. Infrastructure changes go through Terraform plans that need two approvals.
+[00:39:03] Julia Novak: [crosstalk] Infrastructure changes go through Terraform plans that need two approvals.
+[00:39:40] Noah Fischer: Okay, any other updates? Postmortems are blameless and are published within five business days.
+[00:40:25] Noah Fischer: Okay, any other updates?
+[00:41:05] Noah Fischer: Let me check the dashboard real quick. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:41:16] Marcus Lee: Let's take that offline.
+[00:41:45] Mateo Rossi: We had a similar discussion in Q3. All services must expose Prometheus metrics on the /metrics path.
+[00:42:42] Noah Fischer: Okay, any other updates? All services must expose Prometheus metrics on the /metrics path.
+[00:43:10] Noah Fischer: Okay, um, so let's get started. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:44:06] Marcus Lee: Uh, I'll share my screen. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:44:22] Mateo Rossi: That's a good question, I'm not sure. Dependency upgrades are batched weekly by the platform bot.
+[00:44:54] Noah Fischer: Can everyone hear me? Yeah, okay. Container images are built once and promoted across environments by digest.
+[00:45:02] Julia Novak: Nothing from my side. We should revisit the alert thresholds after the next game day.
+[00:45:50] Marcus Lee: We're slightly over time so let's move on.

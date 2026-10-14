@@ -1,0 +1,258 @@
+[
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1744105778.000000",
+  "thread_ts": "1744105778.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1744106063.000000",
+  "thread_ts": "1744105778.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1744106172.000000",
+  "thread_ts": "1744105778.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1744108897.000000",
+  "thread_ts": "1744108897.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1744109306.000000",
+  "thread_ts": "1744108897.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "lgtm :+1:",
+  "ts": "1744109644.000000",
+  "thread_ts": "1744108897.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "dashboards look fine on my side",
+  "ts": "1744110101.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "we discussed this in the arch sync",
+  "ts": "1744113560.000000",
+  "thread_ts": "1744113560.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "see above",
+  "ts": "1744114184.000000",
+  "thread_ts": "1744113560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1744114608.000000",
+  "thread_ts": "1744113560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": ":eyes:",
+  "ts": "1744115500.000000",
+  "thread_ts": "1744113560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1744115668.000000",
+  "thread_ts": "1744113560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "we discussed this in the arch sync",
+  "ts": "1744116199.000000",
+  "thread_ts": "1744113560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "done",
+  "ts": "1744116549.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1744119574.000000",
+  "thread_ts": "1744119574.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can we sync after standup?",
+  "ts": "1744120299.000000",
+  "thread_ts": "1744119574.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "let's not do that on a Friday",
+  "ts": "1744121187.000000",
+  "thread_ts": "1744119574.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ok merged",
+  "ts": "1744121853.000000",
+  "thread_ts": "1744119574.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "dashboards look fine on my side",
+  "ts": "1744122298.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1744123223.000000",
+  "thread_ts": "1744123223.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "will do after lunch",
+  "ts": "1744124120.000000",
+  "thread_ts": "1744123223.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "nope, just slow",
+  "ts": "1744124343.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1744126249.000000",
+  "thread_ts": "1744126249.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "taking a look",
+  "ts": "1744126669.000000",
+  "thread_ts": "1744126249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1744127433.000000",
+  "thread_ts": "1744126249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "ok merged",
+  "ts": "1744128166.000000",
+  "thread_ts": "1744126249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "ticket filed",
+  "ts": "1744129002.000000",
+  "thread_ts": "1744129002.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "same as last week I think",
+  "ts": "1744129692.000000",
+  "thread_ts": "1744129002.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "<@U1015> We bumped inventory-service DB_POOL_MAX from 20 to 50 after the pool exhaustion alerts; PgBouncer default_pool_size raised to 60 to match.",
+  "ts": "1744130164.000000",
+  "thread_ts": "1744129002.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "ok merged",
+  "ts": "1744130332.000000",
+  "thread_ts": "1744129002.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "We should revisit the alert thresholds after the next game day.",
+  "ts": "1744131433.000000",
+  "thread_ts": "1744131433.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ack",
+  "ts": "1744132147.000000",
+  "thread_ts": "1744131433.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "we discussed this in the arch sync",
+  "ts": "1744132604.000000",
+  "thread_ts": "1744131433.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "can we sync after standup?",
+  "ts": "1744132681.000000",
+  "thread_ts": "1744131433.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "same as last week I think",
+  "ts": "1744133186.000000",
+  "thread_ts": "1744131433.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "is staging down again?",
+  "ts": "1744133326.000000",
+  "thread_ts": "1744131433.000000"
+ }
+]

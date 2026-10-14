@@ -1,0 +1,142 @@
+[
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1747041342.000000",
+  "thread_ts": "1747041342.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "done",
+  "ts": "1747041640.000000",
+  "thread_ts": "1747041342.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1747042492.000000",
+  "thread_ts": "1747041342.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "taking a look",
+  "ts": "1747042828.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1747043430.000000",
+  "thread_ts": "1747043430.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1747043547.000000",
+  "thread_ts": "1747043430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "thanks!",
+  "ts": "1747043926.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Infrastructure changes go through Terraform plans that need two approvals.",
+  "ts": "1747046324.000000",
+  "thread_ts": "1747046324.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "yeah that's the one",
+  "ts": "1747046446.000000",
+  "thread_ts": "1747046324.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1747046851.000000",
+  "thread_ts": "1747046324.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "see above",
+  "ts": "1747046966.000000",
+  "thread_ts": "1747046324.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "yeah that's the one",
+  "ts": "1747047560.000000",
+  "thread_ts": "1747046324.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1747048138.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1747048508.000000",
+  "thread_ts": "1747048508.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "see above",
+  "ts": "1747048991.000000",
+  "thread_ts": "1747048508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "hmm interesting",
+  "ts": "1747049417.000000",
+  "thread_ts": "1747048508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "rolling back just in case",
+  "ts": "1747049894.000000",
+  "thread_ts": "1747048508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "can we sync after standup?",
+  "ts": "1747050490.000000",
+  "thread_ts": "1747048508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "ack",
+  "ts": "1747050850.000000",
+  "thread_ts": "1747048508.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "will do after lunch",
+  "ts": "1747051083.000000"
+ }
+]

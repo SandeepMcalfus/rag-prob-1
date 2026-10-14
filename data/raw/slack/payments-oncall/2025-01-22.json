@@ -1,0 +1,187 @@
+[
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1737538222.000000",
+  "thread_ts": "1737538222.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ack",
+  "ts": "1737538272.000000",
+  "thread_ts": "1737538222.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "taking a look",
+  "ts": "1737538436.000000",
+  "thread_ts": "1737538222.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1737538534.000000",
+  "thread_ts": "1737538222.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1737538707.000000",
+  "thread_ts": "1737538222.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Infrastructure changes go through Terraform plans that need two approvals.",
+  "ts": "1737539580.000000",
+  "thread_ts": "1737539580.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can someone review my PR",
+  "ts": "1737540054.000000",
+  "thread_ts": "1737539580.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can we sync after standup?",
+  "ts": "1737540367.000000",
+  "thread_ts": "1737539580.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1737540448.000000",
+  "thread_ts": "1737539580.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1737541086.000000",
+  "thread_ts": "1737539580.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "thanks!",
+  "ts": "1737541430.000000",
+  "thread_ts": "1737541430.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "is staging down again?",
+  "ts": "1737542035.000000",
+  "thread_ts": "1737541430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "see above",
+  "ts": "1737542781.000000",
+  "thread_ts": "1737541430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "yeah that's the one",
+  "ts": "1737542961.000000",
+  "thread_ts": "1737541430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1737543515.000000",
+  "thread_ts": "1737541430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ok merged",
+  "ts": "1737544295.000000",
+  "thread_ts": "1737541430.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "done",
+  "ts": "1737545491.000000",
+  "thread_ts": "1737545491.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "<@U1014> retention on payments.events is 7 days, so replays older than that need the S3 archive",
+  "ts": "1737546347.000000",
+  "thread_ts": "1737545491.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "can someone review my PR",
+  "ts": "1737546687.000000",
+  "thread_ts": "1737545491.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1737547554.000000",
+  "thread_ts": "1737545491.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "rolling back just in case",
+  "ts": "1737547629.000000",
+  "thread_ts": "1737545491.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "yeah that's the one",
+  "ts": "1737547848.000000",
+  "thread_ts": "1737545491.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1737548279.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "nope, just slow",
+  "ts": "1737549560.000000",
+  "thread_ts": "1737549560.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1737550191.000000",
+  "thread_ts": "1737549560.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "see above",
+  "ts": "1737550457.000000"
+ }
+]

@@ -1,0 +1,140 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Capacity planning for the holiday peak starts in September every year.",
+  "ts": "1746523370.000000",
+  "thread_ts": "1746523370.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1746523402.000000",
+  "thread_ts": "1746523370.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "let's not do that on a Friday",
+  "ts": "1746524081.000000",
+  "thread_ts": "1746523370.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "Token signing has moved to RS256 with keys managed by Keycloak; services must validate tokens against the JWKS endpoint https://auth.acme.internal/realms/acme-prod/protocol/openid-connect/certs. HS256 shared-secret tokens are no longer accepted.",
+  "ts": "1746526781.000000",
+  "thread_ts": "1746526781.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "thanks!",
+  "ts": "1746526970.000000",
+  "thread_ts": "1746526781.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1746527698.000000",
+  "thread_ts": "1746526781.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1746530695.000000",
+  "thread_ts": "1746530695.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "can someone review my PR",
+  "ts": "1746530826.000000",
+  "thread_ts": "1746530695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ack",
+  "ts": "1746531679.000000",
+  "thread_ts": "1746530695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "ok merged",
+  "ts": "1746532465.000000",
+  "thread_ts": "1746530695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1746533200.000000",
+  "thread_ts": "1746530695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1746536843.000000",
+  "thread_ts": "1746536843.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1746537533.000000",
+  "thread_ts": "1746536843.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "same as last week I think",
+  "ts": "1746537727.000000",
+  "thread_ts": "1746536843.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "let's not do that on a Friday",
+  "ts": "1746537937.000000",
+  "thread_ts": "1746536843.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "will do after lunch",
+  "ts": "1746538159.000000",
+  "thread_ts": "1746536843.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ok merged",
+  "ts": "1746538910.000000",
+  "thread_ts": "1746538910.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "same as last week I think",
+  "ts": "1746539697.000000",
+  "thread_ts": "1746538910.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "thanks!",
+  "ts": "1746539982.000000",
+  "thread_ts": "1746538910.000000"
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "let's not do that on a Friday",
+  "ts": "1724924513.000000",
+  "thread_ts": "1724924513.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "nope, just slow",
+  "ts": "1724924785.000000",
+  "thread_ts": "1724924513.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "is staging down again?",
+  "ts": "1724924903.000000",
+  "thread_ts": "1724924513.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "dashboards look fine on my side",
+  "ts": "1724925471.000000",
+  "thread_ts": "1724924513.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "rolling back just in case",
+  "ts": "1724928245.000000",
+  "thread_ts": "1724928245.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "ticket filed",
+  "ts": "1724928540.000000",
+  "thread_ts": "1724928245.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "+1",
+  "ts": "1724929031.000000",
+  "thread_ts": "1724928245.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "same as last week I think",
+  "ts": "1724931117.000000",
+  "thread_ts": "1724931117.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "can someone review my PR",
+  "ts": "1724931709.000000",
+  "thread_ts": "1724931117.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "will do after lunch",
+  "ts": "1724932084.000000",
+  "thread_ts": "1724931117.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "we discussed this in the arch sync",
+  "ts": "1724932169.000000",
+  "thread_ts": "1724931117.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "done",
+  "ts": "1724932255.000000",
+  "thread_ts": "1724931117.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1724932858.000000",
+  "thread_ts": "1724931117.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "hmm interesting",
+  "ts": "1724935168.000000",
+  "thread_ts": "1724935168.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": ":eyes:",
+  "ts": "1724935865.000000",
+  "thread_ts": "1724935168.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "let's not do that on a Friday",
+  "ts": "1724936436.000000",
+  "thread_ts": "1724935168.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "see above",
+  "ts": "1724936794.000000",
+  "thread_ts": "1724935168.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "ack",
+  "ts": "1724937230.000000",
+  "thread_ts": "1724935168.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1724939933.000000",
+  "thread_ts": "1724939933.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "hmm interesting",
+  "ts": "1724940075.000000",
+  "thread_ts": "1724939933.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "taking a look",
+  "ts": "1724940723.000000",
+  "thread_ts": "1724939933.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "done",
+  "ts": "1724941166.000000",
+  "thread_ts": "1724939933.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1724942485.000000",
+  "thread_ts": "1724942485.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1724943251.000000",
+  "thread_ts": "1724942485.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "thanks!",
+  "ts": "1724943724.000000"
+ }
+]

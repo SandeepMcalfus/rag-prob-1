@@ -1,0 +1,146 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "taking a look",
+  "ts": "1753349573.000000",
+  "thread_ts": "1753349573.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "taking a look",
+  "ts": "1753349914.000000",
+  "thread_ts": "1753349573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "yeah that's the one",
+  "ts": "1753350118.000000",
+  "thread_ts": "1753349573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "will do after lunch",
+  "ts": "1753350403.000000",
+  "thread_ts": "1753349573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "can someone review my PR",
+  "ts": "1753350655.000000",
+  "thread_ts": "1753349573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "+1",
+  "ts": "1753350825.000000",
+  "thread_ts": "1753349573.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "we discussed this in the arch sync",
+  "ts": "1753350924.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1753353299.000000",
+  "thread_ts": "1753353299.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "let's not do that on a Friday",
+  "ts": "1753353381.000000",
+  "thread_ts": "1753353299.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1753353747.000000",
+  "thread_ts": "1753353747.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can we sync after standup?",
+  "ts": "1753354125.000000",
+  "thread_ts": "1753353747.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1753354888.000000",
+  "thread_ts": "1753354888.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "we discussed this in the arch sync",
+  "ts": "1753355288.000000",
+  "thread_ts": "1753354888.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can someone review my PR",
+  "ts": "1753355381.000000",
+  "thread_ts": "1753354888.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ack",
+  "ts": "1753355690.000000",
+  "thread_ts": "1753354888.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "thanks!",
+  "ts": "1753359218.000000",
+  "thread_ts": "1753359218.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1753359874.000000",
+  "thread_ts": "1753359218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "lgtm :+1:",
+  "ts": "1753360271.000000",
+  "thread_ts": "1753359218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "ticket filed",
+  "ts": "1753360444.000000",
+  "thread_ts": "1753359218.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "+1",
+  "ts": "1753360572.000000",
+  "thread_ts": "1753359218.000000"
+ }
+]

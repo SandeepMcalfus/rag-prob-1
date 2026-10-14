@@ -1,0 +1,50 @@
+Meeting: Platform Guild
+Date: 2025-03-28
+Attendees: Ken Tanaka, Marcus Lee, Arjun Mehta, Aisha Bello
+Transcript generated automatically - may contain errors.
+
+[00:00:31] Ken Tanaka: [crosstalk]
+[00:00:42] Ken Tanaka: [crosstalk] Infrastructure changes go through Terraform plans that need two approvals.
+[00:00:51] Marcus Lee: That's a good question, I'm not sure.
+[00:01:24] Arjun Mehta: Let me check the dashboard real quick. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:02:06] Marcus Lee: Uh, I'll share my screen. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:02:49] Aisha Bello: [crosstalk]
+[00:03:06] Arjun Mehta: Let's take that offline. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:03:55] Ken Tanaka: Let's take that offline.
+[00:04:34] Aisha Bello: Let's take that offline. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:05:11] Aisha Bello: Uh, I'll share my screen. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:05:54] Aisha Bello: Let me check the dashboard real quick. All services must expose Prometheus metrics on the /metrics path.
+[00:06:29] Ken Tanaka: Okay, any other updates?
+[00:06:52] Arjun Mehta: That's a good question, I'm not sure.
+[00:07:36] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:08:20] Aisha Bello: [crosstalk] Dependency upgrades are batched weekly by the platform bot.
+[00:09:12] Ken Tanaka: Let's take that offline.
+[00:09:53] Arjun Mehta: We had a similar discussion in Q3. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:10:40] Ken Tanaka: We're slightly over time so let's move on. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:11:31] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:12:13] Ken Tanaka: Okay, any other updates? Dependency upgrades are batched weekly by the platform bot.
+[00:12:57] Arjun Mehta: That's a good question, I'm not sure. Infrastructure changes go through Terraform plans that need two approvals.
+[00:13:23] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:14:09] Arjun Mehta: Can you put that in the notes? Dependency upgrades are batched weekly by the platform bot.
+[00:14:54] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:15:20] Ken Tanaka: I don't have context on that one, sorry. Capacity planning for the holiday peak starts in September every year.
+[00:16:00] Ken Tanaka: Can you put that in the notes? On-call handover happens every Monday at 10:00 local time.
+[00:16:25] Arjun Mehta: Can you put that in the notes? Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:17:11] Marcus Lee: Let's take that offline.
+[00:17:42] Marcus Lee: Can you put that in the notes?
+[00:18:05] Aisha Bello: Uh, I'll share my screen.
+[00:18:15] Arjun Mehta: Sorry, I was on mute.
+[00:19:01] Marcus Lee: Okay, any other updates?
+[00:19:35] Aisha Bello: We're slightly over time so let's move on.
+[00:20:29] Marcus Lee: Is that a hard requirement or a nice-to-have? Container images are built once and promoted across environments by digest.
+[00:20:40] Arjun Mehta: I think we covered that last time, right? Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:21:13] Aisha Bello: I don't have context on that one, sorry. Database schema migrations must be backward compatible for at least one release.
+[00:21:35] Aisha Bello: Let me check the dashboard real quick. Capacity planning for the holiday peak starts in September every year.
+[00:22:16] Aisha Bello: Okay, um, so let's get started. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:22:48] Arjun Mehta: Nothing from my side.
+[00:22:58] Ken Tanaka: [crosstalk]
+[00:23:33] Arjun Mehta: Makes sense to me. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:23:57] Aisha Bello: We had a similar discussion in Q3.
+[00:24:52] Marcus Lee: Is that a hard requirement or a nice-to-have? All services must expose Prometheus metrics on the /metrics path.
+[00:25:20] Ken Tanaka: Okay, um, so let's get started.
+[00:25:28] Aisha Bello: I think we covered that last time, right? Load tests should be coordinated in the platform channel so they do not trip alerts.

@@ -1,0 +1,58 @@
+Meeting: Weekly Standup
+Recorded on 17 Mar 2025
+Attendees: Sofia Marquez, Arjun Mehta, Priya Nair, Mateo Rossi
+Transcript generated automatically - may contain errors.
+
+[00:00:58] Priya Nair: Can everyone hear me? Yeah, okay. The dashboards were updated to show saturation alongside latency and errors.
+[00:01:17] Priya Nair: Sorry, I was on mute. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:01:41] Mateo Rossi: Let me check the dashboard real quick. Every service has a README that links to its dashboards and runbook.
+[00:02:16] Priya Nair: Okay, um, so let's get started. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:02:58] Sofia Marquez: Sorry, I was on mute.
+[00:03:43] Sofia Marquez: Sorry, I was on mute. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:03:57] Priya Nair: I don't have context on that one, sorry.
+[00:04:23] Mateo Rossi: Let me check the dashboard real quick. We should revisit the alert thresholds after the next game day.
+[00:05:01] Arjun Mehta: We're slightly over time so let's move on. Every service has a README that links to its dashboards and runbook.
+[00:05:59] Priya Nair: Let's take that offline. Container images are built once and promoted across environments by digest.
+[00:06:07] Arjun Mehta: I think we covered that last time, right? Postmortems are blameless and are published within five business days.
+[00:06:53] Mateo Rossi: Sorry, I was on mute. Container images are built once and promoted across environments by digest.
+[00:07:14] Mateo Rossi: Nothing from my side. All services must expose Prometheus metrics on the /metrics path.
+[00:07:36] Priya Nair: Is that a hard requirement or a nice-to-have? Postmortems are blameless and are published within five business days.
+[00:07:47] Mateo Rossi: Sorry, I was on mute. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:08:11] Sofia Marquez: Is that a hard requirement or a nice-to-have?
+[00:08:50] Priya Nair: [crosstalk] Feature work is paused during incident follow-up weeks until action items are closed.
+[00:09:04] Priya Nair: Sorry, I was on mute.
+[00:09:32] Mateo Rossi: We had a similar discussion in Q3. Infrastructure changes go through Terraform plans that need two approvals.
+[00:10:24] Arjun Mehta: [crosstalk]
+[00:10:59] Arjun Mehta: Okay, um, so let's get started. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:11:52] Mateo Rossi: Can you put that in the notes?
+[00:12:08] Priya Nair: Okay, any other updates? Container images are built once and promoted across environments by digest.
+[00:13:05] Priya Nair: Okay, any other updates? All services must expose Prometheus metrics on the /metrics path.
+[00:13:54] Sofia Marquez: Can you put that in the notes?
+[00:14:10] Arjun Mehta: Can you put that in the notes?
+[00:14:58] Sofia Marquez: Sorry, I was on mute.
+[00:15:38] Sofia Marquez: Let me check the dashboard real quick.
+[00:15:59] Sofia Marquez: Can you put that in the notes? Database schema migrations must be backward compatible for at least one release.
+[00:16:37] Arjun Mehta: [crosstalk] Postmortems are blameless and are published within five business days.
+[00:17:31] Priya Nair: Let's take that offline. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:17:44] Mateo Rossi: [crosstalk] Feature work is paused during incident follow-up weeks until action items are closed.
+[00:18:43] Arjun Mehta: Nothing from my side. All services must expose Prometheus metrics on the /metrics path.
+[00:19:02] Arjun Mehta: Okay, any other updates?
+[00:19:12] Arjun Mehta: Okay, any other updates? Service-level objectives are reviewed quarterly with product owners.
+[00:19:43] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:20:24] Priya Nair: Let me check the dashboard real quick. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:20:34] Sofia Marquez: Makes sense to me. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:21:22] Priya Nair: Can you put that in the notes? Postmortems are blameless and are published within five business days.
+[00:21:41] Mateo Rossi: Let me check the dashboard real quick. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:22:22] Priya Nair: Let me check the dashboard real quick.
+[00:22:44] Mateo Rossi: [crosstalk]
+[00:23:14] Mateo Rossi: Okay, any other updates?
+[00:23:22] Arjun Mehta: We had a similar discussion in Q3. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:24:02] Priya Nair: Is that a hard requirement or a nice-to-have? All services must expose Prometheus metrics on the /metrics path.
+[00:24:33] Sofia Marquez: We're slightly over time so let's move on. Staging mirrors production topology but runs at roughly one tenth of the capacity.
+[00:25:27] Sofia Marquez: Okay, any other updates?
+[00:26:05] Arjun Mehta: Uh, I'll share my screen.
+[00:26:39] Sofia Marquez: We're slightly over time so let's move on. Postmortems are blameless and are published within five business days.
+[00:27:24] Arjun Mehta: Let's take that offline.
+[00:27:34] Arjun Mehta: Can everyone hear me? Yeah, okay. All services must expose Prometheus metrics on the /metrics path.
+[00:28:15] Mateo Rossi: Okay, um, so let's get started.
+[00:29:09] Priya Nair: Sorry, I was on mute. On-call handover happens every Monday at 10:00 local time.

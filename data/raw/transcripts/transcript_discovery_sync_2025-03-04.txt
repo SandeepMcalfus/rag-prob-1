@@ -1,0 +1,70 @@
+Meeting: Discovery Team Sync
+Recorded on 4 Mar 2025
+Attendees: Arjun Mehta, Julia Novak, Daniel Okafor, Sofia Marquez
+Transcript generated automatically - may contain errors.
+
+[00:00:50] Daniel Okafor: I think we covered that last time, right?
+[00:01:26] Arjun Mehta: Nothing from my side.
+[00:01:34] Julia Novak: That's a good question, I'm not sure.
+[00:01:51] Arjun Mehta: Okay, any other updates?
+[00:02:15] Daniel Okafor: Let me check the dashboard real quick.
+[00:02:44] Sofia Marquez: Makes sense to me.
+[00:03:40] Sofia Marquez: Can everyone hear me? Yeah, okay.
+[00:04:03] Daniel Okafor: We're slightly over time so let's move on.
+[00:04:38] Arjun Mehta: I think we covered that last time, right? Infrastructure changes go through Terraform plans that need two approvals.
+[00:04:47] Arjun Mehta: Makes sense to me.
+[00:05:13] Daniel Okafor: [crosstalk] Feature work is paused during incident follow-up weeks until action items are closed.
+[00:05:54] Sofia Marquez: Uh, I'll share my screen. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:06:41] Sofia Marquez: We're slightly over time so let's move on. Postmortems are blameless and are published within five business days.
+[00:06:58] Julia Novak: We had a similar discussion in Q3.
+[00:07:35] Daniel Okafor: Okay, um, so let's get started.
+[00:08:12] Daniel Okafor: Uh, I'll share my screen. Container images are built once and promoted across environments by digest.
+[00:08:57] Daniel Okafor: That's a good question, I'm not sure.
+[00:09:34] Daniel Okafor: Is that a hard requirement or a nice-to-have?
+[00:10:12] Arjun Mehta: We're slightly over time so let's move on. Container images are built once and promoted across environments by digest.
+[00:10:56] Daniel Okafor: I don't have context on that one, sorry. Every service has a README that links to its dashboards and runbook.
+[00:11:21] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:12:16] Sofia Marquez: I don't have context on that one, sorry.
+[00:12:38] Daniel Okafor: We're slightly over time so let's move on.
+[00:13:25] Daniel Okafor: Let's take that offline.
+[00:14:13] Arjun Mehta: I don't have context on that one, sorry.
+[00:14:23] Daniel Okafor: Let's take that offline. Infrastructure changes go through Terraform plans that need two approvals.
+[00:14:51] Sofia Marquez: Uh, I'll share my screen. Database schema migrations must be backward compatible for at least one release.
+[00:15:22] Daniel Okafor: Uh, I'll share my screen. Dependency upgrades are batched weekly by the platform bot.
+[00:16:21] Daniel Okafor: Makes sense to me.
+[00:16:58] Arjun Mehta: Let's take that offline.
+[00:17:20] Sofia Marquez: [crosstalk] Every service has a README that links to its dashboards and runbook.
+[00:17:28] Daniel Okafor: I think we covered that last time, right? Service-level objectives are reviewed quarterly with product owners.
+[00:18:13] Sofia Marquez: [crosstalk] Feature work is paused during incident follow-up weeks until action items are closed.
+[00:18:51] Arjun Mehta: Makes sense to me.
+[00:19:13] Arjun Mehta: We had a similar discussion in Q3.
+[00:19:40] Sofia Marquez: I think we covered that last time, right? The dashboards were updated to show saturation alongside latency and errors.
+[00:20:07] Sofia Marquez: I think we covered that last time, right? Database schema migrations must be backward compatible for at least one release.
+[00:20:23] Liam Chen: Um, the search cluster migration is done: Search Service now runs on OpenSearch 2.11 (cluster os-search-prod) and es-search-prod is decommissioned.
+[00:20:55] Sofia Marquez: [crosstalk]
+[00:21:50] Sofia Marquez: Let's take that offline.
+[00:22:39] Arjun Mehta: Okay, any other updates?
+[00:23:04] Arjun Mehta: [crosstalk] Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:23:27] Daniel Okafor: I think we covered that last time, right?
+[00:23:58] Daniel Okafor: Can everyone hear me? Yeah, okay. Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.
+[00:24:13] Sofia Marquez: Sorry, I was on mute.
+[00:25:02] Arjun Mehta: Can everyone hear me? Yeah, okay.
+[00:25:25] Julia Novak: Is that a hard requirement or a nice-to-have? Database schema migrations must be backward compatible for at least one release.
+[00:25:46] Julia Novak: We're slightly over time so let's move on. Capacity planning for the holiday peak starts in September every year.
+[00:26:44] Arjun Mehta: Can you put that in the notes?
+[00:27:01] Julia Novak: Can you put that in the notes?
+[00:27:16] Arjun Mehta: Let's take that offline. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:28:01] Daniel Okafor: Okay, um, so let's get started. The dashboards were updated to show saturation alongside latency and errors.
+[00:28:17] Sofia Marquez: Nothing from my side. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:28:55] Sofia Marquez: [crosstalk] Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:29:31] Julia Novak: Can everyone hear me? Yeah, okay.
+[00:30:21] Daniel Okafor: We had a similar discussion in Q3.
+[00:30:30] Arjun Mehta: Okay, any other updates?
+[00:31:05] Arjun Mehta: Okay, any other updates?
+[00:31:41] Arjun Mehta: Sorry, I was on mute. Capacity planning for the holiday peak starts in September every year.
+[00:31:53] Julia Novak: Can you put that in the notes?
+[00:32:38] Daniel Okafor: Let me check the dashboard real quick.
+[00:33:19] Daniel Okafor: We had a similar discussion in Q3. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:33:33] Arjun Mehta: Is that a hard requirement or a nice-to-have? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:34:07] Daniel Okafor: We had a similar discussion in Q3. Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.
+[00:34:35] Sofia Marquez: Makes sense to me.

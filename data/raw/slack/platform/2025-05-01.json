@@ -1,0 +1,158 @@
+[
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1746091214.000000",
+  "thread_ts": "1746091214.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ack",
+  "ts": "1746091809.000000",
+  "thread_ts": "1746091214.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "will do after lunch",
+  "ts": "1746092156.000000",
+  "thread_ts": "1746091214.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "nope, just slow",
+  "ts": "1746092795.000000",
+  "thread_ts": "1746091214.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "can someone review my PR",
+  "ts": "1746093658.000000",
+  "thread_ts": "1746091214.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1746094289.000000",
+  "thread_ts": "1746091214.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "is staging down again?",
+  "ts": "1746094411.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1746097983.000000",
+  "thread_ts": "1746097983.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1746098308.000000",
+  "thread_ts": "1746097983.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1746098475.000000",
+  "thread_ts": "1746097983.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can someone review my PR",
+  "ts": "1746098524.000000",
+  "thread_ts": "1746097983.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "rolling back just in case",
+  "ts": "1746098624.000000",
+  "thread_ts": "1746097983.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1746099528.000000",
+  "thread_ts": "1746099528.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "dashboards look fine on my side",
+  "ts": "1746100324.000000",
+  "thread_ts": "1746099528.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": ":eyes:",
+  "ts": "1746100624.000000",
+  "thread_ts": "1746099528.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "same as last week I think",
+  "ts": "1746101148.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1746103850.000000",
+  "thread_ts": "1746103850.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "will do after lunch",
+  "ts": "1746104435.000000",
+  "thread_ts": "1746103850.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1746104879.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "dashboards look fine on my side",
+  "ts": "1746107754.000000",
+  "thread_ts": "1746107754.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "hmm interesting",
+  "ts": "1746108401.000000",
+  "thread_ts": "1746107754.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1746109080.000000",
+  "thread_ts": "1746107754.000000"
+ }
+]

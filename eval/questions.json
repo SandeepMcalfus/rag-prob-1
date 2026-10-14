@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "dir-01",
+  "category": "direct",
+  "question": "What port does the payment service listen on?",
+  "answer": "8443",
+  "relevant": [
+   [
+    "arch_payment-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "8443"
+   ]
+  ]
+ },
+ {
+  "id": "dir-02",
+  "category": "direct",
+  "question": "Which team owns the inventory service?",
+  "answer": "Supply Chain",
+  "relevant": [
+   [
+    "arch_inventory-service",
+    "svc_inventory-service",
+    "svc_inventory-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "supply chain"
+   ]
+  ]
+ },
+ {
+  "id": "dir-03",
+  "category": "direct",
+  "question": "What is the on-call Slack channel for the shipping service?",
+  "answer": "#logistics-oncall",
+  "relevant": [
+   [
+    "svc_shipping-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "#logistics-oncall"
+   ]
+  ]
+ },
+ {
+  "id": "dir-04",
+  "category": "direct",
+  "question": "What language is the billing service written in?",
+  "answer": "Scala 2.13 on Akka HTTP",
+  "relevant": [
+   [
+    "arch_billing-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "scala 2.13"
+   ]
+  ]
+ },
+ {
+  "id": "dir-05",
+  "category": "direct",
+  "question": "What health check endpoint does the auth service expose?",
+  "answer": "/health/ready",
+  "relevant": [
+   [
+    "svc_auth-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "/health/ready"
+   ]
+  ]
+ },
+ {
+  "id": "dir-06",
+  "category": "direct",
+  "question": "Who is the tech lead for the search service?",
+  "answer": "Liam Chen",
+  "relevant": [
+   [
+    "arch_search-service",
+    "svc_search-service",
+    "svc_search-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "liam chen"
+   ]
+  ]
+ },
+ {
+  "id": "dir-07",
+  "category": "direct",
+  "question": "What port does the order service run on?",
+  "answer": "8400",
+  "relevant": [
+   [
+    "arch_order-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "8400"
+   ]
+  ]
+ },
+ {
+  "id": "dir-08",
+  "category": "direct",
+  "question": "What is the ArgoCD application name for the notification service?",
+  "answer": "notification-service-prod",
+  "relevant": [
+   [
+    "svc_notification-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "notification-service-prod"
+   ]
+  ]
+ },
+ {
+  "id": "dir-09",
+  "category": "direct",
+  "question": "Which team owns the API gateway?",
+  "answer": "Platform Edge",
+  "relevant": [
+   [
+    "arch_api-gateway",
+    "svc_api-gateway",
+    "svc_api-gateway",
+    "faq_gateway"
+   ]
+  ],
+  "keywords": [
+   [
+    "platform edge"
+   ]
+  ]
+ },
+ {
+  "id": "dir-10",
+  "category": "direct",
+  "question": "What language is the checkout service implemented in?",
+  "answer": "Node.js 20 with NestJS",
+  "relevant": [
+   [
+    "arch_checkout-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "node.js 20",
+    "nestjs"
+   ]
+  ]
+ },
+ {
+  "id": "dir-11",
+  "category": "direct",
+  "question": "What database does the billing service use?",
+  "answer": "PostgreSQL billing-db",
+  "relevant": [
+   [
+    "arch_billing-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "billing-db"
+   ]
+  ]
+ },
+ {
+  "id": "dir-12",
+  "category": "direct",
+  "question": "What is the health endpoint for the billing service?",
+  "answer": "/status",
+  "relevant": [
+   [
+    "svc_billing-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "/status"
+   ]
+  ]
+ },
+ {
+  "id": "dir-13",
+  "category": "direct",
+  "question": "Which Helm chart is used for the user profile service?",
+  "answer": "charts/user-profile-service",
+  "relevant": [
+   [
+    "svc_user-profile-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "charts/user-profile-service"
+   ]
+  ]
+ },
+ {
+  "id": "dir-14",
+  "category": "direct",
+  "question": "What warehouse does the analytics pipeline load data into?",
+  "answer": "Snowflake (ACME_ANALYTICS)",
+  "relevant": [
+   [
+    "arch_analytics-pipeline",
+    "arch_data_platform"
+   ]
+  ],
+  "keywords": [
+   [
+    "snowflake"
+   ]
+  ]
+ },
+ {
+  "id": "dir-15",
+  "category": "direct",
+  "question": "What is the on-call channel for the auth service?",
+  "answer": "#identity-oncall",
+  "relevant": [
+   [
+    "svc_auth-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "#identity-oncall"
+   ]
+  ]
+ },
+ {
+  "id": "sem-01",
+  "category": "semantic",
+  "question": "How do we deploy the payment service?",
+  "answer": "Merge to main; CI bumps the image tag in charts/payment-service values-prod.yaml; sync ArgoCD app payment-service-prod (canary via Argo Rollouts).",
+  "relevant": [
+   [
+    "svc_payment-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "payment-service-prod"
+   ]
+  ]
+ },
+ {
+  "id": "sem-02",
+  "category": "semantic",
+  "question": "What happens if Redis goes down?",
+  "answer": "Checkout falls back to reading carts from checkout-db (higher latency, no data loss); the API gateway rate limiter fails open.",
+  "relevant": [
+   [
+    "runbook_redis_outage"
+   ]
+  ],
+  "keywords": [
+   [
+    "fails open"
+   ],
+   [
+    "checkout-db"
+   ]
+  ]
+ },
+ {
+  "id": "sem-03",
+  "category": "semantic",
+  "question": "How do I troubleshoot database connection failures?",
+  "answer": "Check PgBouncer SHOW POOLS for waiting clients, pool exhaustion, security groups, Vault credential rotation, long-running transactions.",
+  "relevant": [
+   [
+    "runbook_db_connection_failures"
+   ]
+  ],
+  "keywords": [
+   [
+    "show pools"
+   ]
+  ]
+ },
+ {
+  "id": "sem-04",
+  "category": "semantic",
+  "question": "Which authentication mechanism does the order service use?",
+  "answer": "mTLS between services plus OAuth2 client-credentials tokens.",
+  "relevant": [
+   [
+    "arch_order-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "mtls"
+   ],
+   [
+    "client-credentials"
+   ]
+  ]
+ },
+ {
+  "id": "sem-05",
+  "category": "semantic",
+  "question": "Customers say they never received their confirmation emails. Where should I start looking?",
+  "answer": "Check SendGrid/Twilio status pages, then consumer lag of the notification workers; retries run for 24 hours.",
+  "relevant": [
+   [
+    "runbook_notification-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "sendgrid"
+   ]
+  ]
+ },
+ {
+  "id": "sem-06",
+  "category": "semantic",
+  "question": "Nobody can sign in to the app right now. What should on-call check?",
+  "answer": "Keycloak realm acme-prod health and identity-db connection count; restarting auth-service pods is safe.",
+  "relevant": [
+   [
+    "runbook_auth-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "acme-prod"
+   ]
+  ]
+ },
+ {
+  "id": "sem-07",
+  "category": "semantic",
+  "question": "Purchases never complete and stay stuck after checkout. What's the fix?",
+  "answer": "Orders stuck in PENDING: check the outbox relay and restart the outbox-relay deployment.",
+  "relevant": [
+   [
+    "runbook_order-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "outbox-relay"
+   ]
+  ]
+ },
+ {
+  "id": "sem-08",
+  "category": "semantic",
+  "question": "Product search keeps showing items that were removed hours ago. How do we fix it?",
+  "answer": "Run the reindex-products Airflow job and check the change feed consumer lag.",
+  "relevant": [
+   [
+    "runbook_search-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "reindex-products"
+   ]
+  ]
+ },
+ {
+  "id": "sem-09",
+  "category": "semantic",
+  "question": "Our card processor is responding really slowly. Should I restart the payment pods?",
+  "answer": "No. Check PSP status and the circuit breaker; traffic fails over to the secondary PSP automatically.",
+  "relevant": [
+   [
+    "runbook_payment-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "circuit breaker"
+   ]
+  ]
+ },
+ {
+  "id": "sem-10",
+  "category": "semantic",
+  "question": "A partner is getting lots of 'too many requests' errors. What do I check?",
+  "answer": "Whether the client hits the per-client rate limit; temporary overrides live in the Kong consumer config.",
+  "relevant": [
+   [
+    "runbook_api-gateway"
+   ]
+  ],
+  "keywords": [
+   [
+    "kong consumer"
+   ]
+  ]
+ },
+ {
+  "id": "sem-11",
+  "category": "semantic",
+  "question": "A pod keeps restarting in a loop after a release. What's the procedure?",
+  "answer": "kubectl describe / logs --previous, check OOMKilled, roll back via ArgoCD history.",
+  "relevant": [
+   [
+    "runbook_k8s_crashloop"
+   ]
+  ],
+  "keywords": [
+   [
+    "--previous"
+   ]
+  ]
+ },
+ {
+  "id": "sem-12",
+  "category": "semantic",
+  "question": "How do I undo a bad production release?",
+  "answer": "Roll back with ArgoCD history to the previous synced revision.",
+  "relevant": [
+   [
+    "faq_deploy",
+    "runbook_k8s_crashloop"
+   ]
+  ],
+  "keywords": [
+   [
+    "argocd history"
+   ]
+  ]
+ },
+ {
+  "id": "sem-13",
+  "category": "semantic",
+  "question": "Finance says last night's invoices are missing. How do I regenerate them?",
+  "answer": "Check invoice job logs in Airflow and rerun with the --backfill flag.",
+  "relevant": [
+   [
+    "runbook_billing-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "--backfill"
+   ]
+  ]
+ },
+ {
+  "id": "sem-14",
+  "category": "semantic",
+  "question": "Warehouse stock numbers don't match reality. Which job repairs that?",
+  "answer": "The reconcile-stock job.",
+  "relevant": [
+   [
+    "runbook_inventory-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "reconcile-stock"
+   ]
+  ]
+ },
+ {
+  "id": "sem-15",
+  "category": "semantic",
+  "question": "What is the process when a major outage starts?",
+  "answer": "Declare in #incidents, assign IC/comms/scribe, severity, 30-minute updates for SEV1, postmortem in 5 days.",
+  "relevant": [
+   [
+    "runbook_incident_process"
+   ]
+  ],
+  "keywords": [
+   [
+    "#incidents"
+   ]
+  ]
+ },
+ {
+  "id": "tem-01",
+  "category": "temporal",
+  "question": "Does the payment service currently use Redis?",
+  "answer": "No. Redis was dropped in February 2025; payment sessions are in PostgreSQL table payment_sessions. The 2024-01 architecture PDF and the undated runbook are outdated.",
+  "relevant": [
+   [
+    "transcript_payments_arch_sync_2025-02-12"
+   ]
+  ],
+  "keywords": [
+   [
+    "payment_sessions"
+   ]
+  ],
+  "current": "transcript_payments_arch_sync_2025-02-12",
+  "stale": [
+   "arch_payment-service",
+   "runbook_payment-service"
+  ]
+ },
+ {
+  "id": "tem-02",
+  "category": "temporal",
+  "question": "How are access tokens signed today?",
+  "answer": "RS256 with Keycloak-managed keys, validated via the JWKS endpoint (since May 2025). HS256 is no longer accepted.",
+  "relevant": [
+   [
+    "slack_identity_2025-05-06"
+   ]
+  ],
+  "keywords": [
+   [
+    "rs256"
+   ]
+  ],
+  "current": "slack_identity_2025-05-06",
+  "stale": [
+   "auth_token_design",
+   "faq_auth"
+  ]
+ },
+ {
+  "id": "tem-03",
+  "category": "temporal",
+  "question": "How do we deploy the order service now?",
+  "answer": "Via ArgoCD: sync order-service-prod. The Jenkins job order-deploy is disabled (since Nov 2024).",
+  "relevant": [
+   [
+    "order_service_argocd_migration"
+   ]
+  ],
+  "keywords": [
+   [
+    "order-service-prod"
+   ]
+  ],
+  "current": "order_service_argocd_migration",
+  "stale": [
+   "runbook_order-service"
+  ]
+ },
+ {
+  "id": "tem-04",
+  "category": "temporal",
+  "question": "What search engine does the search service run on currently?",
+  "answer": "OpenSearch 2.11 (os-search-prod), since March 2025.",
+  "relevant": [
+   [
+    "transcript_discovery_sync_2025-03-04"
+   ]
+  ],
+  "keywords": [
+   [
+    "opensearch"
+   ]
+  ],
+  "current": "transcript_discovery_sync_2025-03-04",
+  "stale": [
+   "arch_search-service"
+  ]
+ },
+ {
+  "id": "tem-05",
+  "category": "temporal",
+  "question": "Which message broker does the notification service use now?",
+  "answer": "Kafka, topic notifications.v2 (since Sept 2024).",
+  "relevant": [
+   [
+    "slack_engagement_2024-09-17"
+   ]
+  ],
+  "keywords": [
+   [
+    "notifications.v2"
+   ]
+  ],
+  "current": "slack_engagement_2024-09-17",
+  "stale": [
+   "svc_notification-service"
+  ]
+ },
+ {
+  "id": "tem-06",
+  "category": "temporal",
+  "question": "What is the current database connection pool size for inventory-service?",
+  "answer": "50 (raised from 20 in April 2025; PgBouncer default_pool_size 60).",
+  "relevant": [
+   [
+    "slack_supply-chain_2025-04-08"
+   ]
+  ],
+  "keywords": [
+   [
+    "20 to 50"
+   ]
+  ],
+  "current": "slack_supply-chain_2025-04-08",
+  "stale": [
+   "runbook_inventory-service"
+  ]
+ },
+ {
+  "id": "tem-07",
+  "category": "temporal",
+  "question": "What is the current per-client rate limit on the API gateway?",
+  "answer": "1500 requests per second (raised from 1000 in June 2025).",
+  "relevant": [
+   [
+    "transcript_edge_planning_2025-06-10"
+   ]
+  ],
+  "keywords": [
+   [
+    "1500"
+   ]
+  ],
+  "current": "transcript_edge_planning_2025-06-10",
+  "stale": [
+   "faq_gateway"
+  ]
+ },
+ {
+  "id": "tem-08",
+  "category": "temporal",
+  "question": "What timeout does checkout use when calling the payment service?",
+  "answer": "3 seconds with a single retry (changed Jan 2025 from 5s/2 retries).",
+  "relevant": [
+   [
+    "svc_checkout-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "3 second"
+   ]
+  ],
+  "current": "svc_checkout-service",
+  "stale": [
+   "arch_checkout-service"
+  ]
+ },
+ {
+  "id": "tem-09",
+  "category": "temporal",
+  "question": "Which database engine is the user profile service running on today?",
+  "answer": "Aurora MySQL 8 (migration completed Dec 2024).",
+  "relevant": [
+   [
+    "slack_customer-data_2024-12-02"
+   ]
+  ],
+  "keywords": [
+   [
+    "aurora"
+   ]
+  ],
+  "current": "slack_customer-data_2024-12-02",
+  "stale": [
+   "arch_user-profile-service"
+  ]
+ },
+ {
+  "id": "tem-10",
+  "category": "temporal",
+  "question": "What time does the nightly invoice generation job run?",
+  "answer": "04:30 UTC (moved from 02:00 UTC in July 2025).",
+  "relevant": [
+   [
+    "transcript_finance_eng_sync_2025-07-21"
+   ]
+  ],
+  "keywords": [
+   [
+    "04:30"
+   ]
+  ],
+  "current": "transcript_finance_eng_sync_2025-07-21",
+  "stale": [
+   "runbook_billing-service"
+  ]
+ },
+ {
+  "id": "tem-11",
+  "category": "temporal",
+  "question": "When did the payment service stop using Redis?",
+  "answer": "February 2025 (Payments Architecture Sync, 2025-02-12).",
+  "relevant": [
+   [
+    "transcript_payments_arch_sync_2025-02-12"
+   ]
+  ],
+  "keywords": [
+   [
+    "stopped using redis"
+   ]
+  ],
+  "current": "transcript_payments_arch_sync_2025-02-12",
+  "stale": [
+   "arch_payment-service",
+   "runbook_payment-service"
+  ]
+ },
+ {
+  "id": "tem-12",
+  "category": "temporal",
+  "question": "Is the Jenkins order-deploy job still used?",
+  "answer": "No, it is disabled; deploys go through ArgoCD since Nov 2024.",
+  "relevant": [
+   [
+    "order_service_argocd_migration"
+   ]
+  ],
+  "keywords": [
+   [
+    "disabled"
+   ]
+  ],
+  "current": "order_service_argocd_migration",
+  "stale": [
+   "runbook_order-service"
+  ]
+ },
+ {
+  "id": "tem-13",
+  "category": "temporal",
+  "question": "Is the es-search-prod Elasticsearch cluster still running?",
+  "answer": "No, it was decommissioned after the OpenSearch migration (March 2025).",
+  "relevant": [
+   [
+    "transcript_discovery_sync_2025-03-04"
+   ]
+  ],
+  "keywords": [
+   [
+    "decommissioned"
+   ]
+  ],
+  "current": "transcript_discovery_sync_2025-03-04",
+  "stale": [
+   "arch_search-service"
+  ]
+ },
+ {
+  "id": "tem-14",
+  "category": "temporal",
+  "question": "Do services still accept HS256-signed tokens?",
+  "answer": "No. Since May 2025 only RS256 tokens validated via JWKS are accepted.",
+  "relevant": [
+   [
+    "slack_identity_2025-05-06"
+   ]
+  ],
+  "keywords": [
+   [
+    "no longer accepted"
+   ]
+  ],
+  "current": "slack_identity_2025-05-06",
+  "stale": [
+   "auth_token_design",
+   "faq_auth"
+  ]
+ },
+ {
+  "id": "tem-15",
+  "category": "temporal",
+  "question": "Has the API gateway rate limit always been 1500 requests per second?",
+  "answer": "No. It was 1000 rps per client (FAQ, Jan 2024) and was raised to 1500 in June 2025.",
+  "relevant": [
+   [
+    "transcript_edge_planning_2025-06-10"
+   ],
+   [
+    "faq_gateway"
+   ]
+  ],
+  "keywords": [
+   [
+    "1500"
+   ],
+   [
+    "1000"
+   ]
+  ],
+  "current": "transcript_edge_planning_2025-06-10",
+  "stale": [
+   "faq_gateway"
+  ]
+ },
+ {
+  "id": "mul-01",
+  "category": "multi_doc",
+  "question": "What language is the payment service written in, and how do we deploy it?",
+  "answer": "Java 17/Spring Boot 3; ArgoCD sync of payment-service-prod.",
+  "relevant": [
+   [
+    "arch_payment-service"
+   ],
+   [
+    "svc_payment-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "java 17"
+   ],
+   [
+    "payment-service-prod"
+   ]
+  ]
+ },
+ {
+  "id": "mul-02",
+  "category": "multi_doc",
+  "question": "Which team owns the order service and what is the current way to deploy it?",
+  "answer": "Orders team; ArgoCD app order-service-prod.",
+  "relevant": [
+   [
+    "arch_order-service",
+    "svc_order-service"
+   ],
+   [
+    "order_service_argocd_migration"
+   ]
+  ],
+  "keywords": [
+   [
+    "orders team"
+   ],
+   [
+    "order-service-prod"
+   ]
+  ]
+ },
+ {
+  "id": "mul-03",
+  "category": "multi_doc",
+  "question": "What port does the auth service listen on and how are its tokens signed today?",
+  "answer": "9000; RS256 via Keycloak JWKS.",
+  "relevant": [
+   [
+    "arch_auth-service"
+   ],
+   [
+    "slack_identity_2025-05-06"
+   ]
+  ],
+  "keywords": [
+   [
+    "9000"
+   ],
+   [
+    "rs256"
+   ]
+  ]
+ },
+ {
+  "id": "mul-04",
+  "category": "multi_doc",
+  "question": "If Redis goes down, what happens to checkout, and which team owns checkout?",
+  "answer": "Carts fall back to checkout-db; owned by Checkout Experience.",
+  "relevant": [
+   [
+    "runbook_redis_outage"
+   ],
+   [
+    "arch_checkout-service",
+    "svc_checkout-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "checkout-db"
+   ],
+   [
+    "checkout experience"
+   ]
+  ]
+ },
+ {
+  "id": "mul-05",
+  "category": "multi_doc",
+  "question": "What sits between inventory-service and its database, and what is its current pool size?",
+  "answer": "PgBouncer; DB_POOL_MAX 50.",
+  "relevant": [
+   [
+    "arch_inventory-service"
+   ],
+   [
+    "slack_supply-chain_2025-04-08"
+   ]
+  ],
+  "keywords": [
+   [
+    "pgbouncer"
+   ],
+   [
+    "20 to 50"
+   ]
+  ]
+ },
+ {
+  "id": "mul-06",
+  "category": "multi_doc",
+  "question": "Which on-call channel handles notification issues and which topic does the service consume now?",
+  "answer": "#engagement-oncall; Kafka notifications.v2.",
+  "relevant": [
+   [
+    "svc_notification-service"
+   ],
+   [
+    "slack_engagement_2024-09-17"
+   ]
+  ],
+  "keywords": [
+   [
+    "#engagement-oncall"
+   ],
+   [
+    "notifications.v2"
+   ]
+  ]
+ },
+ {
+  "id": "mul-07",
+  "category": "multi_doc",
+  "question": "Who is tech lead of the search service and what engine does it run on now?",
+  "answer": "Liam Chen; OpenSearch 2.11.",
+  "relevant": [
+   [
+    "arch_search-service",
+    "svc_search-service",
+    "svc_search-service"
+   ],
+   [
+    "transcript_discovery_sync_2025-03-04"
+   ]
+  ],
+  "keywords": [
+   [
+    "liam chen"
+   ],
+   [
+    "opensearch"
+   ]
+  ]
+ },
+ {
+  "id": "mul-08",
+  "category": "multi_doc",
+  "question": "What language is the billing service written in and when does its invoice job run now?",
+  "answer": "Scala 2.13; 04:30 UTC.",
+  "relevant": [
+   [
+    "arch_billing-service"
+   ],
+   [
+    "transcript_finance_eng_sync_2025-07-21"
+   ]
+  ],
+  "keywords": [
+   [
+    "scala"
+   ],
+   [
+    "04:30"
+   ]
+  ]
+ },
+ {
+  "id": "mul-09",
+  "category": "multi_doc",
+  "question": "Which services use Redis, and what happens to rate limiting if Redis fails?",
+  "answer": "checkout-service (carts) and api-gateway (rate-limit counters); the rate limiter fails open.",
+  "relevant": [
+   [
+    "faq_platform",
+    "arch_platform_overview"
+   ],
+   [
+    "runbook_redis_outage"
+   ]
+  ],
+  "keywords": [
+   [
+    "rate-limit counters"
+   ],
+   [
+    "fails open"
+   ]
+  ]
+ },
+ {
+  "id": "mul-10",
+  "category": "multi_doc",
+  "question": "How does the checkout service authenticate requests and what timeout does it use for payment calls?",
+  "answer": "JWTs validated at gateway, forwarded as X-User-Context; 3 second timeout.",
+  "relevant": [
+   [
+    "arch_checkout-service"
+   ],
+   [
+    "svc_checkout-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "x-user-context"
+   ],
+   [
+    "3 second"
+   ]
+  ]
+ },
+ {
+  "id": "mul-11",
+  "category": "multi_doc",
+  "question": "What is the user profile service's health endpoint and which DB engine does it run on now?",
+  "answer": "/actuator/health; Aurora MySQL 8.",
+  "relevant": [
+   [
+    "svc_user-profile-service"
+   ],
+   [
+    "slack_customer-data_2024-12-02"
+   ]
+  ],
+  "keywords": [
+   [
+    "/actuator/health"
+   ],
+   [
+    "aurora"
+   ]
+  ]
+ },
+ {
+  "id": "mul-12",
+  "category": "multi_doc",
+  "question": "Which team owns the API gateway and what is its current rate limit?",
+  "answer": "Platform Edge; 1500 rps per client.",
+  "relevant": [
+   [
+    "arch_api-gateway",
+    "svc_api-gateway",
+    "faq_gateway"
+   ],
+   [
+    "transcript_edge_planning_2025-06-10"
+   ]
+  ],
+  "keywords": [
+   [
+    "platform edge"
+   ],
+   [
+    "1500"
+   ]
+  ]
+ },
+ {
+  "id": "mul-13",
+  "category": "multi_doc",
+  "question": "What port does the payment service use and where are payment sessions stored now?",
+  "answer": "8443; PostgreSQL payment_sessions table.",
+  "relevant": [
+   [
+    "arch_payment-service"
+   ],
+   [
+    "transcript_payments_arch_sync_2025-02-12"
+   ]
+  ],
+  "keywords": [
+   [
+    "8443"
+   ],
+   [
+    "payment_sessions"
+   ]
+  ]
+ },
+ {
+  "id": "mul-14",
+  "category": "multi_doc",
+  "question": "What is the shipping service written in and what should I check when label generation fails?",
+  "answer": "Python 3.10/Django; carrier API status and labelgen queue depth.",
+  "relevant": [
+   [
+    "arch_shipping-service"
+   ],
+   [
+    "runbook_shipping-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "python 3.10"
+   ],
+   [
+    "labelgen queue"
+   ]
+  ]
+ },
+ {
+  "id": "mul-15",
+  "category": "multi_doc",
+  "question": "How do I deploy the notification service and which provider sends its emails?",
+  "answer": "Sync ArgoCD app notification-service-prod; SendGrid.",
+  "relevant": [
+   [
+    "svc_notification-service"
+   ],
+   [
+    "arch_notification-service",
+    "runbook_notification-service"
+   ]
+  ],
+  "keywords": [
+   [
+    "notification-service-prod"
+   ],
+   [
+    "sendgrid"
+   ]
+  ]
+ },
+ {
+  "id": "spa-01",
+  "category": "sparse",
+  "question": "How many days before expiry does the TLS certificate alert fire?",
+  "answer": "21 days.",
+  "relevant": [
+   [
+    "slack_platform_2024-10-21"
+   ]
+  ],
+  "keywords": [
+   [
+    "21 days"
+   ]
+  ]
+ },
+ {
+  "id": "spa-02",
+  "category": "sparse",
+  "question": "What is the feature flag for enforcing 3-D Secure?",
+  "answer": "pay.3ds.enforce (off in staging).",
+  "relevant": [
+   [
+    "transcript_payments_standup_2024-10-03"
+   ]
+  ],
+  "keywords": [
+   [
+    "pay.3ds.enforce"
+   ]
+  ]
+ },
+ {
+  "id": "spa-03",
+  "category": "sparse",
+  "question": "When are staging database snapshots refreshed?",
+  "answer": "Every Sunday at 03:00 UTC.",
+  "relevant": [
+   [
+    "slack_platform_2024-07-30"
+   ]
+  ],
+  "keywords": [
+   [
+    "sunday at 03:00"
+   ]
+  ]
+ },
+ {
+  "id": "spa-04",
+  "category": "sparse",
+  "question": "Where are the k6 load test scripts kept?",
+  "answer": "perf-tests repo, scenarios/checkout.",
+  "relevant": [
+   [
+    "transcript_perf_review_2024-08-19"
+   ]
+  ],
+  "keywords": [
+   [
+    "perf-tests"
+   ]
+  ]
+ },
+ {
+  "id": "spa-05",
+  "category": "sparse",
+  "question": "How long before PagerDuty escalates to the secondary on-call?",
+  "answer": "15 minutes without an ack.",
+  "relevant": [
+   [
+    "slack_incidents_2024-08-05"
+   ]
+  ],
+  "keywords": [
+   [
+    "15 minutes without an ack"
+   ]
+  ]
+ },
+ {
+  "id": "spa-06",
+  "category": "sparse",
+  "question": "Which Grafana dashboard should I use for checkout?",
+  "answer": "CHK-OVERVIEW.",
+  "relevant": [
+   [
+    "slack_checkout-oncall_2024-11-14"
+   ]
+  ],
+  "keywords": [
+   [
+    "chk-overview"
+   ]
+  ]
+ },
+ {
+  "id": "spa-07",
+  "category": "sparse",
+  "question": "What is the maximum avatar upload size?",
+  "answer": "5 MB (larger returns 413).",
+  "relevant": [
+   [
+    "slack_customer-data_2024-09-03"
+   ]
+  ],
+  "keywords": [
+   [
+    "5 mb"
+   ]
+  ]
+ },
+ {
+  "id": "spa-08",
+  "category": "sparse",
+  "question": "How often are database credentials rotated?",
+  "answer": "Every 90 days by Vault (secret/data/db-creds).",
+  "relevant": [
+   [
+    "transcript_security_review_2024-11-07"
+   ]
+  ],
+  "keywords": [
+   [
+    "90 days"
+   ]
+  ]
+ },
+ {
+  "id": "spa-09",
+  "category": "sparse",
+  "question": "When does the deploy freeze start?",
+  "answer": "Friday 14:00 IST until Monday.",
+  "relevant": [
+   [
+    "slack_releases_2024-12-13"
+   ]
+  ],
+  "keywords": [
+   [
+    "14:00 ist"
+   ]
+  ]
+ },
+ {
+  "id": "spa-10",
+  "category": "sparse",
+  "question": "What canary percentage and duration does Argo Rollouts use?",
+  "answer": "10 percent of traffic for 20 minutes.",
+  "relevant": [
+   [
+    "transcript_release_retro_2024-06-27"
+   ]
+  ],
+  "keywords": [
+   [
+    "10 percent"
+   ]
+  ]
+ },
+ {
+  "id": "spa-11",
+  "category": "sparse",
+  "question": "How long is data retained on the payments.events Kafka topic?",
+  "answer": "7 days; older replays need the S3 archive.",
+  "relevant": [
+   [
+    "slack_payments-oncall_2025-01-22"
+   ]
+  ],
+  "keywords": [
+   [
+    "7 days"
+   ]
+  ]
+ },
+ {
+  "id": "spa-12",
+  "category": "sparse",
+  "question": "What Spark version does the nightly analytics batch use?",
+  "answer": "Spark 3.4 on EMR (analytics-batch).",
+  "relevant": [
+   [
+    "transcript_data_platform_sync_2024-09-12"
+   ]
+  ],
+  "keywords": [
+   [
+    "spark 3.4"
+   ]
+  ]
+ },
+ {
+  "id": "spa-13",
+  "category": "sparse",
+  "question": "What renders shipping labels?",
+  "answer": "labelgen, which outputs PDF via wkhtmltopdf.",
+  "relevant": [
+   [
+    "slack_logistics_2024-06-11"
+   ]
+  ],
+  "keywords": [
+   [
+    "wkhtmltopdf"
+   ]
+  ]
+ },
+ {
+  "id": "spa-14",
+  "category": "sparse",
+  "question": "How long until an unconfirmed inventory reservation expires?",
+  "answer": "15 minutes.",
+  "relevant": [
+   [
+    "transcript_supply_chain_sync_2024-05-15"
+   ]
+  ],
+  "keywords": [
+   [
+    "expire after 15 minutes"
+   ]
+  ]
+ },
+ {
+  "id": "spa-15",
+  "category": "sparse",
+  "question": "Which WAF rule set does the gateway run?",
+  "answer": "OWASP CRS 4 in blocking mode.",
+  "relevant": [
+   [
+    "slack_edge-oncall_2025-02-27"
+   ]
+  ],
+  "keywords": [
+   [
+    "owasp crs 4"
+   ]
+  ]
+ },
+ {
+  "id": "no_-01",
+  "category": "no_answer",
+  "question": "What GPU instance type does the recommendation service use?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-02",
+  "category": "no_answer",
+  "question": "When is the payment service's next PCI DSS audit?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-03",
+  "category": "no_answer",
+  "question": "Which CDN provider serves our static assets?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-04",
+  "category": "no_answer",
+  "question": "What is the monthly AWS cost of the search cluster?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-05",
+  "category": "no_answer",
+  "question": "What is the database connection pool size for the shipping service?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-06",
+  "category": "no_answer",
+  "question": "Which mobile app version introduced biometric login?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-07",
+  "category": "no_answer",
+  "question": "What uptime SLA do we promise enterprise customers for the billing API?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-08",
+  "category": "no_answer",
+  "question": "Who approved moving the notification service to Kafka?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-09",
+  "category": "no_answer",
+  "question": "What eviction policy is configured on checkout-redis?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-10",
+  "category": "no_answer",
+  "question": "What port does the fraud-detection service listen on?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-11",
+  "category": "no_answer",
+  "question": "How do we publish the iOS app to the App Store?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-12",
+  "category": "no_answer",
+  "question": "What is the disaster recovery RTO for orders-db?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-13",
+  "category": "no_answer",
+  "question": "Which vendor provides our SIEM?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-14",
+  "category": "no_answer",
+  "question": "What programming language is the loyalty-points service written in?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ },
+ {
+  "id": "no_-15",
+  "category": "no_answer",
+  "question": "What is the on-call channel for the machine learning platform team?",
+  "answer": "Not in the knowledge base.",
+  "relevant": [],
+  "keywords": []
+ }
+]

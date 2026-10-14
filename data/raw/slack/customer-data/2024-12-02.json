@@ -1,0 +1,187 @@
+[
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "lgtm :+1:",
+  "ts": "1733133259.000000",
+  "thread_ts": "1733133259.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1733133779.000000",
+  "thread_ts": "1733133259.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1733134467.000000",
+  "thread_ts": "1733133259.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "Remember to tag pull requests with the owning team so reviews get routed correctly.",
+  "ts": "1733138024.000000",
+  "thread_ts": "1733138024.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "can someone review my PR",
+  "ts": "1733138691.000000",
+  "thread_ts": "1733138024.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1733139087.000000",
+  "thread_ts": "1733138024.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "taking a look",
+  "ts": "1733139226.000000",
+  "thread_ts": "1733138024.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "can someone review my PR",
+  "ts": "1733139746.000000",
+  "thread_ts": "1733138024.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "let's not do that on a Friday",
+  "ts": "1733140297.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ticket filed",
+  "ts": "1733143649.000000",
+  "thread_ts": "1733143649.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "let's not do that on a Friday",
+  "ts": "1733144329.000000",
+  "thread_ts": "1733143649.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "ticket filed",
+  "ts": "1733144654.000000",
+  "thread_ts": "1733143649.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "dashboards look fine on my side",
+  "ts": "1733144775.000000",
+  "thread_ts": "1733143649.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "nope, just slow",
+  "ts": "1733145525.000000",
+  "thread_ts": "1733143649.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1733148695.000000",
+  "thread_ts": "1733148695.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "is staging down again?",
+  "ts": "1733148780.000000",
+  "thread_ts": "1733148695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can someone review my PR",
+  "ts": "1733149530.000000",
+  "thread_ts": "1733148695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "hmm interesting",
+  "ts": "1733150321.000000",
+  "thread_ts": "1733148695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "can we sync after standup?",
+  "ts": "1733151015.000000",
+  "thread_ts": "1733148695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "let's not do that on a Friday",
+  "ts": "1733151648.000000",
+  "thread_ts": "1733148695.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1733152165.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ok merged",
+  "ts": "1733152625.000000",
+  "thread_ts": "1733152625.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "hmm interesting",
+  "ts": "1733153516.000000",
+  "thread_ts": "1733152625.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1733153703.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "profile-db migration to Aurora MySQL 8 completed tonight; User Profile Service is fully on Aurora now and the MySQL 5.7 hosts are scheduled for teardown.",
+  "ts": "1733155492.000000",
+  "thread_ts": "1733155492.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "lgtm :+1:",
+  "ts": "1733155819.000000",
+  "thread_ts": "1733155492.000000"
+ }
+]

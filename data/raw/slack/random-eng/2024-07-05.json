@@ -1,0 +1,274 @@
+[
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1720171467.000000",
+  "thread_ts": "1720171467.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ack",
+  "ts": "1720172159.000000",
+  "thread_ts": "1720171467.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "see above",
+  "ts": "1720172544.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "dashboards look fine on my side",
+  "ts": "1720173764.000000",
+  "thread_ts": "1720173764.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "let's not do that on a Friday",
+  "ts": "1720174529.000000",
+  "thread_ts": "1720173764.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1720177429.000000",
+  "thread_ts": "1720177429.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "dashboards look fine on my side",
+  "ts": "1720177800.000000",
+  "thread_ts": "1720177429.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": ":eyes:",
+  "ts": "1720178174.000000",
+  "thread_ts": "1720177429.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "done",
+  "ts": "1720178667.000000",
+  "thread_ts": "1720177429.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "nope, just slow",
+  "ts": "1720178902.000000",
+  "thread_ts": "1720177429.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "we discussed this in the arch sync",
+  "ts": "1720180249.000000",
+  "thread_ts": "1720180249.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ok merged",
+  "ts": "1720180354.000000",
+  "thread_ts": "1720180249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1720180752.000000",
+  "thread_ts": "1720180249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1720181540.000000",
+  "thread_ts": "1720180249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": ":eyes:",
+  "ts": "1720182250.000000",
+  "thread_ts": "1720180249.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ticket filed",
+  "ts": "1720182480.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "hmm interesting",
+  "ts": "1720184547.000000",
+  "thread_ts": "1720184547.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "will do after lunch",
+  "ts": "1720185328.000000",
+  "thread_ts": "1720184547.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "nope, just slow",
+  "ts": "1720185732.000000",
+  "thread_ts": "1720184547.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1720186139.000000",
+  "thread_ts": "1720184547.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "can we sync after standup?",
+  "ts": "1720186422.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "same as last week I think",
+  "ts": "1720189059.000000",
+  "thread_ts": "1720189059.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "hmm interesting",
+  "ts": "1720189439.000000",
+  "thread_ts": "1720189059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "+1",
+  "ts": "1720189887.000000",
+  "thread_ts": "1720189059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "hmm interesting",
+  "ts": "1720190234.000000",
+  "thread_ts": "1720189059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1720190899.000000",
+  "thread_ts": "1720189059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1720191433.000000",
+  "thread_ts": "1720189059.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "hmm interesting",
+  "ts": "1720195251.000000",
+  "thread_ts": "1720195251.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "same as last week I think",
+  "ts": "1720195431.000000",
+  "thread_ts": "1720195251.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1720195746.000000",
+  "thread_ts": "1720195251.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "dashboards look fine on my side",
+  "ts": "1720196615.000000",
+  "thread_ts": "1720195251.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1720199714.000000",
+  "thread_ts": "1720199714.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can someone review my PR",
+  "ts": "1720199927.000000",
+  "thread_ts": "1720199714.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "see above",
+  "ts": "1720200580.000000",
+  "thread_ts": "1720199714.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "+1",
+  "ts": "1720201224.000000",
+  "thread_ts": "1720199714.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "+1",
+  "ts": "1720201326.000000",
+  "thread_ts": "1720199714.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1720202957.000000",
+  "thread_ts": "1720202957.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "done",
+  "ts": "1720203000.000000",
+  "thread_ts": "1720202957.000000"
+ }
+]

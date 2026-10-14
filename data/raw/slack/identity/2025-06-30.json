@@ -1,0 +1,237 @@
+[
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1751276824.000000",
+  "thread_ts": "1751276824.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "is staging down again?",
+  "ts": "1751277452.000000",
+  "thread_ts": "1751276824.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "dashboards look fine on my side",
+  "ts": "1751277792.000000",
+  "thread_ts": "1751276824.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "ok merged",
+  "ts": "1751278391.000000",
+  "thread_ts": "1751276824.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1751279476.000000",
+  "thread_ts": "1751279476.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1751280108.000000",
+  "thread_ts": "1751279476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "+1",
+  "ts": "1751280914.000000",
+  "thread_ts": "1751279476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "hmm interesting",
+  "ts": "1751281755.000000",
+  "thread_ts": "1751279476.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1751282185.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": ":eyes:",
+  "ts": "1751283800.000000",
+  "thread_ts": "1751283800.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "done",
+  "ts": "1751284561.000000",
+  "thread_ts": "1751283800.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "see above",
+  "ts": "1751285234.000000",
+  "thread_ts": "1751283800.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "All services must expose Prometheus metrics on the /metrics path.",
+  "ts": "1751288128.000000",
+  "thread_ts": "1751288128.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "will do after lunch",
+  "ts": "1751288549.000000",
+  "thread_ts": "1751288128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": ":eyes:",
+  "ts": "1751289150.000000",
+  "thread_ts": "1751288128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ack",
+  "ts": "1751289519.000000",
+  "thread_ts": "1751288128.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1751290853.000000",
+  "thread_ts": "1751290853.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1751290941.000000",
+  "thread_ts": "1751290853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": ":eyes:",
+  "ts": "1751291467.000000",
+  "thread_ts": "1751290853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "yeah that's the one",
+  "ts": "1751292084.000000",
+  "thread_ts": "1751290853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1751292685.000000",
+  "thread_ts": "1751290853.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "+1",
+  "ts": "1751293182.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1751293924.000000",
+  "thread_ts": "1751293924.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "can we sync after standup?",
+  "ts": "1751294129.000000",
+  "thread_ts": "1751293924.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "taking a look",
+  "ts": "1751294652.000000",
+  "thread_ts": "1751294652.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "can we sync after standup?",
+  "ts": "1751294802.000000",
+  "thread_ts": "1751294652.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "can we sync after standup?",
+  "ts": "1751294923.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1751296605.000000",
+  "thread_ts": "1751296605.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "see above",
+  "ts": "1751296861.000000",
+  "thread_ts": "1751296605.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "rolling back just in case",
+  "ts": "1751297446.000000",
+  "thread_ts": "1751296605.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1751297621.000000",
+  "thread_ts": "1751296605.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "dashboards look fine on my side",
+  "ts": "1751298239.000000",
+  "thread_ts": "1751296605.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "nope, just slow",
+  "ts": "1751298691.000000"
+ }
+]

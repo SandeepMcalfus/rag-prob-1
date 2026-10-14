@@ -1,0 +1,7 @@
+<!DOCTYPE html><html><head><title>Authentication FAQ</title><meta name="last-updated" content="2024-02-20">
+<script>window.analytics && analytics.page();</script><style>.nav{color:#333}</style></head><body>
+<div class="nav">Home | Engineering | Wiki | Search | Log out</div>
+<h1>Authentication FAQ</h1><div class='qa'><h3>How are access tokens signed?</h3><p>Access tokens are JWTs signed with HS256 using a shared secret distributed via Vault.</p></div>
+<div class='qa'><h3>How long do access tokens last?</h3><p>15 minutes. Refresh tokens last 7 days.</p></div>
+<div class='qa'><h3>Which authentication mechanism does service-to-service traffic use?</h3><p>Mutual TLS (mTLS), with OAuth2 client-credentials tokens for services that need caller identity.</p></div>
+<footer>© ACME Corp · Internal wiki · Report an issue with this page</footer></body></html>

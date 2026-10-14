@@ -1,0 +1,274 @@
+[
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "The dashboards were updated to show saturation alongside latency and errors.",
+  "ts": "1753524130.000000",
+  "thread_ts": "1753524130.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1753524750.000000",
+  "thread_ts": "1753524130.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ok merged",
+  "ts": "1753525459.000000",
+  "thread_ts": "1753524130.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Dependency upgrades are batched weekly by the platform bot.",
+  "ts": "1753527743.000000",
+  "thread_ts": "1753527743.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "taking a look",
+  "ts": "1753528413.000000",
+  "thread_ts": "1753527743.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "done",
+  "ts": "1753529310.000000",
+  "thread_ts": "1753527743.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "nope, just slow",
+  "ts": "1753529438.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "same as last week I think",
+  "ts": "1753532241.000000",
+  "thread_ts": "1753532241.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1753532889.000000",
+  "thread_ts": "1753532241.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "rolling back just in case",
+  "ts": "1753533562.000000",
+  "thread_ts": "1753532241.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "we discussed this in the arch sync",
+  "ts": "1753534125.000000",
+  "thread_ts": "1753532241.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "see above",
+  "ts": "1753534452.000000",
+  "thread_ts": "1753532241.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1753536759.000000",
+  "thread_ts": "1753536759.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can we sync after standup?",
+  "ts": "1753537081.000000",
+  "thread_ts": "1753536759.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "hmm interesting",
+  "ts": "1753537216.000000",
+  "thread_ts": "1753536759.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": ":eyes:",
+  "ts": "1753537665.000000",
+  "thread_ts": "1753536759.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "we discussed this in the arch sync",
+  "ts": "1753537938.000000",
+  "thread_ts": "1753536759.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "same as last week I think",
+  "ts": "1753538076.000000",
+  "thread_ts": "1753536759.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "let's not do that on a Friday",
+  "ts": "1753541081.000000",
+  "thread_ts": "1753541081.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "will do after lunch",
+  "ts": "1753541961.000000",
+  "thread_ts": "1753541081.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "see above",
+  "ts": "1753542684.000000",
+  "thread_ts": "1753541081.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "thanks!",
+  "ts": "1753543263.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1753543812.000000",
+  "thread_ts": "1753543812.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": ":eyes:",
+  "ts": "1753544232.000000",
+  "thread_ts": "1753543812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "yeah that's the one",
+  "ts": "1753544660.000000",
+  "thread_ts": "1753543812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "will do after lunch",
+  "ts": "1753544954.000000",
+  "thread_ts": "1753543812.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": ":eyes:",
+  "ts": "1753548606.000000",
+  "thread_ts": "1753548606.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ok merged",
+  "ts": "1753549174.000000",
+  "thread_ts": "1753548606.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "+1",
+  "ts": "1753549822.000000",
+  "thread_ts": "1753548606.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1753549902.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Staging mirrors production topology but runs at roughly one tenth of the capacity.",
+  "ts": "1753550571.000000",
+  "thread_ts": "1753550571.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "lgtm :+1:",
+  "ts": "1753551261.000000",
+  "thread_ts": "1753550571.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "rolling back just in case",
+  "ts": "1753551496.000000",
+  "thread_ts": "1753550571.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "same as last week I think",
+  "ts": "1753551719.000000",
+  "thread_ts": "1753550571.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "let's not do that on a Friday",
+  "ts": "1753552144.000000",
+  "thread_ts": "1753550571.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "same as last week I think",
+  "ts": "1753552461.000000",
+  "thread_ts": "1753550571.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Feature work is paused during incident follow-up weeks until action items are closed.",
+  "ts": "1753553644.000000",
+  "thread_ts": "1753553644.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "is staging down again?",
+  "ts": "1753554437.000000",
+  "thread_ts": "1753553644.000000"
+ }
+]

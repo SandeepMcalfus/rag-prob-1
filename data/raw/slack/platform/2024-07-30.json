@@ -1,0 +1,175 @@
+[
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1722331851.000000",
+  "thread_ts": "1722331851.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "see above",
+  "ts": "1722332667.000000",
+  "thread_ts": "1722331851.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": ":eyes:",
+  "ts": "1722333410.000000",
+  "thread_ts": "1722331851.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "rolling back just in case",
+  "ts": "1722333879.000000",
+  "thread_ts": "1722331851.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Tracing uses OpenTelemetry with a ten percent head-based sampling rate.",
+  "ts": "1722335308.000000",
+  "thread_ts": "1722335308.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "taking a look",
+  "ts": "1722336206.000000",
+  "thread_ts": "1722335308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "hmm interesting",
+  "ts": "1722336642.000000",
+  "thread_ts": "1722335308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "<@U1002> staging DB snapshots refresh every Sunday at 03:00 UTC, so don't rely on staging data persisting past the weekend",
+  "ts": "1722337527.000000",
+  "thread_ts": "1722335308.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "lgtm :+1:",
+  "ts": "1722338210.000000",
+  "thread_ts": "1722338210.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1722338734.000000",
+  "thread_ts": "1722338210.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "is staging down again?",
+  "ts": "1722339447.000000",
+  "thread_ts": "1722338210.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "will do after lunch",
+  "ts": "1722339958.000000",
+  "thread_ts": "1722338210.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "Flaky integration tests in CI are tracked on the quality board; please do not just re-run them.",
+  "ts": "1722343030.000000",
+  "thread_ts": "1722343030.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "done",
+  "ts": "1722343901.000000",
+  "thread_ts": "1722343030.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "Container images are built once and promoted across environments by digest.",
+  "ts": "1722347078.000000",
+  "thread_ts": "1722347078.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "+1",
+  "ts": "1722347141.000000",
+  "thread_ts": "1722347078.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "we discussed this in the arch sync",
+  "ts": "1722347333.000000",
+  "thread_ts": "1722347078.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "same as last week I think",
+  "ts": "1722347583.000000",
+  "thread_ts": "1722347078.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "ack",
+  "ts": "1722347978.000000",
+  "thread_ts": "1722347078.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "lgtm :+1:",
+  "ts": "1722348359.000000",
+  "thread_ts": "1722347078.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "can we sync after standup?",
+  "ts": "1722349357.000000",
+  "thread_ts": "1722349357.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1722349674.000000",
+  "thread_ts": "1722349357.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1722349994.000000",
+  "thread_ts": "1722349357.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1722350457.000000"
+ }
+]

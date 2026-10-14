@@ -1,0 +1,216 @@
+[
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "ticket filed",
+  "ts": "1729503687.000000",
+  "thread_ts": "1729503687.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "+1",
+  "ts": "1729504067.000000",
+  "thread_ts": "1729503687.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ok merged",
+  "ts": "1729504609.000000",
+  "thread_ts": "1729503687.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "lgtm :+1:",
+  "ts": "1729505307.000000",
+  "thread_ts": "1729503687.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "ok merged",
+  "ts": "1729505512.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "Structured JSON logging is mandatory; free-text logs are dropped by the log pipeline.",
+  "ts": "1729506361.000000",
+  "thread_ts": "1729506361.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "+1",
+  "ts": "1729507127.000000",
+  "thread_ts": "1729506361.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "nope, just slow",
+  "ts": "1729507223.000000",
+  "thread_ts": "1729506361.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1729507509.000000",
+  "thread_ts": "1729506361.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "Secrets must never be committed; the pre-commit hook scans for high-entropy strings.",
+  "ts": "1729508150.000000",
+  "thread_ts": "1729508150.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "can someone review my PR",
+  "ts": "1729508242.000000",
+  "thread_ts": "1729508150.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "let's not do that on a Friday",
+  "ts": "1729508910.000000",
+  "thread_ts": "1729508150.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "rolling back just in case",
+  "ts": "1729509661.000000",
+  "thread_ts": "1729508150.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "same as last week I think",
+  "ts": "1729510300.000000",
+  "thread_ts": "1729508150.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ack",
+  "ts": "1729511161.000000",
+  "thread_ts": "1729508150.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "+1",
+  "ts": "1729513237.000000",
+  "thread_ts": "1729513237.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "nope, just slow",
+  "ts": "1729513384.000000",
+  "thread_ts": "1729513237.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "can someone review my PR",
+  "ts": "1729515350.000000",
+  "thread_ts": "1729515350.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "yeah that's the one",
+  "ts": "1729516166.000000",
+  "thread_ts": "1729515350.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "see above",
+  "ts": "1729517003.000000",
+  "thread_ts": "1729515350.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "can we sync after standup?",
+  "ts": "1729517033.000000",
+  "thread_ts": "1729515350.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "can we sync after standup?",
+  "ts": "1729518243.000000",
+  "thread_ts": "1729518243.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "will do after lunch",
+  "ts": "1729518865.000000",
+  "thread_ts": "1729518243.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "<@U1009> fyi the TLS cert expiry alert fires 21 days before expiry now, not 7",
+  "ts": "1729519426.000000",
+  "thread_ts": "1729518243.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "same as last week I think",
+  "ts": "1729519587.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1729521189.000000",
+  "thread_ts": "1729521189.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "nope, just slow",
+  "ts": "1729521903.000000",
+  "thread_ts": "1729521189.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1729522531.000000",
+  "thread_ts": "1729521189.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1008",
+  "text": "ack",
+  "ts": "1729523157.000000",
+  "thread_ts": "1729521189.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "we discussed this in the arch sync",
+  "ts": "1729523742.000000"
+ }
+]

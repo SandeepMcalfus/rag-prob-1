@@ -1,0 +1,49 @@
+Meeting: Supply Chain Sync
+Recorded on 15 May 2024
+Attendees: Hannah Weber, Marcus Lee, Omar Haddad, Grace Kim
+Transcript generated automatically - may contain errors.
+
+[00:01:03] Marcus Lee: We're slightly over time so let's move on. Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:01:26] Omar Haddad: Okay, um, so let's get started.
+[00:02:16] Omar Haddad: Is that a hard requirement or a nice-to-have? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:02:36] Grace Kim: I don't have context on that one, sorry.
+[00:03:34] Marcus Lee: Okay, any other updates? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:04:13] Hannah Weber: Nothing from my side.
+[00:04:21] Omar Haddad: Makes sense to me. Postmortems are blameless and are published within five business days.
+[00:04:55] Omar Haddad: Uh, I'll share my screen.
+[00:05:52] Hannah Weber: Okay, um, so let's get started. We should revisit the alert thresholds after the next game day.
+[00:06:16] Marcus Lee: Can everyone hear me? Yeah, okay.
+[00:07:14] Grace Kim: Nothing from my side. Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:08:11] Grace Kim: That's a good question, I'm not sure.
+[00:08:24] Marcus Lee: Can you put that in the notes? Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:09:04] Marcus Lee: Let's take that offline. Every service has a README that links to its dashboards and runbook.
+[00:09:49] Hannah Weber: I don't have context on that one, sorry.
+[00:10:43] Marcus Lee: Can everyone hear me? Yeah, okay. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:10:58] Grace Kim: Can everyone hear me? Yeah, okay. All services must expose Prometheus metrics on the /metrics path.
+[00:11:13] Hannah Weber: Let's take that offline.
+[00:11:31] Grace Kim: [crosstalk] Service-level objectives are reviewed quarterly with product owners.
+[00:11:49] Omar Haddad: Let's take that offline.
+[00:12:14] Hannah Weber: Okay, um, so let's get started. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:12:39] Hannah Weber: Can you put that in the notes?
+[00:13:23] Hannah Weber: Okay, any other updates? Container images are built once and promoted across environments by digest.
+[00:13:34] Grace Kim: Uh, I'll share my screen. Service-level objectives are reviewed quarterly with product owners.
+[00:14:31] Hannah Weber: I think we covered that last time, right? Tracing uses OpenTelemetry with a ten percent head-based sampling rate.
+[00:14:39] Grace Kim: Um, also inventory reservations expire after 15 minutes if checkout doesn't confirm.
+[00:14:49] Hannah Weber: We're slightly over time so let's move on. Container images are built once and promoted across environments by digest.
+[00:15:21] Marcus Lee: Uh, I'll share my screen.
+[00:15:31] Grace Kim: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:16:25] Omar Haddad: Can you put that in the notes?
+[00:17:09] Omar Haddad: I think we covered that last time, right? The dashboards were updated to show saturation alongside latency and errors.
+[00:17:28] Marcus Lee: Nothing from my side.
+[00:18:01] Hannah Weber: We had a similar discussion in Q3.
+[00:18:58] Omar Haddad: Makes sense to me. Load tests should be coordinated in the platform channel so they do not trip alerts.
+[00:19:06] Omar Haddad: Is that a hard requirement or a nice-to-have? Infrastructure changes go through Terraform plans that need two approvals.
+[00:20:01] Marcus Lee: We had a similar discussion in Q3. Dependency upgrades are batched weekly by the platform bot.
+[00:20:58] Marcus Lee: We're slightly over time so let's move on. Secrets must never be committed; the pre-commit hook scans for high-entropy strings.
+[00:21:07] Marcus Lee: [crosstalk]
+[00:21:59] Hannah Weber: Makes sense to me. Every service has a README that links to its dashboards and runbook.
+[00:22:54] Omar Haddad: I think we covered that last time, right? Feature work is paused during incident follow-up weeks until action items are closed.
+[00:23:28] Grace Kim: Can everyone hear me? Yeah, okay.
+[00:23:45] Omar Haddad: Sorry, I was on mute. Feature work is paused during incident follow-up weeks until action items are closed.
+[00:24:26] Grace Kim: [crosstalk] Remember to tag pull requests with the owning team so reviews get routed correctly.
+[00:25:11] Hannah Weber: Nothing from my side. Every service has a README that links to its dashboards and runbook.

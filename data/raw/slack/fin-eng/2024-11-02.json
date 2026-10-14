@@ -1,0 +1,337 @@
+[
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Postmortems are blameless and are published within five business days.",
+  "ts": "1730541125.000000",
+  "thread_ts": "1730541125.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "can someone review my PR",
+  "ts": "1730541200.000000",
+  "thread_ts": "1730541125.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1730541800.000000",
+  "thread_ts": "1730541125.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1730542343.000000",
+  "thread_ts": "1730541125.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "ok merged",
+  "ts": "1730542588.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1010",
+  "text": "Every service has a README that links to its dashboards and runbook.",
+  "ts": "1730544934.000000",
+  "thread_ts": "1730544934.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "hmm interesting",
+  "ts": "1730545570.000000",
+  "thread_ts": "1730544934.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1017",
+  "text": "will do after lunch",
+  "ts": "1730546093.000000",
+  "thread_ts": "1730544934.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1007",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1730546724.000000",
+  "thread_ts": "1730544934.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "+1",
+  "ts": "1730546823.000000",
+  "thread_ts": "1730544934.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "lgtm :+1:",
+  "ts": "1730550615.000000",
+  "thread_ts": "1730550615.000000",
+  "reply_count": 3
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": ":eyes:",
+  "ts": "1730550945.000000",
+  "thread_ts": "1730550615.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "ticket filed",
+  "ts": "1730551711.000000",
+  "thread_ts": "1730550615.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "lgtm :+1:",
+  "ts": "1730551830.000000",
+  "thread_ts": "1730550615.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "done",
+  "ts": "1730552085.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "yeah that's the one",
+  "ts": "1730555974.000000",
+  "thread_ts": "1730555974.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "lgtm :+1:",
+  "ts": "1730556782.000000",
+  "thread_ts": "1730555974.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "ok merged",
+  "ts": "1730558158.000000",
+  "thread_ts": "1730558158.000000",
+  "reply_count": 1
+ },
+ {
+  "type": "message",
+  "user": "U1003",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1730558356.000000",
+  "thread_ts": "1730558158.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "ticket filed",
+  "ts": "1730558656.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1730561802.000000",
+  "thread_ts": "1730561802.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "done",
+  "ts": "1730561886.000000",
+  "thread_ts": "1730561802.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "taking a look",
+  "ts": "1730562126.000000",
+  "thread_ts": "1730561802.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "false alarm, it was the synthetic check",
+  "ts": "1730562840.000000",
+  "thread_ts": "1730561802.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": "will do after lunch",
+  "ts": "1730562898.000000",
+  "thread_ts": "1730561802.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1013",
+  "text": ":eyes:",
+  "ts": "1730563768.000000",
+  "thread_ts": "1730561802.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "we discussed this in the arch sync",
+  "ts": "1730563841.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1009",
+  "text": "Service-level objectives are reviewed quarterly with product owners.",
+  "ts": "1730564399.000000",
+  "thread_ts": "1730564399.000000",
+  "reply_count": 4
+ },
+ {
+  "type": "message",
+  "user": "U1000",
+  "text": "yeah that's the one",
+  "ts": "1730565240.000000",
+  "thread_ts": "1730564399.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1006",
+  "text": "yeah that's the one",
+  "ts": "1730565947.000000",
+  "thread_ts": "1730564399.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "let's not do that on a Friday",
+  "ts": "1730566207.000000",
+  "thread_ts": "1730564399.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1001",
+  "text": "anyone else seeing slow CI today?",
+  "ts": "1730567056.000000",
+  "thread_ts": "1730564399.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "Database schema migrations must be backward compatible for at least one release.",
+  "ts": "1730570777.000000",
+  "thread_ts": "1730570777.000000",
+  "reply_count": 2
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "rolling back just in case",
+  "ts": "1730571090.000000",
+  "thread_ts": "1730570777.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": "rolling back just in case",
+  "ts": "1730571722.000000",
+  "thread_ts": "1730570777.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "we discussed this in the arch sync",
+  "ts": "1730574252.000000",
+  "thread_ts": "1730574252.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "dashboards look fine on my side",
+  "ts": "1730574421.000000",
+  "thread_ts": "1730574252.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1012",
+  "text": "same as last week I think",
+  "ts": "1730574857.000000",
+  "thread_ts": "1730574252.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": ":eyes:",
+  "ts": "1730575258.000000",
+  "thread_ts": "1730574252.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "not sure, ask in the platform channel",
+  "ts": "1730576063.000000",
+  "thread_ts": "1730574252.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1015",
+  "text": "we discussed this in the arch sync",
+  "ts": "1730576916.000000",
+  "thread_ts": "1730574252.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1002",
+  "text": "thanks!",
+  "ts": "1730578886.000000",
+  "thread_ts": "1730578886.000000",
+  "reply_count": 5
+ },
+ {
+  "type": "message",
+  "user": "U1011",
+  "text": "dashboards look fine on my side",
+  "ts": "1730579046.000000",
+  "thread_ts": "1730578886.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1014",
+  "text": ":eyes:",
+  "ts": "1730579726.000000",
+  "thread_ts": "1730578886.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1005",
+  "text": "nope, just slow",
+  "ts": "1730580517.000000",
+  "thread_ts": "1730578886.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1016",
+  "text": "dashboards look fine on my side",
+  "ts": "1730580580.000000",
+  "thread_ts": "1730578886.000000"
+ },
+ {
+  "type": "message",
+  "user": "U1004",
+  "text": "can someone review my PR",
+  "ts": "1730581480.000000",
+  "thread_ts": "1730578886.000000"
+ }
+]
